@@ -1,0 +1,901 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,1492,14,0.000000,1119.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Martin Lambie-Nairn,1567,13,0.000000,1266.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Lord William Hamilton,1594,17,0.000000,1734.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Eliezer Calo,1611,23,0.000000,1108.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Denis Poix-Daude,1492,16,0.000000,1236.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Michael Mylonas,1642,14,0.000000,1027.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,François Carquet,1513,10,0.000000,1009.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Wenqing He,1376,18,0.000000,1528.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Gomorrah,1580,20,0.000000,1530.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,1652,14,0.000000,1019.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Guy Avenia,1613,11,0.000000,1022.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Wuilmen Bravo,1573,14,0.000000,1049.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,1519,13,0.000000,991.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Shinzu,1634,12,0.000000,1021.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Luwamo Garcia,1517,17,0.000000,1017.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jared Carter,1451,17,0.000000,1527.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Carlos Moorhead,1624,12,0.000000,1082.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,New York News,1492,15,0.000000,1031.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,1594,15,0.000000,1975.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Ydnekatchew Tessema,1670,13,0.000000,1067.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Chunguan Zhang,1631,16,0.000000,1980.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Sander van de Hoef,1453,15,0.000000,1023.4
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Katie Hurley,1636,16,0.000000,1016.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Viktor Kruglov,1585,14,0.000000,1023.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Dorian Owen,1550,21,0.000000,3055.6
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Wong Chin Hung,1551,13,0.000000,1020.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Amber Brian,1292,13,0.000000,1029.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Taylor Beck,1479,15,0.000000,1383.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Pierre Langlois,1560,12,0.000000,1670.6
+llm_judge,adjudicate,openrouter/openai/gpt-4o,John Fenn,1436,14,0.000000,1019.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Fábio A L de Souza,1564,15,0.000000,2036.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,George Samuel Parsons,1624,12,0.000000,1531.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,David Poeppel,1462,17,0.000000,1018.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Mission Terra,1541,10,0.000000,1038.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Birgitta Larsson,1348,14,0.000000,1249.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,1536,14,0.000000,932.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,1581,13,0.000000,773.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Manuel Garber,1588,13,0.000000,794.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Gladys Liu,1603,11,0.000000,1264.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,1566,13,0.000000,1102.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,1601,11,0.000000,1075.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jack Collison,1530,15,0.000000,781.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Tomasz Jodłowiec,1463,14,0.000000,1095.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Fritz Renner,1584,20,0.000000,977.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Molly M Fuentes,1475,13,0.000000,1240.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Erol Sayan,1589,16,0.000000,856.4
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Thomas McCollum,1526,13,0.000000,876.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jeff Reinert,1648,17,0.000000,1046.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Anatolii Hirshfeld,1604,24,0.000000,1000.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,MiSafra LeSayfa,1647,12,0.000000,1080.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,1624,14,0.000000,753.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,1562,10,0.000000,1826.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Keith Mackie,1570,15,0.000000,816.4
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Charles William Eliot,1521,18,0.000000,752.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,1644,12,0.000000,924.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,1685,15,0.000000,1018.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Sandi L. Navarro,1492,19,0.000000,1020.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Mateo Cassierra,1558,16,0.000000,1048.4
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Johann Friedrich Agricola,1567,13,0.000000,1499.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Renée Reichová,1685,14,0.000000,1020.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Tina Leung,1605,12,0.000000,1020.4
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Pamela Grassau,1607,13,0.000000,1529.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,1642,16,0.000000,1021.6
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,1590,14,0.000000,1117.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Lourdes Mohedano,1562,15,0.000000,1944.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Carmine Chiellino,1612,18,0.000000,1529.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Thirty Years' War,1558,21,0.000000,1532.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,The Ox,1561,35,0.000000,1096.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jimmy Baker,1543,17,0.000000,1954.6
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,1471,12,0.000000,1021.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,James Pat Rokeby Black,1599,13,0.000000,2037.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Andreas Højsleth,1592,11,0.000000,1022.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Moe Z. Win,1621,14,0.000000,1018.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Monisola Oginni,1455,14,0.000000,1531.7
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,1540,15,0.000000,1037.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Kurt L. Feigl,1634,16,0.000000,1297.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Carl Temple Holden,1576,13,0.000000,1354.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Nicola Zoccoli,1457,13,0.000000,907.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Marina Tarasova,1466,11,0.000000,1556.6
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Thomas Dupré,1440,14,0.000000,1145.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Jianmin Hao,1659,16,0.000000,1564.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Romero Cabral da Costa,1542,21,0.000000,1575.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Marcin Olszewski,1607,15,0.000000,1338.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Danielle W Koontz,1428,15,0.000000,917.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Fajar Handika,1547,15,0.000000,1331.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Robert Richardson Sears,1526,17,0.000000,912.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Robert Mougin,1578,12,0.000000,740.5
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Edmond Crompton,1520,14,0.000000,1154.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Michael C. De Siena,1559,17,0.000000,922.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Allan Hookings,1388,17,0.000000,1305.0
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Philip Wilkinson,1569,20,0.000000,932.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Carson Reynolds,1499,15,0.000000,1299.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Sandip Mukherjee,1665,12,0.000000,998.9
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Eumundi,1640,13,0.000000,1106.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Marko Cvikl,1537,12,0.000000,1047.8
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,1544,17,0.000000,1081.1
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Athar Hussain Bukhari,1619,17,0.000000,930.3
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,1676,30,0.000000,1022.6
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Tony Hodges,1466,14,0.000000,742.2
+llm_judge,adjudicate,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,1644,16,0.000000,1252.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,1512,69,0.000000,1567.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Martin Lambie-Nairn,1587,79,0.000000,1976.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Lord William Hamilton,1614,55,0.000000,1500.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Eliezer Calo,1631,68,0.000000,1424.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Denis Poix-Daude,1512,51,0.000000,1347.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Michael Mylonas,1662,72,0.000000,1781.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,François Carquet,1533,53,0.000000,1574.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Wenqing He,1396,69,0.000000,1580.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Gomorrah,1600,58,0.000000,1343.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,1672,58,0.000000,2656.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Guy Avenia,1633,52,0.000000,1377.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Wuilmen Bravo,1593,76,0.000000,1772.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,1539,70,0.000000,1803.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Shinzu,1654,71,0.000000,1343.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Luwamo Garcia,1537,72,0.000000,2500.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jared Carter,1471,68,0.000000,1143.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Carlos Moorhead,1644,69,0.000000,1778.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,New York News,1512,71,0.000000,1327.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,1614,71,0.000000,1805.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Ydnekatchew Tessema,1690,62,0.000000,1567.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Chunguan Zhang,1651,64,0.000000,1578.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Sander van de Hoef,1473,71,0.000000,1815.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Katie Hurley,1656,71,0.000000,1567.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Viktor Kruglov,1605,48,0.000000,1369.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Dorian Owen,1570,58,0.000000,1773.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Wong Chin Hung,1571,73,0.000000,1123.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Amber Brian,1312,55,0.000000,1582.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Taylor Beck,1499,70,0.000000,1688.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Pierre Langlois,1580,61,0.000000,1706.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,John Fenn,1456,49,0.000000,1517.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Fábio A L de Souza,1584,68,0.000000,1492.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,George Samuel Parsons,1644,58,0.000000,1319.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,David Poeppel,1482,66,0.000000,1364.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Mission Terra,1561,51,0.000000,1408.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Birgitta Larsson,1368,68,0.000000,1513.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,1556,82,0.000000,1459.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,1601,70,0.000000,1201.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Manuel Garber,1608,71,0.000000,1462.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Gladys Liu,1623,65,0.000000,1641.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,1586,75,0.000000,1941.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,1621,49,0.000000,1314.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jack Collison,1550,57,0.000000,1606.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Tomasz Jodłowiec,1483,87,0.000000,1574.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Fritz Renner,1604,74,0.000000,1348.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Molly M Fuentes,1495,69,0.000000,2254.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Erol Sayan,1609,53,0.000000,1577.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Thomas McCollum,1546,54,0.000000,1373.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jeff Reinert,1668,72,0.000000,1878.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Anatolii Hirshfeld,1624,80,0.000000,1628.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,MiSafra LeSayfa,1667,66,0.000000,1487.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,1644,65,0.000000,1736.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,1582,70,0.000000,2245.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Keith Mackie,1590,85,0.000000,1998.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Charles William Eliot,1541,74,0.000000,1372.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,1664,59,0.000000,1572.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,1705,66,0.000000,3157.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Sandi L. Navarro,1512,56,0.000000,1795.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Mateo Cassierra,1578,69,0.000000,1125.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Johann Friedrich Agricola,1587,57,0.000000,1347.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Renée Reichová,1705,66,0.000000,1149.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Tina Leung,1625,63,0.000000,1104.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Pamela Grassau,1627,68,0.000000,1347.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,1662,71,0.000000,1801.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,1610,62,0.000000,1349.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Lourdes Mohedano,1582,75,0.000000,2259.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Carmine Chiellino,1632,79,0.000000,1343.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Thirty Years' War,1578,84,0.000000,1181.9
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,The Ox,1581,91,0.000000,2296.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jimmy Baker,1563,64,0.000000,1154.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,1491,69,0.000000,1177.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,James Pat Rokeby Black,1619,57,0.000000,1109.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Andreas Højsleth,1612,69,0.000000,1181.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Moe Z. Win,1641,66,0.000000,1394.6
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Monisola Oginni,1475,66,0.000000,1159.9
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,1560,66,0.000000,1131.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Kurt L. Feigl,1654,71,0.000000,1158.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Carl Temple Holden,1596,60,0.000000,1045.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Nicola Zoccoli,1477,59,0.000000,1262.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Marina Tarasova,1486,64,0.000000,1903.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Thomas Dupré,1460,53,0.000000,1883.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Jianmin Hao,1679,63,0.000000,1371.4
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Romero Cabral da Costa,1562,75,0.000000,1803.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Marcin Olszewski,1627,72,0.000000,1774.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Danielle W Koontz,1448,66,0.000000,1574.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Fajar Handika,1567,60,0.000000,1576.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Robert Richardson Sears,1546,84,0.000000,2946.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Robert Mougin,1598,69,0.000000,1776.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Edmond Crompton,1540,53,0.000000,1353.9
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Michael C. De Siena,1579,71,0.000000,2485.5
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Allan Hookings,1408,58,0.000000,1785.0
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Philip Wilkinson,1589,77,0.000000,3156.1
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Carson Reynolds,1519,75,0.000000,1568.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Sandip Mukherjee,1685,65,0.000000,1594.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Eumundi,1660,65,0.000000,2010.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Marko Cvikl,1557,52,0.000000,1344.8
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,1564,81,0.000000,2249.2
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Athar Hussain Bukhari,1639,70,0.000000,2025.3
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,1696,79,0.000000,1353.7
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Tony Hodges,1486,70,0.000000,1122.9
+llm_judge_provenance,adjudicate,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,1664,76,0.000000,1578.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,441,4,0.000000,920.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,560,8,0.000000,883.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,518,5,0.000000,1116.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,215,92,0.000000,1725.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,224,96,0.000000,1616.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,221,84,0.000000,1845.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jumanah Essa-Hadad,397,56,0.000000,1412.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Martin Lambie-Nairn,499,8,0.000000,621.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Martin Lambie-Nairn,517,5,0.000000,803.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Martin Lambie-Nairn,550,8,0.000000,921.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Martin Lambie-Nairn,231,98,0.000000,1493.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Martin Lambie-Nairn,218,82,0.000000,1511.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Martin Lambie-Nairn,234,86,0.000000,1518.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Martin Lambie-Nairn,393,69,0.000000,1312.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Lord William Hamilton,531,7,0.000000,731.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Lord William Hamilton,548,11,0.000000,937.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Lord William Hamilton,528,8,0.000000,807.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Lord William Hamilton,220,67,0.000000,1556.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Lord William Hamilton,222,71,0.000000,1523.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Lord William Hamilton,218,63,0.000000,1407.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Lord William Hamilton,327,66,0.000000,1166.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Eliezer Calo,562,1,0.000000,860.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Eliezer Calo,559,15,0.000000,1124.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Eliezer Calo,511,9,0.000000,1126.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Eliezer Calo,217,58,0.000000,1578.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Eliezer Calo,229,77,0.000000,1568.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Eliezer Calo,230,73,0.000000,1585.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Eliezer Calo,337,75,0.000000,2253.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Denis Poix-Daude,507,2,0.000000,889.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Denis Poix-Daude,466,7,0.000000,901.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Denis Poix-Daude,541,12,0.000000,1121.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Denis Poix-Daude,224,97,0.000000,2256.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Denis Poix-Daude,225,90,0.000000,2016.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Denis Poix-Daude,230,83,0.000000,1799.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Denis Poix-Daude,398,78,0.000000,1356.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Michael Mylonas,551,3,0.000000,684.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Michael Mylonas,533,6,0.000000,1343.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Michael Mylonas,570,5,0.000000,684.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Michael Mylonas,205,64,0.000000,2004.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Michael Mylonas,221,89,0.000000,2025.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Michael Mylonas,217,79,0.000000,1576.4
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Michael Mylonas,350,64,0.000000,1581.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,François Carquet,523,1,0.000000,669.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,François Carquet,519,2,0.000000,900.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,François Carquet,485,13,0.000000,896.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,François Carquet,208,79,0.000000,1801.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,François Carquet,197,74,0.000000,1574.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,François Carquet,224,59,0.000000,1313.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,François Carquet,331,61,0.000000,1439.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wenqing He,341,9,0.000000,890.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wenqing He,495,8,0.000000,607.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wenqing He,507,8,0.000000,597.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wenqing He,234,102,0.000000,1812.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wenqing He,219,69,0.000000,1598.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wenqing He,222,80,0.000000,1585.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Wenqing He,378,60,0.000000,1143.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Gomorrah,538,3,0.000000,942.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Gomorrah,537,10,0.000000,806.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Gomorrah,490,8,0.000000,1118.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Gomorrah,220,88,0.000000,2509.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Gomorrah,232,103,0.000000,1883.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Gomorrah,227,69,0.000000,1069.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Gomorrah,385,65,0.000000,1166.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,544,3,0.000000,717.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,559,7,0.000000,997.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,563,3,0.000000,674.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,198,88,0.000000,1802.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,215,59,0.000000,1576.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,206,116,0.000000,2473.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Reconfiguration of hardware components of an integrated circuit,385,61,0.000000,1120.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Guy Avenia,526,7,0.000000,928.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Guy Avenia,548,3,0.000000,1544.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Guy Avenia,551,3,0.000000,1576.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Guy Avenia,203,76,0.000000,1588.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Guy Avenia,201,83,0.000000,2246.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Guy Avenia,211,78,0.000000,1563.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Guy Avenia,350,69,0.000000,1125.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wuilmen Bravo,495,5,0.000000,2028.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wuilmen Bravo,542,7,0.000000,895.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wuilmen Bravo,551,6,0.000000,912.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wuilmen Bravo,217,103,0.000000,2013.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wuilmen Bravo,230,96,0.000000,2039.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wuilmen Bravo,219,83,0.000000,1567.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Wuilmen Bravo,404,76,0.000000,1578.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,540,4,0.000000,689.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,533,8,0.000000,877.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,470,4,0.000000,692.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,225,71,0.000000,1782.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,224,91,0.000000,1828.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,218,88,0.000000,1992.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Marie Joseph Jean Baptiste Paul Bouchet,378,58,0.000000,1360.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Shinzu,549,9,0.000000,1534.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Shinzu,530,3,0.000000,667.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Shinzu,527,3,0.000000,688.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Shinzu,215,120,0.000000,1611.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Shinzu,211,89,0.000000,1360.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Shinzu,215,87,0.000000,1735.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Shinzu,412,55,0.000000,1380.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Luwamo Garcia,499,9,0.000000,958.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Luwamo Garcia,496,8,0.000000,639.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Luwamo Garcia,530,9,0.000000,878.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Luwamo Garcia,235,73,0.000000,1462.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Luwamo Garcia,233,80,0.000000,1446.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Luwamo Garcia,245,71,0.000000,1311.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Luwamo Garcia,353,83,0.000000,1878.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jared Carter,439,8,0.000000,899.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jared Carter,525,8,0.000000,1056.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jared Carter,487,6,0.000000,1031.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jared Carter,211,68,0.000000,1554.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jared Carter,214,90,0.000000,1530.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jared Carter,202,85,0.000000,2042.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jared Carter,362,60,0.000000,1555.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carlos Moorhead,540,6,0.000000,1003.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carlos Moorhead,552,5,0.000000,1014.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carlos Moorhead,548,3,0.000000,1020.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carlos Moorhead,209,76,0.000000,1558.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carlos Moorhead,217,77,0.000000,1494.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carlos Moorhead,207,93,0.000000,1529.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Carlos Moorhead,364,68,0.000000,2549.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,New York News,425,4,0.000000,600.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,New York News,551,3,0.000000,1438.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,New York News,530,6,0.000000,1026.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,New York News,206,82,0.000000,2037.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,New York News,212,84,0.000000,2035.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,New York News,220,89,0.000000,1625.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,New York News,370,60,0.000000,1944.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,536,5,0.000000,1019.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,532,5,0.000000,1024.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,521,5,0.000000,597.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,214,112,0.000000,2462.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,206,90,0.000000,1604.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,214,91,0.000000,1960.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Hedda Heuser-Schreiber,412,71,0.000000,1531.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ydnekatchew Tessema,557,6,0.000000,1018.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ydnekatchew Tessema,561,3,0.000000,1020.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ydnekatchew Tessema,550,6,0.000000,1181.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ydnekatchew Tessema,224,72,0.000000,1140.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ydnekatchew Tessema,227,88,0.000000,1919.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ydnekatchew Tessema,236,103,0.000000,1475.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Ydnekatchew Tessema,387,77,0.000000,1479.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Chunguan Zhang,539,7,0.000000,1113.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Chunguan Zhang,543,4,0.000000,694.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Chunguan Zhang,514,3,0.000000,722.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Chunguan Zhang,206,75,0.000000,1651.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Chunguan Zhang,200,87,0.000000,1525.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Chunguan Zhang,208,67,0.000000,1619.4
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Chunguan Zhang,345,60,0.000000,1482.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sander van de Hoef,547,6,0.000000,672.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sander van de Hoef,468,4,0.000000,619.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sander van de Hoef,461,7,0.000000,1027.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sander van de Hoef,221,79,0.000000,1727.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sander van de Hoef,212,89,0.000000,1384.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sander van de Hoef,223,56,0.000000,2215.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Sander van de Hoef,350,64,0.000000,1574.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Katie Hurley,545,8,0.000000,1153.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Katie Hurley,533,2,0.000000,873.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Katie Hurley,549,2,0.000000,898.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Katie Hurley,214,77,0.000000,1352.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Katie Hurley,209,93,0.000000,1601.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Katie Hurley,205,86,0.000000,1759.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Katie Hurley,372,70,0.000000,1135.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Viktor Kruglov,518,5,0.000000,672.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Viktor Kruglov,558,4,0.000000,898.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Viktor Kruglov,522,6,0.000000,1063.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Viktor Kruglov,210,91,0.000000,1765.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Viktor Kruglov,213,78,0.000000,8398.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Viktor Kruglov,217,78,0.000000,1356.4
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Viktor Kruglov,365,75,0.000000,1640.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Dorian Owen,525,6,0.000000,922.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Dorian Owen,529,8,0.000000,1025.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Dorian Owen,476,11,0.000000,967.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Dorian Owen,213,79,0.000000,1727.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Dorian Owen,224,85,0.000000,1419.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Dorian Owen,221,89,0.000000,1774.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Dorian Owen,377,58,0.000000,1481.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wong Chin Hung,545,6,0.000000,560.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wong Chin Hung,518,7,0.000000,1100.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Wong Chin Hung,496,4,0.000000,645.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wong Chin Hung,226,80,0.000000,1511.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wong Chin Hung,231,72,0.000000,1539.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Wong Chin Hung,217,82,0.000000,1553.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Wong Chin Hung,355,66,0.000000,1484.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Amber Brian,467,6,0.000000,811.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Amber Brian,391,4,0.000000,786.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Amber Brian,419,5,0.000000,575.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Amber Brian,210,67,0.000000,1603.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Amber Brian,197,94,0.000000,1893.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Amber Brian,214,85,0.000000,1835.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Amber Brian,362,62,0.000000,1052.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Taylor Beck,506,3,0.000000,708.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Taylor Beck,444,6,0.000000,853.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Taylor Beck,523,4,0.000000,965.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Taylor Beck,199,80,0.000000,1845.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Taylor Beck,198,90,0.000000,1748.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Taylor Beck,205,70,0.000000,1937.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Taylor Beck,349,65,0.000000,906.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Pierre Langlois,543,4,0.000000,704.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Pierre Langlois,547,4,0.000000,1194.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Pierre Langlois,480,2,0.000000,655.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Pierre Langlois,201,74,0.000000,1470.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Pierre Langlois,198,88,0.000000,1663.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Pierre Langlois,200,74,0.000000,1971.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Pierre Langlois,346,55,0.000000,1125.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,John Fenn,534,4,0.000000,766.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,John Fenn,377,4,0.000000,724.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,John Fenn,532,5,0.000000,643.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,John Fenn,205,68,0.000000,1212.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,John Fenn,210,60,0.000000,1614.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,John Fenn,218,92,0.000000,1404.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,John Fenn,335,65,0.000000,4418.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fábio A L de Souza,476,5,0.000000,704.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fábio A L de Souza,524,6,0.000000,1011.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fábio A L de Souza,537,6,0.000000,821.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fábio A L de Souza,221,84,0.000000,2436.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fábio A L de Souza,215,72,0.000000,1568.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fábio A L de Souza,206,79,0.000000,1804.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Fábio A L de Souza,354,59,0.000000,1273.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,George Samuel Parsons,538,2,0.000000,634.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,George Samuel Parsons,504,3,0.000000,933.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,George Samuel Parsons,568,2,0.000000,663.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,George Samuel Parsons,200,66,0.000000,1502.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,George Samuel Parsons,201,55,0.000000,1437.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,George Samuel Parsons,206,69,0.000000,1168.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,George Samuel Parsons,300,62,0.000000,2176.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,David Poeppel,498,5,0.000000,649.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,David Poeppel,514,5,0.000000,617.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,David Poeppel,460,6,0.000000,1093.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,David Poeppel,203,63,0.000000,1297.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,David Poeppel,209,85,0.000000,1627.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,David Poeppel,208,72,0.000000,1692.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,David Poeppel,336,57,0.000000,1272.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mission Terra,487,2,0.000000,666.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mission Terra,547,1,0.000000,629.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mission Terra,515,2,0.000000,826.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mission Terra,179,83,0.000000,1902.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mission Terra,195,71,0.000000,1649.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mission Terra,195,83,0.000000,1755.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Mission Terra,340,63,0.000000,1379.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Birgitta Larsson,339,4,0.000000,560.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Birgitta Larsson,544,5,0.000000,1137.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Birgitta Larsson,488,7,0.000000,1122.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Birgitta Larsson,210,100,0.000000,1769.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Birgitta Larsson,205,91,0.000000,1640.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Birgitta Larsson,209,72,0.000000,1544.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Birgitta Larsson,384,64,0.000000,1487.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,514,3,0.000000,593.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,560,5,0.000000,1042.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,480,13,0.000000,776.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,219,93,0.000000,1285.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,229,79,0.000000,1470.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,244,104,0.000000,1539.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Stanisław Sienkiewicz,408,71,0.000000,1153.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,553,5,0.000000,971.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,553,8,0.000000,724.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,502,5,0.000000,936.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,213,89,0.000000,1374.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,221,104,0.000000,1696.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,224,70,0.000000,1734.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Yordanis Enríquez Canto,389,56,0.000000,1271.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Manuel Garber,536,5,0.000000,818.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Manuel Garber,553,5,0.000000,1065.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Manuel Garber,518,8,0.000000,2252.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Manuel Garber,213,79,0.000000,1697.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Manuel Garber,202,62,0.000000,1264.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Manuel Garber,211,102,0.000000,1729.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Manuel Garber,362,66,0.000000,1162.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Gladys Liu,532,2,0.000000,1023.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Gladys Liu,551,2,0.000000,740.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Gladys Liu,534,1,0.000000,1776.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Gladys Liu,197,64,0.000000,1726.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Gladys Liu,209,61,0.000000,1241.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Gladys Liu,196,70,0.000000,1417.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Gladys Liu,303,66,0.000000,953.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,499,4,0.000000,1176.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,563,4,0.000000,881.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,526,5,0.000000,619.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,217,61,0.000000,3693.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,219,83,0.000000,1699.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,214,96,0.000000,1546.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Ewa Śnieżyńska-Stolot,360,79,0.000000,2371.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,533,2,0.000000,857.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,550,4,0.000000,919.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,504,4,0.000000,824.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,209,88,0.000000,1838.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,202,87,0.000000,1658.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,206,73,0.000000,1650.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Supergirl: Woman of Tomorrow,363,77,0.000000,1444.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jack Collison,414,7,0.000000,1157.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jack Collison,556,7,0.000000,1095.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jack Collison,553,7,0.000000,995.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jack Collison,222,95,0.000000,1950.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jack Collison,220,81,0.000000,2164.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jack Collison,222,79,0.000000,1505.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jack Collison,375,67,0.000000,1277.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tomasz Jodłowiec,522,5,0.000000,769.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tomasz Jodłowiec,535,9,0.000000,834.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tomasz Jodłowiec,425,4,0.000000,829.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tomasz Jodłowiec,215,78,0.000000,1607.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tomasz Jodłowiec,235,86,0.000000,1764.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tomasz Jodłowiec,221,68,0.000000,1973.4
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Tomasz Jodłowiec,358,59,0.000000,1903.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fritz Renner,501,3,0.000000,645.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fritz Renner,558,7,0.000000,1048.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fritz Renner,544,3,0.000000,683.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fritz Renner,207,70,0.000000,1491.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fritz Renner,213,91,0.000000,1617.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fritz Renner,208,81,0.000000,1558.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Fritz Renner,360,51,0.000000,1858.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Molly M Fuentes,478,3,0.000000,684.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Molly M Fuentes,534,3,0.000000,907.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Molly M Fuentes,474,3,0.000000,584.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Molly M Fuentes,203,82,0.000000,1405.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Molly M Fuentes,200,74,0.000000,1177.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Molly M Fuentes,202,87,0.000000,1478.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Molly M Fuentes,358,65,0.000000,1187.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Erol Sayan,524,7,0.000000,646.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Erol Sayan,540,5,0.000000,822.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Erol Sayan,537,4,0.000000,563.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Erol Sayan,212,79,0.000000,1136.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Erol Sayan,210,66,0.000000,1357.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Erol Sayan,198,85,0.000000,1768.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Erol Sayan,345,62,0.000000,1338.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thomas McCollum,529,4,0.000000,602.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thomas McCollum,543,5,0.000000,932.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thomas McCollum,473,5,0.000000,1153.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thomas McCollum,201,80,0.000000,1807.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thomas McCollum,203,97,0.000000,1514.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thomas McCollum,210,68,0.000000,1528.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Thomas McCollum,363,66,0.000000,1295.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jeff Reinert,552,7,0.000000,701.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jeff Reinert,534,5,0.000000,1102.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jeff Reinert,540,4,0.000000,614.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jeff Reinert,220,91,0.000000,1896.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jeff Reinert,211,96,0.000000,1875.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jeff Reinert,207,98,0.000000,1474.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jeff Reinert,400,79,0.000000,1428.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Anatolii Hirshfeld,539,5,0.000000,790.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Anatolii Hirshfeld,529,10,0.000000,619.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Anatolii Hirshfeld,557,5,0.000000,621.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Anatolii Hirshfeld,219,99,0.000000,1915.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Anatolii Hirshfeld,224,86,0.000000,1786.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Anatolii Hirshfeld,228,95,0.000000,1666.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Anatolii Hirshfeld,406,67,0.000000,1152.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,MiSafra LeSayfa,560,3,0.000000,820.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,MiSafra LeSayfa,537,2,0.000000,607.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,MiSafra LeSayfa,549,2,0.000000,873.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,MiSafra LeSayfa,208,94,0.000000,1645.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,MiSafra LeSayfa,211,86,0.000000,1759.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,MiSafra LeSayfa,214,84,0.000000,1900.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,MiSafra LeSayfa,378,84,0.000000,1990.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,530,6,0.000000,1211.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,533,5,0.000000,1210.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,530,6,0.000000,1018.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,232,78,0.000000,1526.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,234,90,0.000000,1571.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,201,70,0.000000,1515.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Hunslet Penrhyn Port Class,359,67,0.000000,1158.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,536,2,0.000000,787.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,502,2,0.000000,841.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,533,1,0.000000,668.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,198,74,0.000000,1544.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,203,77,0.000000,1266.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,197,72,0.000000,1604.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,The Adventures of Paddington Bear,331,57,0.000000,1421.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Keith Mackie,526,5,0.000000,755.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Keith Mackie,499,6,0.000000,710.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Keith Mackie,521,7,0.000000,711.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Keith Mackie,209,93,0.000000,2295.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Keith Mackie,214,90,0.000000,1268.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Keith Mackie,214,87,0.000000,2206.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Keith Mackie,387,67,0.000000,1493.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Charles William Eliot,530,6,0.000000,1111.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Charles William Eliot,491,10,0.000000,1079.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Charles William Eliot,497,5,0.000000,722.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Charles William Eliot,215,76,0.000000,1675.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Charles William Eliot,237,89,0.000000,1247.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Charles William Eliot,225,87,0.000000,2007.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Charles William Eliot,381,80,0.000000,1614.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,560,4,0.000000,632.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,559,4,0.000000,792.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,557,4,0.000000,666.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,227,91,0.000000,2035.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,218,87,0.000000,1507.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,219,75,0.000000,1702.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Binyam Sisay Mendisu,377,67,0.000000,1057.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,557,6,0.000000,813.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,559,6,0.000000,709.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,566,3,0.000000,887.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,213,79,0.000000,1531.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,226,77,0.000000,1699.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,219,99,0.000000,1788.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,José Pedro de Oliveira Galvão,377,70,0.000000,1524.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sandi L. Navarro,437,3,0.000000,746.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sandi L. Navarro,531,6,0.000000,689.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sandi L. Navarro,547,2,0.000000,567.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sandi L. Navarro,202,78,0.000000,1426.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sandi L. Navarro,211,86,0.000000,1779.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sandi L. Navarro,204,71,0.000000,1551.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Sandi L. Navarro,353,60,0.000000,1473.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mateo Cassierra,501,3,0.000000,665.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mateo Cassierra,530,6,0.000000,852.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mateo Cassierra,540,6,0.000000,704.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mateo Cassierra,209,69,0.000000,1581.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mateo Cassierra,230,87,0.000000,1728.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mateo Cassierra,220,80,0.000000,1894.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Mateo Cassierra,355,66,0.000000,1243.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Johann Friedrich Agricola,536,3,0.000000,1034.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Johann Friedrich Agricola,519,4,0.000000,825.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Johann Friedrich Agricola,502,1,0.000000,733.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Johann Friedrich Agricola,200,90,0.000000,1770.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Johann Friedrich Agricola,206,83,0.000000,1699.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Johann Friedrich Agricola,207,94,0.000000,1258.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Johann Friedrich Agricola,378,56,0.000000,1376.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Renée Reichová,545,3,0.000000,791.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Renée Reichová,562,3,0.000000,671.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Renée Reichová,569,5,0.000000,790.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Renée Reichová,223,67,0.000000,1897.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Renée Reichová,220,67,0.000000,1703.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Renée Reichová,231,82,0.000000,1792.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Renée Reichová,337,70,0.000000,1395.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tina Leung,534,3,0.000000,897.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tina Leung,542,4,0.000000,922.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tina Leung,532,4,0.000000,840.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tina Leung,206,78,0.000000,2085.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tina Leung,200,80,0.000000,1876.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tina Leung,208,88,0.000000,1610.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Tina Leung,357,45,0.000000,1389.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Pamela Grassau,533,5,0.000000,816.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Pamela Grassau,541,3,0.000000,654.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Pamela Grassau,548,5,0.000000,828.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Pamela Grassau,203,76,0.000000,1498.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Pamela Grassau,206,105,0.000000,1933.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Pamela Grassau,216,77,0.000000,1531.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Pamela Grassau,374,63,0.000000,1450.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,549,4,0.000000,958.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,551,4,0.000000,869.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,555,7,0.000000,1175.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,231,63,0.000000,1581.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,241,107,0.000000,1613.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,221,93,0.000000,1588.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jacques Adolphe Gervais-Lafond,388,88,0.000000,2520.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,547,7,0.000000,1069.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,526,5,0.000000,776.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,538,4,0.000000,656.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,219,70,0.000000,1559.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,217,70,0.000000,1565.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,211,66,0.000000,1762.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Mohammad Naghavi-behzad,327,57,0.000000,1068.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Lourdes Mohedano,527,8,0.000000,853.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Lourdes Mohedano,532,6,0.000000,1028.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Lourdes Mohedano,512,6,0.000000,690.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Lourdes Mohedano,217,79,0.000000,1501.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Lourdes Mohedano,209,90,0.000000,1686.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Lourdes Mohedano,220,64,0.000000,1568.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Lourdes Mohedano,352,78,0.000000,1307.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carmine Chiellino,534,9,0.000000,836.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carmine Chiellino,540,11,0.000000,707.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carmine Chiellino,550,12,0.000000,1064.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carmine Chiellino,225,86,0.000000,1738.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carmine Chiellino,231,82,0.000000,1280.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carmine Chiellino,245,69,0.000000,3457.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Carmine Chiellino,371,83,0.000000,1278.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thirty Years' War,537,9,0.000000,1216.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thirty Years' War,482,7,0.000000,950.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thirty Years' War,529,11,0.000000,789.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thirty Years' War,240,106,0.000000,2504.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thirty Years' War,246,87,0.000000,2649.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thirty Years' War,236,98,0.000000,1927.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Thirty Years' War,427,57,0.000000,1244.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,The Ox,433,2,0.000000,3241.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,The Ox,531,3,0.000000,598.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,The Ox,546,7,0.000000,1068.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,The Ox,213,75,0.000000,1525.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,The Ox,219,86,0.000000,1819.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,The Ox,212,73,0.000000,1626.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,The Ox,350,65,0.000000,1279.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jimmy Baker,493,6,0.000000,999.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jimmy Baker,520,15,0.000000,927.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jimmy Baker,544,5,0.000000,726.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jimmy Baker,224,88,0.000000,1453.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jimmy Baker,230,72,0.000000,1663.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jimmy Baker,231,75,0.000000,1932.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jimmy Baker,363,54,0.000000,1270.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,561,3,0.000000,964.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,402,3,0.000000,913.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,533,4,0.000000,877.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,200,82,0.000000,1445.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,206,89,0.000000,1673.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,213,84,0.000000,1605.2
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Ronald A Farrar-Tobar,372,76,0.000000,1620.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,James Pat Rokeby Black,545,2,0.000000,762.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,James Pat Rokeby Black,552,2,0.000000,584.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,James Pat Rokeby Black,504,3,0.000000,763.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,James Pat Rokeby Black,215,71,0.000000,1722.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,James Pat Rokeby Black,205,85,0.000000,1786.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,James Pat Rokeby Black,196,68,0.000000,1575.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,James Pat Rokeby Black,335,48,0.000000,1126.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Andreas Højsleth,522,2,0.000000,673.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Andreas Højsleth,555,6,0.000000,674.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Andreas Højsleth,529,6,0.000000,1114.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Andreas Højsleth,219,94,0.000000,2122.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Andreas Højsleth,230,71,0.000000,2164.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Andreas Højsleth,223,83,0.000000,1638.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Andreas Højsleth,369,68,0.000000,2474.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Moe Z. Win,530,5,0.000000,619.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Moe Z. Win,547,4,0.000000,902.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Moe Z. Win,539,6,0.000000,975.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Moe Z. Win,207,72,0.000000,1381.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Moe Z. Win,210,89,0.000000,2133.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Moe Z. Win,219,75,0.000000,1535.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Moe Z. Win,353,47,0.000000,1021.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Monisola Oginni,474,7,0.000000,651.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Monisola Oginni,427,4,0.000000,662.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Monisola Oginni,528,4,0.000000,634.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Monisola Oginni,236,101,0.000000,2122.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Monisola Oginni,212,78,0.000000,1191.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Monisola Oginni,209,78,0.000000,1667.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Monisola Oginni,382,52,0.000000,1259.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,454,4,0.000000,763.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,545,7,0.000000,1116.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,566,7,0.000000,1048.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,218,81,0.000000,1299.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,228,71,0.000000,1773.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,228,83,0.000000,1674.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Elvira R. Akhmetzyanova,362,70,0.000000,1480.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Kurt L. Feigl,548,6,0.000000,709.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Kurt L. Feigl,511,3,0.000000,785.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Kurt L. Feigl,544,4,0.000000,861.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Kurt L. Feigl,228,76,0.000000,1707.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Kurt L. Feigl,197,64,0.000000,1590.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Kurt L. Feigl,209,61,0.000000,1576.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Kurt L. Feigl,317,63,0.000000,1276.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carl Temple Holden,526,4,0.000000,816.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carl Temple Holden,511,3,0.000000,661.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carl Temple Holden,537,5,0.000000,926.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carl Temple Holden,206,70,0.000000,1672.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carl Temple Holden,213,71,0.000000,1498.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carl Temple Holden,202,78,0.000000,1558.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Carl Temple Holden,330,64,0.000000,1140.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Nicola Zoccoli,503,3,0.000000,1041.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Nicola Zoccoli,558,3,0.000000,679.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Nicola Zoccoli,380,4,0.000000,953.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Nicola Zoccoli,210,70,0.000000,2642.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Nicola Zoccoli,214,82,0.000000,1414.1
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Nicola Zoccoli,212,71,0.000000,1586.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Nicola Zoccoli,336,41,0.000000,1451.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marina Tarasova,485,3,0.000000,784.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marina Tarasova,518,5,0.000000,629.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marina Tarasova,470,2,0.000000,692.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marina Tarasova,200,78,0.000000,2058.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marina Tarasova,206,84,0.000000,1711.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marina Tarasova,222,102,0.000000,2347.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Marina Tarasova,374,68,0.000000,1278.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thomas Dupré,468,5,0.000000,796.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thomas Dupré,499,4,0.000000,664.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Thomas Dupré,490,5,0.000000,896.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thomas Dupré,205,76,0.000000,1201.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thomas Dupré,202,92,0.000000,1676.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Thomas Dupré,206,77,0.000000,1399.8
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Thomas Dupré,362,45,0.000000,1068.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jianmin Hao,534,7,0.000000,657.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jianmin Hao,554,6,0.000000,914.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Jianmin Hao,540,8,0.000000,1022.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jianmin Hao,226,104,0.000000,2005.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jianmin Hao,228,85,0.000000,1219.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Jianmin Hao,220,56,0.000000,1253.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Jianmin Hao,371,78,0.000000,1425.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Romero Cabral da Costa,455,3,0.000000,891.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Romero Cabral da Costa,552,3,0.000000,604.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Romero Cabral da Costa,543,2,0.000000,485.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Romero Cabral da Costa,202,79,0.000000,1352.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Romero Cabral da Costa,200,73,0.000000,3676.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Romero Cabral da Costa,201,91,0.000000,1715.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Romero Cabral da Costa,355,56,0.000000,1395.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marcin Olszewski,532,6,0.000000,1207.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marcin Olszewski,555,6,0.000000,986.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marcin Olszewski,522,7,0.000000,744.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marcin Olszewski,217,73,0.000000,1663.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marcin Olszewski,226,81,0.000000,1702.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marcin Olszewski,226,73,0.000000,1675.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Marcin Olszewski,352,63,0.000000,1253.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Danielle W Koontz,471,7,0.000000,1085.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Danielle W Koontz,501,6,0.000000,707.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Danielle W Koontz,473,6,0.000000,603.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Danielle W Koontz,217,74,0.000000,1752.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Danielle W Koontz,215,57,0.000000,1447.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Danielle W Koontz,217,75,0.000000,1314.3
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Danielle W Koontz,330,61,0.000000,1090.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fajar Handika,497,6,0.000000,962.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fajar Handika,543,7,0.000000,1084.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Fajar Handika,520,6,0.000000,775.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fajar Handika,224,85,0.000000,2368.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fajar Handika,220,80,0.000000,1331.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Fajar Handika,212,70,0.000000,1450.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Fajar Handika,356,68,0.000000,1386.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Robert Richardson Sears,539,4,0.000000,640.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Robert Richardson Sears,427,9,0.000000,1152.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Robert Richardson Sears,543,5,0.000000,649.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Robert Richardson Sears,209,74,0.000000,1491.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Robert Richardson Sears,206,75,0.000000,1559.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Robert Richardson Sears,204,97,0.000000,1386.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Robert Richardson Sears,364,72,0.000000,1306.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Robert Mougin,510,3,0.000000,863.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Robert Mougin,540,3,0.000000,1474.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Robert Mougin,540,4,0.000000,702.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Robert Mougin,195,69,0.000000,1548.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Robert Mougin,207,88,0.000000,1339.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Robert Mougin,197,81,0.000000,1373.4
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Robert Mougin,347,61,0.000000,1423.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Edmond Crompton,535,5,0.000000,631.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Edmond Crompton,476,5,0.000000,620.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Edmond Crompton,500,4,0.000000,831.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Edmond Crompton,208,75,0.000000,1599.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Edmond Crompton,222,90,0.000000,1758.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Edmond Crompton,208,78,0.000000,1814.4
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Edmond Crompton,358,66,0.000000,1326.8
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Michael C. De Siena,528,7,0.000000,574.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Michael C. De Siena,533,4,0.000000,844.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Michael C. De Siena,506,7,0.000000,1003.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Michael C. De Siena,221,67,0.000000,1396.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Michael C. De Siena,214,79,0.000000,1485.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Michael C. De Siena,221,64,0.000000,1506.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Michael C. De Siena,331,57,0.000000,1346.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Allan Hookings,457,8,0.000000,1092.3
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Allan Hookings,411,10,0.000000,1126.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Allan Hookings,506,3,0.000000,578.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Allan Hookings,222,97,0.000000,1840.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Allan Hookings,223,84,0.000000,1902.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Allan Hookings,218,80,0.000000,2966.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Allan Hookings,387,78,0.000000,1222.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Philip Wilkinson,521,8,0.000000,984.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Philip Wilkinson,480,7,0.000000,636.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Philip Wilkinson,546,11,0.000000,813.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Philip Wilkinson,225,81,0.000000,1800.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Philip Wilkinson,218,77,0.000000,1651.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Philip Wilkinson,232,81,0.000000,1279.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Philip Wilkinson,369,84,0.000000,1841.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carson Reynolds,538,6,0.000000,734.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carson Reynolds,508,11,0.000000,747.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Carson Reynolds,439,11,0.000000,827.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carson Reynolds,217,65,0.000000,1450.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carson Reynolds,230,70,0.000000,1445.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Carson Reynolds,226,69,0.000000,1739.1
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Carson Reynolds,332,71,0.000000,1404.0
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sandip Mukherjee,533,3,0.000000,656.9
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sandip Mukherjee,548,3,0.000000,647.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Sandip Mukherjee,559,7,0.000000,1166.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sandip Mukherjee,210,68,0.000000,1651.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sandip Mukherjee,211,62,0.000000,1033.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Sandip Mukherjee,221,94,0.000000,3651.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Sandip Mukherjee,345,69,0.000000,1438.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Eumundi,552,7,0.000000,693.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Eumundi,563,3,0.000000,632.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Eumundi,524,5,0.000000,1107.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Eumundi,213,96,0.000000,1850.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Eumundi,208,87,0.000000,1542.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Eumundi,213,94,0.000000,1789.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Eumundi,394,65,0.000000,1656.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marko Cvikl,469,4,0.000000,1020.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marko Cvikl,536,5,0.000000,871.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Marko Cvikl,549,5,0.000000,2331.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marko Cvikl,203,73,0.000000,1362.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marko Cvikl,211,66,0.000000,1339.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Marko Cvikl,222,75,0.000000,1421.9
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Marko Cvikl,329,55,0.000000,1338.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,535,5,0.000000,806.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,519,7,0.000000,1091.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,496,3,0.000000,656.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,208,87,0.000000,1468.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,209,107,0.000000,1776.7
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,211,87,0.000000,1720.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Co-reading group ad hoc forum,403,52,0.000000,1243.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Athar Hussain Bukhari,551,8,0.000000,721.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Athar Hussain Bukhari,543,4,0.000000,855.1
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Athar Hussain Bukhari,535,8,0.000000,787.8
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Athar Hussain Bukhari,224,74,0.000000,1602.3
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Athar Hussain Bukhari,210,75,0.000000,1507.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Athar Hussain Bukhari,223,83,0.000000,1464.5
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Athar Hussain Bukhari,359,78,0.000000,1564.2
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,554,3,0.000000,688.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,563,3,0.000000,671.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,567,7,0.000000,628.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,210,89,0.000000,1664.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,195,106,0.000000,1932.9
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,220,80,0.000000,1856.0
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Automated capacity management using artificial intelligence techniques,395,73,0.000000,1138.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tony Hodges,537,6,0.000000,1341.7
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tony Hodges,454,6,0.000000,776.6
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Tony Hodges,459,6,0.000000,1003.6
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tony Hodges,219,78,0.000000,1440.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tony Hodges,211,88,0.000000,1670.2
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Tony Hodges,211,72,0.000000,1363.6
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Tony Hodges,359,78,0.000000,2211.5
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,544,3,0.000000,683.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,555,4,0.000000,620.4
+multi_agent_debate,extract,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,560,6,0.000000,683.4
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,220,77,0.000000,1605.5
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,222,90,0.000000,1541.0
+multi_agent_debate,rebuttal,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,219,88,0.000000,1384.7
+multi_agent_debate,judge,openrouter/openai/gpt-4o,Janet Auchincloss Rutherfurd,375,70,0.000000,1178.3

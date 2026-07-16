@@ -1,0 +1,901 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,1513,10,0.000000,1216.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,1615,15,0.000000,838.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,1639,16,0.000000,7739.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,1649,7,0.000000,8324.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,1519,11,0.000000,1592.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,1674,11,0.000000,309.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,1529,7,0.000000,2066.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,1393,184,0.000000,10656.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,1596,16,0.000000,904.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,1670,12,0.000000,949.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,1662,9,0.000000,1934.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,1600,10,0.000000,2153.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,1561,11,0.000000,1263.1
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,1652,9,0.000000,1230.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,1522,15,0.000000,934.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,1472,13,0.000000,1605.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,1665,9,0.000000,730.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,1507,9,0.000000,995.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,1666,11,0.000000,1253.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,1682,9,0.000000,932.1
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,1635,11,0.000000,2330.1
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,1477,13,0.000000,1387.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,1663,13,0.000000,1674.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,1636,14,0.000000,6442.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,1581,12,0.000000,1104.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,1572,12,0.000000,1393.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,1316,12,0.000000,958.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,1501,11,0.000000,975.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,1592,9,0.000000,1030.1
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,1455,10,0.000000,1305.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,1643,11,0.000000,750.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,1640,8,0.000000,758.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,1511,14,0.000000,1023.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,1603,7,0.000000,745.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,1371,11,0.000000,1192.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,1549,11,0.000000,7143.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,1648,10,0.000000,8033.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,1602,10,0.000000,1254.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,1656,7,0.000000,887.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,1580,9,0.000000,959.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,1638,7,0.000000,1080.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,1539,13,0.000000,1385.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,1488,15,0.000000,2096.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,1589,9,0.000000,1128.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,1506,10,0.000000,840.1
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,1616,12,0.000000,2394.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,1559,14,0.000000,2364.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,1689,14,0.000000,1040.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,1616,11,0.000000,1790.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,1694,8,0.000000,895.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,1644,11,0.000000,2162.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,1621,8,0.000000,692.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,1611,14,0.000000,1310.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,1561,15,0.000000,4685.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,1659,10,0.000000,7767.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,1694,11,0.000000,1979.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,1546,12,0.000000,1172.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,1662,13,0.000000,2140.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,1623,10,0.000000,5348.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,1678,11,0.000000,2097.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,1634,10,0.000000,1522.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,1639,9,0.000000,1506.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,1694,14,0.000000,1547.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,1606,12,0.000000,2515.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,1639,12,0.000000,1294.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,1652,14,0.000000,1156.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,1571,8,0.000000,893.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,1621,15,0.000000,1885.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,1568,11,0.000000,1967.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,1482,9,0.000000,3476.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,1631,400,0.000000,20004.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,1645,8,0.000000,1221.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,1666,11,0.000000,980.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,1477,103,0.000000,10256.6
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,1574,11,0.000000,1769.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,1670,9,0.000000,939.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,1605,9,0.000000,2251.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,1494,9,0.000000,695.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,1503,7,0.000000,852.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,1474,10,0.000000,925.7
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,1703,11,0.000000,8445.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,1553,7,0.000000,1974.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,1614,12,0.000000,934.5
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,1446,12,0.000000,849.1
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,1614,12,0.000000,1017.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,1545,15,0.000000,1094.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,1603,9,0.000000,1325.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,1579,10,0.000000,1890.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,1611,11,0.000000,1071.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,1425,13,0.000000,1409.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,1624,17,0.000000,464.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,1520,11,0.000000,1333.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,1689,9,0.000000,1617.4
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,1649,9,0.000000,728.0
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,1558,9,0.000000,864.3
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,1587,13,0.000000,963.9
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,1596,14,0.000000,939.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,1682,11,0.000000,1693.8
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,1507,13,0.000000,1112.2
+llm_judge,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,1668,13,0.000000,1010.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,1557,95,0.000000,4905.3
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,1611,75,0.000000,2662.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,1634,69,0.000000,3649.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,1645,80,0.000000,2535.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,1539,69,0.000000,2593.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,1669,72,0.000000,4488.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,1548,57,0.000000,3294.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,1437,83,0.000000,3717.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,1615,66,0.000000,1570.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,1714,68,0.000000,2285.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,1683,62,0.000000,6630.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,1644,66,0.000000,6622.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,1581,65,0.000000,1493.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,1671,69,0.000000,9584.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,1542,72,0.000000,2335.8
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,1492,71,0.000000,6753.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,1661,82,0.000000,1802.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,1527,66,0.000000,3615.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,1686,71,0.000000,1202.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,1701,72,0.000000,3731.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,1655,67,0.000000,13522.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,1497,71,0.000000,4288.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,1683,67,0.000000,8516.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,1681,75,0.000000,2501.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,1602,68,0.000000,2569.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,1593,67,0.000000,2291.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,1360,75,0.000000,3222.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,1522,67,0.000000,9536.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,1612,400,0.000000,34542.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,1499,63,0.000000,2885.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,1638,69,0.000000,6496.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,1635,70,0.000000,5911.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,1531,68,0.000000,6869.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,1599,65,0.000000,2629.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,1391,71,0.000000,9966.8
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,1568,83,0.000000,4454.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,1644,73,0.000000,2838.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,1623,64,0.000000,2551.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,1652,77,0.000000,1726.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,1600,72,0.000000,2612.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,1657,60,0.000000,2519.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,1560,66,0.000000,2581.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,1532,85,0.000000,2694.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,1609,75,0.000000,2320.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,1526,78,0.000000,13556.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,1637,88,0.000000,2554.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,1555,69,0.000000,2992.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,1685,66,0.000000,1998.8
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,1636,68,0.000000,4468.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,1713,57,0.000000,2364.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,1665,67,0.000000,1077.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,1641,57,0.000000,2088.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,1631,80,0.000000,4790.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,1581,77,0.000000,2511.8
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,1678,92,0.000000,6874.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,1714,90,0.000000,1790.3
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,1566,77,0.000000,3959.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,1682,80,0.000000,2481.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,1643,78,0.000000,5652.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,1698,68,0.000000,5557.3
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,1654,73,0.000000,3012.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,1659,74,0.000000,13659.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,1714,77,0.000000,2423.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,1627,69,0.000000,2179.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,1660,59,0.000000,9591.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,1672,80,0.000000,2731.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,1591,70,0.000000,2931.3
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,1617,81,0.000000,2360.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,1588,64,0.000000,3325.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,1527,63,0.000000,2421.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,1651,75,0.000000,11963.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,1641,73,0.000000,3167.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,1686,68,0.000000,3098.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,1496,85,0.000000,5597.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,1594,83,0.000000,4026.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,1715,72,0.000000,3776.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,1649,63,0.000000,9487.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,1490,78,0.000000,3196.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,1523,73,0.000000,4706.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,1494,72,0.000000,724.0
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,1723,70,0.000000,6066.3
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,1573,66,0.000000,2407.5
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,1633,68,0.000000,4265.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,1466,91,0.000000,5362.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,1634,67,0.000000,4034.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,1565,76,0.000000,17754.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,1622,63,0.000000,4724.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,1599,72,0.000000,3488.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,1630,75,0.000000,7333.9
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,1421,65,0.000000,2508.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,1619,76,0.000000,4010.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,1539,65,0.000000,3329.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,1708,56,0.000000,7279.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,1693,81,0.000000,3430.6
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,1603,64,0.000000,2011.1
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,1607,71,0.000000,10210.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,1615,75,0.000000,5096.4
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,1726,60,0.000000,3255.7
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,1552,77,0.000000,2796.2
+llm_judge_provenance,adjudicate,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,1689,92,0.000000,1960.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,449,5,0.000000,638.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,572,8,0.000000,723.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,528,5,0.000000,1513.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,220,77,0.000000,1584.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,230,103,0.000000,3696.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,252,85,0.000000,2751.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jumanah Essa-Hadad,393,62,0.000000,6656.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,503,10,0.000000,1015.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,537,6,0.000000,661.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,558,10,0.000000,889.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,234,103,0.000000,5555.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,249,109,0.000000,2144.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,263,93,0.000000,2448.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Martin Lambie-Nairn,435,67,0.000000,3853.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,548,9,0.000000,642.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,551,11,0.000000,911.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,535,9,0.000000,770.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,229,105,0.000000,4705.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,226,103,0.000000,5306.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,225,105,0.000000,3570.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Lord William Hamilton,442,75,0.000000,8516.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,591,2,0.000000,877.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,571,5,0.000000,567.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,514,9,0.000000,669.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,211,87,0.000000,2490.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,215,94,0.000000,10230.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,225,110,0.000000,3361.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Eliezer Calo,412,75,0.000000,18614.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,513,2,0.000000,548.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,488,9,0.000000,870.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,547,1,0.000000,1214.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,220,84,0.000000,3481.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,249,91,0.000000,3070.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,213,106,0.000000,15616.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Denis Poix-Daude,401,67,0.000000,2550.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,563,4,0.000000,2114.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,535,6,0.000000,860.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,570,6,0.000000,727.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,238,102,0.000000,2859.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,251,91,0.000000,5765.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,222,97,0.000000,2948.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Michael Mylonas,412,66,0.000000,2006.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,533,2,0.000000,804.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,521,2,0.000000,433.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,495,2,0.000000,834.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,199,74,0.000000,5552.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,189,95,0.000000,2457.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,205,83,0.000000,3163.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,François Carquet,362,63,0.000000,2165.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,354,10,0.000000,1657.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,525,9,0.000000,675.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,513,9,0.000000,932.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,266,89,0.000000,4386.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,223,80,0.000000,3173.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,227,102,0.000000,6247.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Wenqing He,401,72,0.000000,3677.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,699,3,0.000000,586.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,547,11,0.000000,1206.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,516,8,0.000000,626.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,224,91,0.000000,5148.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,262,113,0.000000,5648.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,229,97,0.000000,4177.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Gomorrah,426,66,0.000000,3530.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,549,4,0.000000,1479.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,571,5,0.000000,642.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,570,6,0.000000,3661.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,202,96,0.000000,5472.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,218,108,0.000000,3125.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,213,105,0.000000,3339.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Reconfiguration of hardware components of an integrated circuit,432,62,0.000000,2164.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,585,3,0.000000,475.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,559,4,0.000000,607.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,562,4,0.000000,1730.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,203,104,0.000000,4158.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,201,93,0.000000,3905.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,236,101,0.000000,3556.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Guy Avenia,411,71,0.000000,3121.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,501,5,0.000000,655.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,582,7,0.000000,1169.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,564,7,0.000000,688.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,218,80,0.000000,2582.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,235,97,0.000000,6066.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,223,93,0.000000,2940.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Wuilmen Bravo,393,68,0.000000,2736.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,555,6,0.000000,872.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,704,8,0.000000,1641.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,483,8,0.000000,690.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,234,104,0.000000,4117.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,236,92,0.000000,3627.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,229,103,0.000000,2716.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,456,69,0.000000,2358.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,558,10,0.000000,845.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,562,4,0.000000,533.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,535,10,0.000000,921.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,228,98,0.000000,3681.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,222,60,0.000000,3752.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,234,99,0.000000,5858.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Shinzu,382,74,0.000000,3099.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,495,9,0.000000,912.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,501,10,0.000000,1154.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,542,10,0.000000,893.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,234,96,0.000000,3771.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,236,92,0.000000,3042.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,272,105,0.000000,3748.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Luwamo Garcia,447,65,0.000000,2732.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,473,5,0.000000,769.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,527,8,0.000000,1034.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,528,4,0.000000,684.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,212,98,0.000000,2548.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,214,95,0.000000,2385.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,202,85,0.000000,3627.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jared Carter,395,62,0.000000,2959.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,573,6,0.000000,715.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,559,6,0.000000,574.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,580,4,0.000000,4408.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,214,91,0.000000,1931.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,221,99,0.000000,2670.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,211,108,0.000000,5966.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Carlos Moorhead,443,63,0.000000,7918.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,433,4,0.000000,818.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,553,4,0.000000,736.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,543,4,0.000000,867.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,211,105,0.000000,3248.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,214,85,0.000000,3642.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,223,91,0.000000,11102.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,New York News,422,52,0.000000,2287.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,561,6,0.000000,6383.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,585,6,0.000000,608.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,575,6,0.000000,825.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,223,105,0.000000,2956.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,215,104,0.000000,10952.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,223,112,0.000000,4536.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Hedda Heuser-Schreiber,470,68,0.000000,2458.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,586,6,0.000000,1263.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,569,4,0.000000,1331.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,554,5,0.000000,1043.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,272,96,0.000000,959.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,231,118,0.000000,3052.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,242,90,0.000000,3842.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Ydnekatchew Tessema,421,57,0.000000,4045.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,555,6,0.000000,586.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,551,4,0.000000,612.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,527,4,0.000000,583.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,207,79,0.000000,6823.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,206,91,0.000000,3417.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,217,94,0.000000,4973.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Chunguan Zhang,407,60,0.000000,10107.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,586,8,0.000000,6596.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,475,6,0.000000,805.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,471,8,0.000000,4952.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,255,83,0.000000,2765.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,222,89,0.000000,3225.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,235,92,0.000000,2929.1
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Sander van de Hoef,393,62,0.000000,5556.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,558,8,0.000000,828.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,573,3,0.000000,707.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,555,3,0.000000,626.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,219,88,0.000000,4503.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,214,91,0.000000,2932.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,209,112,0.000000,8201.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Katie Hurley,410,58,0.000000,1028.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,546,9,0.000000,697.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,565,5,0.000000,683.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,546,9,0.000000,689.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,223,93,0.000000,3091.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,221,106,0.000000,6057.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,232,97,0.000000,3550.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Viktor Kruglov,421,67,0.000000,3102.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,537,7,0.000000,614.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,545,8,0.000000,1187.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,632,14,0.000000,681.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,220,94,0.000000,1333.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,230,103,0.000000,4863.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,249,108,0.000000,5489.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Dorian Owen,431,71,0.000000,2529.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,549,7,0.000000,1945.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,529,7,0.000000,805.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,533,6,0.000000,586.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,231,95,0.000000,3377.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,235,99,0.000000,5549.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,225,100,0.000000,3401.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Wong Chin Hung,418,79,0.000000,4973.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,476,7,0.000000,828.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,424,4,0.000000,1445.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,433,7,0.000000,665.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,244,89,0.000000,17502.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,204,83,0.000000,4542.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,224,108,0.000000,2884.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Amber Brian,426,64,0.000000,2588.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,543,6,0.000000,657.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,454,6,0.000000,1681.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,529,4,0.000000,485.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,204,96,0.000000,3263.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,202,87,0.000000,3264.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,208,81,0.000000,2668.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Taylor Beck,375,88,0.000000,2714.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,551,4,0.000000,677.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,563,5,0.000000,1146.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,497,3,0.000000,644.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,231,93,0.000000,3260.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,206,94,0.000000,3208.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,206,96,0.000000,4222.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Pierre Langlois,397,63,0.000000,5418.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,549,6,0.000000,1377.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,411,7,0.000000,1215.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,534,5,0.000000,652.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,213,87,0.000000,4639.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,221,115,0.000000,4129.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,225,121,0.000000,4179.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,John Fenn,443,65,0.000000,2877.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,518,6,0.000000,499.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,576,8,0.000000,672.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,556,6,0.000000,842.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,254,93,0.000000,2996.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,231,119,0.000000,3947.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,213,82,0.000000,30212.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Fábio A L de Souza,419,75,0.000000,4429.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,539,3,0.000000,868.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,533,3,0.000000,531.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,560,3,0.000000,881.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,226,83,0.000000,2505.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,205,84,0.000000,2157.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,233,94,0.000000,3343.1
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,George Samuel Parsons,374,71,0.000000,2018.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,522,7,0.000000,598.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,556,6,0.000000,620.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,478,7,0.000000,6243.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,216,74,0.000000,1946.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,242,80,0.000000,2319.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,218,90,0.000000,7457.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,David Poeppel,364,73,0.000000,5583.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,502,2,0.000000,578.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,557,2,0.000000,411.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,559,2,0.000000,971.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,209,93,0.000000,12299.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,199,94,0.000000,2411.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,224,86,0.000000,3097.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Mission Terra,379,69,0.000000,5831.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,346,6,0.000000,1063.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,556,6,0.000000,975.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,499,7,0.000000,737.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,244,85,0.000000,2661.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,238,79,0.000000,2984.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,218,95,0.000000,4579.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Birgitta Larsson,384,61,0.000000,5378.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,525,4,0.000000,1298.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,570,12,0.000000,903.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,503,13,0.000000,610.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,230,126,0.000000,2719.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,243,100,0.000000,4064.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,251,119,0.000000,3233.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Stanisław Sienkiewicz,483,78,0.000000,2418.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,569,9,0.000000,1458.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,597,11,0.000000,6582.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,542,5,0.000000,97.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,229,100,0.000000,6439.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,237,84,0.000000,2393.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,237,106,0.000000,1810.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Yordanis Enríquez Canto,424,400,0.000000,21423.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,541,5,0.000000,632.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,561,5,0.000000,623.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,528,9,0.000000,918.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,218,91,0.000000,3730.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,231,82,0.000000,2815.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,243,100,0.000000,2930.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Manuel Garber,395,71,0.000000,2280.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,546,4,0.000000,749.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,561,2,0.000000,1481.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,547,2,0.000000,761.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,230,94,0.000000,2205.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,216,93,0.000000,6875.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,203,103,0.000000,4303.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Gladys Liu,402,63,0.000000,2824.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,528,4,0.000000,4749.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,600,4,0.000000,874.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,554,6,0.000000,592.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,220,97,0.000000,6749.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,223,88,0.000000,8133.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,242,112,0.000000,8019.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Ewa Śnieżyńska-Stolot,420,63,0.000000,1960.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,549,2,0.000000,555.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,567,4,0.000000,674.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,517,3,0.000000,453.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,239,106,0.000000,7827.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,208,132,0.000000,5620.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,217,113,0.000000,3694.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Supergirl: Woman of Tomorrow,470,58,0.000000,2124.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,418,25,0.000000,1286.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,563,8,0.000000,555.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,558,7,0.000000,614.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,264,101,0.000000,2902.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,243,104,0.000000,3907.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,245,95,0.000000,1398.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jack Collison,441,62,0.000000,6977.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,534,6,0.000000,1280.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,545,10,0.000000,814.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,434,6,0.000000,5694.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,223,84,0.000000,2228.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,240,117,0.000000,8580.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,254,87,0.000000,3385.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Tomasz Jodłowiec,443,78,0.000000,2757.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,506,4,0.000000,788.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,585,7,0.000000,725.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,572,4,0.000000,8165.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,212,92,0.000000,2480.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,215,90,0.000000,3402.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,237,78,0.000000,7823.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Fritz Renner,379,59,0.000000,10707.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,494,5,0.000000,1292.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,576,5,0.000000,1217.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,479,4,0.000000,788.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,210,84,0.000000,2097.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,209,78,0.000000,3122.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,207,103,0.000000,5621.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Molly M Fuentes,382,58,0.000000,2004.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,561,8,0.000000,1108.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,551,5,0.000000,874.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,548,5,0.000000,880.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,219,99,0.000000,5828.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,216,102,0.000000,4040.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,231,91,0.000000,2802.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Erol Sayan,412,55,0.000000,2096.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,559,6,0.000000,573.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,545,5,0.000000,618.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,482,5,0.000000,1514.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,230,101,0.000000,3665.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,206,78,0.000000,5206.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,238,79,0.000000,5338.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas McCollum,402,72,0.000000,2014.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,586,9,0.000000,791.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,540,4,0.000000,2094.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,548,5,0.000000,646.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,226,96,0.000000,3560.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,217,95,0.000000,1935.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,212,93,0.000000,5226.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jeff Reinert,402,72,0.000000,5607.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,544,5,0.000000,844.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,534,11,0.000000,936.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,567,6,0.000000,535.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,223,117,0.000000,1879.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,228,102,0.000000,3959.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,235,118,0.000000,2541.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Anatolii Hirshfeld,467,66,0.000000,2609.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,575,3,0.000000,641.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,558,2,0.000000,2858.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,566,400,0.000000,18238.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,615,109,0.000000,3313.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,620,97,0.000000,2853.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,1047,89,0.000000,2838.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,MiSafra LeSayfa,837,84,0.000000,3351.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,539,6,0.000000,698.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,541,6,0.000000,1799.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,540,6,0.000000,1016.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,261,98,0.000000,2773.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,237,11,0.000000,791.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,204,89,0.000000,8612.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Hunslet Penrhyn Port Class,320,65,0.000000,3419.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,574,3,0.000000,676.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,519,2,0.000000,394.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,568,2,0.000000,845.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,203,108,0.000000,3516.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,206,118,0.000000,14571.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,226,94,0.000000,3067.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,The Adventures of Paddington Bear,430,57,0.000000,6100.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,543,5,0.000000,729.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,513,6,0.000000,584.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,562,6,0.000000,753.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,215,97,0.000000,2687.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,218,94,0.000000,3093.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,244,80,0.000000,3274.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Keith Mackie,387,75,0.000000,2078.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,551,7,0.000000,748.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,506,10,0.000000,928.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,511,7,0.000000,2808.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,221,86,0.000000,9165.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,245,90,0.000000,3046.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,232,91,0.000000,2491.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Charles William Eliot,399,61,0.000000,1092.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,591,5,0.000000,635.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,565,4,0.000000,1390.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,567,5,0.000000,695.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,231,94,0.000000,2446.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,246,81,0.000000,2139.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,247,86,0.000000,2248.1
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Binyam Sisay Mendisu,387,72,0.000000,3477.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,564,7,0.000000,962.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,588,21,0.000000,911.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,571,1,0.000000,1006.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,255,79,0.000000,2383.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,259,107,0.000000,12712.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,238,110,0.000000,4245.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,José Pedro de Oliveira Galvão,435,79,0.000000,11015.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,455,4,0.000000,860.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,556,7,0.000000,10399.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,591,11,0.000000,911.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,215,104,0.000000,12779.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,224,91,0.000000,2464.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,251,107,0.000000,3899.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Sandi L. Navarro,430,82,0.000000,5517.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,550,6,0.000000,1072.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,589,8,0.000000,923.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,571,8,0.000000,777.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,232,93,0.000000,3633.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,247,109,0.000000,20490.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,239,96,0.000000,13172.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Mateo Cassierra,426,67,0.000000,7686.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,544,3,0.000000,759.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,544,6,0.000000,1451.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,526,3,0.000000,1123.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,207,88,0.000000,1436.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,243,98,0.000000,3187.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,242,109,0.000000,9101.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Johann Friedrich Agricola,435,68,0.000000,1847.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,549,3,0.000000,499.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,590,3,0.000000,3030.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,561,6,0.000000,5495.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,222,90,0.000000,4048.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,220,90,0.000000,2087.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,253,104,0.000000,2488.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Renée Reichová,427,59,0.000000,1950.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,574,4,0.000000,540.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,552,5,0.000000,510.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,566,5,0.000000,867.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,212,83,0.000000,1726.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,205,81,0.000000,2075.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,211,85,0.000000,12684.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Tina Leung,361,62,0.000000,2495.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,556,5,0.000000,770.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,573,4,0.000000,1265.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,557,5,0.000000,483.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,211,81,0.000000,2757.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,233,103,0.000000,2999.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,221,90,0.000000,2430.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Pamela Grassau,393,61,0.000000,1474.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,557,5,0.000000,727.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,558,5,0.000000,536.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,575,5,0.000000,3815.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,233,105,0.000000,4506.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,267,83,0.000000,3268.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,222,106,0.000000,2895.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jacques Adolphe Gervais-Lafond,514,64,0.000000,978.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,545,7,0.000000,5819.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,538,5,0.000000,555.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,552,5,0.000000,766.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,246,92,0.000000,2793.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,224,92,0.000000,2494.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,219,89,0.000000,1366.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Mohammad Naghavi-behzad,396,73,0.000000,4609.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,583,9,0.000000,723.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,566,7,0.000000,2701.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,529,8,0.000000,1356.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,233,97,0.000000,3248.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,251,109,0.000000,3028.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,228,95,0.000000,17094.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Lourdes Mohedano,424,70,0.000000,4444.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,550,9,0.000000,708.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,558,14,0.000000,983.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,564,13,0.000000,6960.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,260,91,0.000000,5222.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,243,101,0.000000,4623.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,253,79,0.000000,4693.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Carmine Chiellino,411,58,0.000000,2163.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,543,3,0.000000,641.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,510,8,0.000000,563.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,541,3,0.000000,604.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,219,94,0.000000,4925.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,258,88,0.000000,2567.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,216,98,0.000000,20243.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Thirty Years' War,402,71,0.000000,6621.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,451,3,0.000000,899.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,565,3,0.000000,726.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,561,7,0.000000,910.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,219,98,0.000000,12785.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,249,110,0.000000,3163.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,218,90,0.000000,1445.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,The Ox,444,55,0.000000,1691.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,528,6,0.000000,440.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,552,14,0.000000,1091.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,583,6,0.000000,628.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,226,99,0.000000,1770.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,231,94,0.000000,4077.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,257,93,0.000000,2351.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jimmy Baker,414,60,0.000000,2153.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,572,4,0.000000,1670.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,404,3,0.000000,607.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,540,4,0.000000,678.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,203,100,0.000000,6357.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,235,84,0.000000,7558.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,217,82,0.000000,3756.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Ronald A Farrar-Tobar,385,58,0.000000,2951.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,560,3,0.000000,650.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,589,3,0.000000,572.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,518,400,0.000000,18646.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,617,79,0.000000,9711.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,609,91,0.000000,4917.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,996,92,0.000000,11615.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,James Pat Rokeby Black,774,57,0.000000,5670.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,533,2,0.000000,1576.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,564,3,0.000000,2119.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,568,3,0.000000,510.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,217,96,0.000000,7029.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,224,76,0.000000,15004.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,219,99,0.000000,3683.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Andreas Højsleth,388,64,0.000000,1808.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,544,6,0.000000,698.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,563,3,0.000000,1613.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,556,6,0.000000,581.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,216,121,0.000000,4060.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,219,106,0.000000,1040.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,224,85,0.000000,8268.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Moe Z. Win,432,72,0.000000,3587.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,479,8,0.000000,887.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,460,5,0.000000,490.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,544,5,0.000000,731.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,240,103,0.000000,2691.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,218,94,0.000000,1931.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,213,113,0.000000,4046.1
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Monisola Oginni,460,58,0.000000,1813.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,492,6,0.000000,650.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,673,11,0.000000,710.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,581,7,0.000000,806.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,224,86,0.000000,2951.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,259,85,0.000000,2663.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,259,94,0.000000,2794.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Elvira R. Akhmetzyanova,418,62,0.000000,1727.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,593,7,0.000000,590.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,527,4,0.000000,603.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,554,4,0.000000,642.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,235,85,0.000000,2624.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,204,84,0.000000,3339.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,215,81,0.000000,5705.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Kurt L. Feigl,371,65,0.000000,2898.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,536,4,0.000000,740.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,527,4,0.000000,959.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,547,5,0.000000,794.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,210,96,0.000000,3860.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,217,100,0.000000,6675.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,205,93,0.000000,14879.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Carl Temple Holden,403,55,0.000000,1619.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,540,5,0.000000,622.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,587,8,0.000000,681.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,383,8,0.000000,4368.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,230,86,0.000000,4129.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,232,95,0.000000,2465.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,228,86,0.000000,3863.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Nicola Zoccoli,391,65,0.000000,2593.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,507,4,0.000000,1316.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,528,2,0.000000,864.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,505,2,0.000000,607.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,206,89,0.000000,2511.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,209,94,0.000000,4934.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,225,100,0.000000,3548.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Marina Tarasova,394,64,0.000000,964.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,478,5,0.000000,371.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,501,5,0.000000,464.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,496,5,0.000000,705.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,208,90,0.000000,9879.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,204,93,0.000000,3808.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,209,85,0.000000,9419.6
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Thomas Dupré,385,60,0.000000,3488.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,564,8,0.000000,122.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,586,6,0.000000,517.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,554,8,0.000000,716.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,254,83,0.000000,2966.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,231,83,0.000000,1471.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,251,79,0.000000,1790.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Jianmin Hao,373,69,0.000000,1876.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,484,2,0.000000,416.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,564,5,0.000000,1020.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,569,2,0.000000,404.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,231,114,0.000000,737.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,206,92,0.000000,2358.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,204,91,0.000000,3646.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Romero Cabral da Costa,412,57,0.000000,2850.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,544,7,0.000000,922.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,585,7,0.000000,537.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,525,8,0.000000,553.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,224,92,0.000000,3901.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,231,82,0.000000,2652.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,228,109,0.000000,2758.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Marcin Olszewski,413,80,0.000000,18708.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,479,7,0.000000,659.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,514,7,0.000000,1451.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,503,7,0.000000,605.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,221,123,0.000000,2405.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,244,90,0.000000,2636.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,221,91,0.000000,4503.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Danielle W Koontz,456,63,0.000000,3080.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,519,7,0.000000,637.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,551,7,0.000000,961.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,564,7,0.000000,1050.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,235,98,0.000000,2370.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,225,111,0.000000,4964.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,221,91,0.000000,3375.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Fajar Handika,424,65,0.000000,2656.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,572,5,0.000000,685.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,434,10,0.000000,1612.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,578,5,0.000000,605.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,216,83,0.000000,1704.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,212,102,0.000000,2506.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,211,98,0.000000,2592.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Richardson Sears,404,63,0.000000,1322.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,516,4,0.000000,6272.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,555,3,0.000000,767.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,551,4,0.000000,442.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,199,106,0.000000,3582.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,208,97,0.000000,4563.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,201,97,0.000000,3061.8
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Robert Mougin,411,55,0.000000,1582.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,561,5,0.000000,725.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,490,5,0.000000,483.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,554,5,0.000000,816.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,216,92,0.000000,4563.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,254,96,0.000000,2125.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,216,99,0.000000,3906.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Edmond Crompton,405,65,0.000000,5150.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,576,18,0.000000,1638.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,553,4,0.000000,810.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,545,8,0.000000,651.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,250,97,0.000000,2949.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,231,119,0.000000,4210.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,238,96,0.000000,8007.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Michael C. De Siena,472,85,0.000000,1643.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,463,8,0.000000,720.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,417,22,0.000000,1205.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,514,4,0.000000,660.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,237,110,0.000000,3795.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,251,138,0.000000,3541.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,233,94,0.000000,6296.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Allan Hookings,479,68,0.000000,20007.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,551,23,0.000000,810.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,499,9,0.000000,742.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,557,8,0.000000,748.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,257,104,0.000000,3190.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,237,98,0.000000,3115.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,269,94,0.000000,3754.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Philip Wilkinson,439,66,0.000000,6793.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,572,2,0.000000,474.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,544,13,0.000000,1538.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,470,13,0.000000,626.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,218,112,0.000000,3297.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,260,90,0.000000,2282.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,231,99,0.000000,3292.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Carson Reynolds,431,68,0.000000,1125.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,539,4,0.000000,542.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,567,4,0.000000,609.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,564,7,0.000000,673.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,215,88,0.000000,2738.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,219,95,0.000000,2953.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,226,105,0.000000,2842.5
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Sandip Mukherjee,434,57,0.000000,1608.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,580,10,0.000000,605.6
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,565,4,0.000000,645.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,559,4,0.000000,4608.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,222,96,0.000000,3439.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,214,94,0.000000,2456.7
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,242,100,0.000000,3468.3
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Eumundi,436,52,0.000000,1383.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,489,4,0.000000,1025.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,567,2,0.000000,510.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,552,2,0.000000,555.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,204,79,0.000000,2874.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,235,78,0.000000,834.4
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,219,88,0.000000,7762.4
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Marko Cvikl,357,70,0.000000,1905.9
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,573,8,0.000000,928.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,541,8,0.000000,1963.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,512,5,0.000000,632.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,222,113,0.000000,3186.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,222,78,0.000000,25928.3
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,226,90,0.000000,19874.2
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Co-reading group ad hoc forum,434,60,0.000000,1400.8
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,546,9,0.000000,1335.5
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,561,7,0.000000,533.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,553,9,0.000000,528.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,226,89,0.000000,10849.1
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,217,95,0.000000,2904.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,228,107,0.000000,2938.7
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Athar Hussain Bukhari,421,75,0.000000,3209.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,585,6,0.000000,569.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,567,8,0.000000,3118.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,593,6,0.000000,6510.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,221,124,0.000000,13527.2
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,205,101,0.000000,15444.0
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,224,98,0.000000,7977.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Automated capacity management using artificial intelligence techniques,451,57,0.000000,1177.1
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,553,8,0.000000,723.0
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,464,5,0.000000,711.3
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,507,8,0.000000,116.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,252,103,0.000000,2571.9
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,217,100,0.000000,2925.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,247,94,0.000000,2765.0
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Tony Hodges,422,64,0.000000,1828.7
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,577,4,0.000000,941.4
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,568,4,0.000000,6478.2
+multi_agent_debate,extract,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,571,8,0.000000,6258.5
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,226,83,0.000000,2208.8
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,227,93,0.000000,8212.6
+multi_agent_debate,rebuttal,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,225,100,0.000000,2531.9
+multi_agent_debate,judge,openrouter/meta-llama/llama-3.3-70b-instruct,Janet Auchincloss Rutherfurd,398,65,0.000000,11574.8

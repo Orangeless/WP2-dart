@@ -1,0 +1,76 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd
+llm_judge,default,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,mixed,2,0,1,0,2,National Library of Russia,The Azrieli Faculty of Medicine,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,mixed,2,1,0,0,2,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Lord William Hamilton,mixed,2,1,0,0,1,"Frances Vane, Viscountess Vane","Frances Vane, Viscountess Vane",0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Eliezer Calo,mixed,2,1,0,0,2,Massachusetts Institute of Technology (MIT),Massachusetts Institute of Technology,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,mixed,2,1,0,0,1,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Michael Mylonas,mixed,2,0,1,0,1,Member of the European Parliament,King's Counsel,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,François Carquet,mixed,2,1,0,0,2,France,France,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Wenqing He,mixed,2,1,0,0,2,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Gomorrah,mixed,2,1,0,0,1,Broadcast Film Critics Association Award,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,mixed,2,0,1,0,1,New Horizon construction project,filing,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Guy Avenia,mixed,2,0,0,0,2,politician,anciennes professions intermédiaires,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,mixed,2,0,1,0,1,Grays Athletic F.C.,JHS Aves,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,1,0,0,2,Sub-Prefect of Saint-Affrique,sub-prefect of Saint-Affrique,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Shinzu,mixed,2,1,0,0,1,Hamamatsu,Hamamatsu,0.0
+llm_judge,default,openrouter/google/gemma-3-4b-it,Luwamo Garcia,mixed,2,1,0,0,2,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,mixed,2,1,0,0,0,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,mixed,2,1,0,0,0,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Lord William Hamilton,mixed,2,1,0,0,0,Frances Vane,"Frances Vane, Viscountess Vane",0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Eliezer Calo,mixed,2,0,1,0,0,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,mixed,2,0,1,0,0,Dean,conseiller municipal de Jougne,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Michael Mylonas,mixed,2,1,0,0,0,King's Counsel,King's Counsel,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,François Carquet,mixed,2,1,0,0,0,France,France,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Wenqing He,mixed,2,0,1,0,0,Memorial Sloan Kettering Cancer Center,"The Chinese University of Hong Kong, Shenzhen",0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Gomorrah,mixed,2,0,1,0,0,Locus Award for Best Fantasy Novel,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,mixed,2,0,0,0,0,US 11256840,filing,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Guy Avenia,mixed,2,0,0,0,0,Railway carpenter,anciennes professions intermédiaires,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,mixed,2,1,0,0,0,JHS Aves,JHS Aves,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,1,0,0,0,Sub-Prefect,sub-prefect of Saint-Affrique,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Shinzu,mixed,2,0,1,0,0,Roman Catholic Diocese of Tui-Vigo,Hamamatsu,0.0
+majority_vote,default,openrouter/google/gemma-3-4b-it,Luwamo Garcia,mixed,2,1,0,0,0,Ethnikos Asteras F.C,Ethnikos Asteras F.C.,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,mixed,2,1,0,0,1,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,mixed,2,1,0,0,0,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Lord William Hamilton,mixed,2,1,0,0,0,Frances Vane,"Frances Vane, Viscountess Vane",0.0
+recency,default,openrouter/google/gemma-3-4b-it,Eliezer Calo,mixed,2,0,0,0,0,MIT,Massachusetts Institute of Technology,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,mixed,2,1,0,0,0,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Michael Mylonas,mixed,2,1,0,0,0,King's Counsel,King's Counsel,0.0
+recency,default,openrouter/google/gemma-3-4b-it,François Carquet,mixed,2,1,0,0,0,France,France,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Wenqing He,mixed,2,0,1,0,0,Memorial Sloan Kettering Cancer Center,"The Chinese University of Hong Kong, Shenzhen",0.0
+recency,default,openrouter/google/gemma-3-4b-it,Gomorrah,mixed,2,1,0,0,0,Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,mixed,2,0,0,0,0,New Horizon Tower project,filing,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Guy Avenia,mixed,2,1,0,0,0,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,mixed,2,0,1,0,0,Grays Athletic F.C,JHS Aves,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,1,0,0,1,Sub-Prefect,sub-prefect of Saint-Affrique,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Shinzu,mixed,2,1,0,0,1,Hamamatsu,Hamamatsu,0.0
+recency,default,openrouter/google/gemma-3-4b-it,Luwamo Garcia,mixed,2,0,1,0,0,Vale of Leithen F.C,Ethnikos Asteras F.C.,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,mixed,2,1,0,0,1,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,mixed,2,1,0,0,0,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Lord William Hamilton,mixed,2,1,0,0,1,Frances Vane,"Frances Vane, Viscountess Vane",0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Eliezer Calo,mixed,2,0,0,0,0,MIT,Massachusetts Institute of Technology,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,mixed,2,1,0,0,0,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Michael Mylonas,mixed,2,1,0,0,1,King's Counsel,King's Counsel,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,François Carquet,mixed,2,1,0,0,1,France,France,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Wenqing He,mixed,2,1,0,0,1,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Gomorrah,mixed,2,1,0,0,1,Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,mixed,2,0,0,0,1,US 11256840,filing,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Guy Avenia,mixed,2,1,0,0,1,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,mixed,2,1,0,0,1,JHS Aves,JHS Aves,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,1,0,0,1,Sub-Prefect,sub-prefect of Saint-Affrique,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Shinzu,mixed,2,1,0,0,0,Hamamatsu,Hamamatsu,0.0
+source_trust,default,openrouter/google/gemma-3-4b-it,Luwamo Garcia,mixed,2,1,0,0,0,Ethnikos Asteras F.C,Ethnikos Asteras F.C.,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,mixed,2,0,1,0,2,National Library of Russia,The Azrieli Faculty of Medicine,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,mixed,2,1,0,0,1,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Lord William Hamilton,mixed,2,0,1,0,1,Mary Hamilton,"Frances Vane, Viscountess Vane",0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Eliezer Calo,mixed,2,0,1,0,2,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,mixed,2,1,0,0,2,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Michael Mylonas,mixed,2,0,1,0,1,Member of the European Parliament,King's Counsel,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,François Carquet,mixed,2,1,0,0,1,France,France,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Wenqing He,mixed,2,1,0,0,1,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Gomorrah,mixed,2,1,0,0,2,Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,mixed,2,0,0,0,1,US 11256840,filing,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Guy Avenia,mixed,2,1,0,0,2,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,mixed,2,1,0,0,2,JHS Aves,JHS Aves,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,0,1,0,2,Vicar apostolic,sub-prefect of Saint-Affrique,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Shinzu,mixed,2,1,0,0,2,Hamamatsu,Hamamatsu,0.0
+multi_agent_debate,default,openrouter/google/gemma-3-4b-it,Luwamo Garcia,mixed,2,1,0,0,1,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0

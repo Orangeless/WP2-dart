@@ -1,0 +1,901 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,1533,10,0.000000,923.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,1633,15,0.000000,823.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,1674,14,0.000000,789.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,1699,20,0.000000,1397.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,1591,14,0.000000,1187.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,1726,11,0.000000,798.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,1552,7,0.000000,1160.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,1461,15,0.000000,959.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,1680,13,0.000000,814.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,1726,11,0.000000,821.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,1681,13,0.000000,909.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,1634,10,0.000000,666.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,1589,11,0.000000,754.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,1702,15,0.000000,903.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,1561,15,0.000000,1073.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,1548,13,0.000000,980.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,1696,11,0.000000,1068.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,New York News,1528,9,0.000000,647.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,1726,11,0.000000,736.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,1778,9,0.000000,770.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,1725,9,0.000000,709.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,1506,11,0.000000,744.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,1741,8,0.000000,670.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,1689,10,0.000000,835.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,1637,12,0.000000,734.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,1660,13,0.000000,681.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,1343,12,0.000000,707.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,1545,11,0.000000,730.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,1621,9,0.000000,856.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,1495,10,0.000000,718.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,1701,13,0.000000,817.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,1706,9,0.000000,614.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,1543,11,0.000000,658.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,1629,7,0.000000,604.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,1425,12,0.000000,678.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,1638,18,0.000000,726.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,1657,10,0.000000,692.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,1670,10,0.000000,713.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,1690,7,0.000000,606.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,1581,9,0.000000,708.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,1668,7,0.000000,653.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,1690,12,0.000000,717.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,1526,11,0.000000,717.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,1619,9,0.000000,828.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,1548,9,0.000000,666.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,1651,13,0.000000,791.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,1622,10,0.000000,721.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,1777,10,0.000000,744.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,1652,22,0.000000,774.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,1725,8,0.000000,613.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,1691,11,0.000000,744.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,1649,7,0.000000,612.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,1683,11,0.000000,694.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,1679,15,0.000000,909.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,1704,10,0.000000,749.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,1769,12,0.000000,774.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,1578,12,0.000000,687.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,1719,13,0.000000,881.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,1638,9,0.000000,839.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,1804,11,0.000000,813.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,1692,10,0.000000,728.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,1719,10,0.000000,752.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,1734,10,0.000000,670.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,1670,10,0.000000,706.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,1678,14,0.000000,759.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,1694,18,0.000000,824.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,1637,18,0.000000,721.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,1635,10,0.000000,680.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,1619,11,0.000000,791.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,1540,9,0.000000,701.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,1691,9,0.000000,625.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,1664,8,0.000000,679.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,1709,11,0.000000,1210.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,1574,10,0.000000,780.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,1633,12,0.000000,908.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,1733,9,0.000000,651.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,1683,9,0.000000,692.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,1557,9,0.000000,807.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,1546,10,0.000000,686.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,1476,10,0.000000,728.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,1744,13,0.000000,752.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,1578,9,0.000000,621.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,1651,12,0.000000,942.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,1500,12,0.000000,659.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,1623,12,0.000000,715.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,1583,15,0.000000,794.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,1667,9,0.000000,657.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,1636,10,0.000000,720.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,1675,13,0.000000,657.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,1496,13,0.000000,683.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,1678,16,0.000000,673.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,1579,11,0.000000,761.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,1757,12,0.000000,730.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,1703,9,0.000000,672.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,1620,10,0.000000,658.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,1639,15,0.000000,704.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,1628,14,0.000000,1223.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,1754,8,0.000000,683.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,1572,13,0.000000,666.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,1722,13,0.000000,838.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,1553,103,0.000000,1637.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,1653,76,0.000000,1146.7
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,1694,69,0.000000,1242.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,1719,69,0.000000,1302.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,1632,58,0.000000,1544.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,1746,61,0.000000,1736.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,1572,38,0.000000,1227.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,1481,58,0.000000,1176.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,1700,62,0.000000,1363.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,1746,62,0.000000,1336.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,1680,52,0.000000,907.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,1654,65,0.000000,2108.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,1609,57,0.000000,1511.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,1722,61,0.000000,1449.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,1581,51,0.000000,1758.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,1568,53,0.000000,1219.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,1716,53,0.000000,1244.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,New York News,1569,65,0.000000,1751.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,1746,72,0.000000,1565.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,1798,60,0.000000,1252.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,1745,62,0.000000,1398.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,1526,58,0.000000,1313.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,1761,60,0.000000,1198.7
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,1709,55,0.000000,1083.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,1657,65,0.000000,1195.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,1680,73,0.000000,1581.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,1363,61,0.000000,1317.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,1565,63,0.000000,1121.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,1641,61,0.000000,1722.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,1515,61,0.000000,1613.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,1721,72,0.000000,2128.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,1726,51,0.000000,1293.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,1563,58,0.000000,1595.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,1649,52,0.000000,1150.3
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,1445,70,0.000000,1100.3
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,1658,47,0.000000,1583.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,1677,62,0.000000,1508.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,1669,56,0.000000,1019.3
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,1710,52,0.000000,1230.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,1601,63,0.000000,1562.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,1688,47,0.000000,1414.3
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,1710,66,0.000000,1075.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,1546,62,0.000000,1109.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,1639,61,0.000000,1393.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,1568,58,0.000000,1002.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,1671,69,0.000000,1147.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,1642,94,0.000000,1706.7
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,1797,53,0.000000,1508.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,1672,67,0.000000,2135.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,1745,50,0.000000,1467.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,1711,80,0.000000,1241.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,1669,43,0.000000,929.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,1703,58,0.000000,968.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,1699,71,0.000000,1689.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,1724,67,0.000000,1084.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,1789,67,0.000000,1111.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,1598,56,0.000000,1498.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,1739,68,0.000000,1115.9
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,1658,58,0.000000,1702.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,1824,56,0.000000,1035.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,1712,59,0.000000,1010.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,1718,62,0.000000,951.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,1754,62,0.000000,1275.3
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,1690,57,0.000000,1461.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,1698,66,0.000000,1925.3
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,1714,87,0.000000,1898.7
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,1657,72,0.000000,1488.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,1655,54,0.000000,1190.7
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,1639,63,0.000000,1145.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,1560,62,0.000000,1934.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,1711,59,0.000000,1621.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,1684,56,0.000000,1123.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,1729,52,0.000000,1200.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,1594,60,0.000000,1451.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,1653,62,0.000000,1477.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,1753,72,0.000000,1418.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,1703,57,0.000000,1350.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,1577,58,0.000000,1360.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,1566,71,0.000000,1714.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,1496,77,0.000000,2045.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,1764,72,0.000000,1707.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,1598,67,0.000000,1441.7
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,1671,74,0.000000,1625.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,1520,67,0.000000,1562.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,1643,68,0.000000,1490.0
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,1603,53,0.000000,1327.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,1687,53,0.000000,986.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,1656,50,0.000000,998.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,1695,76,0.000000,1957.2
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,1516,61,0.000000,1539.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,1698,51,0.000000,1376.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,1599,58,0.000000,1161.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,1777,65,0.000000,1536.6
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,1723,58,0.000000,2081.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,1640,45,0.000000,1363.5
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,1680,69,0.000000,1824.1
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,1648,57,0.000000,1534.8
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,1774,71,0.000000,1450.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,1592,52,0.000000,1427.4
+llm_judge_provenance,adjudicate,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,1742,100,0.000000,1987.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,469,5,0.000000,589.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,590,8,0.000000,622.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,547,5,0.000000,658.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,238,117,0.000000,2296.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,248,108,0.000000,1890.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,246,85,0.000000,1610.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jumanah Essa-Hadad,456,41,0.000000,1139.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,527,10,0.000000,931.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,557,6,0.000000,633.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,590,10,0.000000,723.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,257,73,0.000000,1444.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,243,72,0.000000,1115.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,259,70,0.000000,1797.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Martin Lambie-Nairn,364,50,0.000000,1339.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,570,9,0.000000,703.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,581,11,0.000000,697.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,580,9,0.000000,668.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,247,64,0.000000,1621.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,245,91,0.000000,1856.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,246,74,0.000000,1598.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Lord William Hamilton,377,40,0.000000,1080.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,596,2,0.000000,596.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,627,15,0.000000,781.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,539,9,0.000000,680.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,239,92,0.000000,1512.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,251,80,0.000000,1758.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,254,75,0.000000,1878.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Eliezer Calo,396,57,0.000000,1184.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,572,6,0.000000,753.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,517,9,0.000000,704.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,589,2,0.000000,602.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,249,91,0.000000,1909.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,247,71,0.000000,1253.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,236,82,0.000000,1520.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Denis Poix-Daude,365,40,0.000000,718.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,565,4,0.000000,533.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,554,6,0.000000,611.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,636,6,0.000000,650.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,232,71,0.000000,1365.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,245,78,0.000000,1508.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,245,64,0.000000,1332.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Michael Mylonas,353,50,0.000000,1181.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,552,3,0.000000,588.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,543,2,0.000000,620.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,515,3,0.000000,602.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,219,114,0.000000,2291.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,207,91,0.000000,1694.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,224,104,0.000000,1325.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,François Carquet,437,44,0.000000,912.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,388,10,0.000000,707.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,519,9,0.000000,674.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,539,9,0.000000,700.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,268,77,0.000000,1758.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,242,99,0.000000,1290.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,248,118,0.000000,2334.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Wenqing He,443,48,0.000000,988.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,578,4,0.000000,1156.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,580,11,0.000000,714.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,541,8,0.000000,677.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,246,113,0.000000,2504.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,260,84,0.000000,1838.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,254,111,0.000000,2605.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Gomorrah,453,49,0.000000,1357.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,575,4,0.000000,641.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,589,8,0.000000,678.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,605,7,0.000000,763.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,225,93,0.000000,1597.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,243,99,0.000000,2446.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,239,82,0.000000,2082.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Reconfiguration of hardware components of an integrated circuit,420,58,0.000000,2258.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,565,8,0.000000,680.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,588,4,0.000000,628.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,582,4,0.000000,606.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,230,78,0.000000,1700.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,227,114,0.000000,2524.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,235,120,0.000000,2536.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Guy Avenia,448,54,0.000000,1411.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,520,5,0.000000,707.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,589,7,0.000000,680.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,582,7,0.000000,705.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,237,66,0.000000,1529.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,258,65,0.000000,1680.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,241,103,0.000000,2337.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Wuilmen Bravo,375,50,0.000000,1048.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,580,6,0.000000,710.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,575,10,0.000000,679.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,502,5,0.000000,605.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,254,111,0.000000,2400.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,252,108,0.000000,2228.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,222,117,0.000000,1795.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,485,66,0.000000,1515.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,592,10,0.000000,698.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,564,4,0.000000,681.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,560,10,0.000000,697.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,248,115,0.000000,2597.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,241,115,0.000000,2580.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,258,92,0.000000,1524.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Shinzu,466,44,0.000000,1183.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,519,9,0.000000,744.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,519,10,0.000000,744.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,573,10,0.000000,696.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,253,93,0.000000,2300.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,255,92,0.000000,1202.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,269,101,0.000000,1341.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Luwamo Garcia,434,53,0.000000,1408.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,468,5,0.000000,642.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,588,8,0.000000,723.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,528,7,0.000000,668.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,233,103,0.000000,2314.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,239,126,0.000000,2538.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,229,84,0.000000,1529.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jared Carter,452,44,0.000000,1385.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,572,3,0.000000,802.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,600,6,0.000000,698.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,584,4,0.000000,652.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,226,87,0.000000,1626.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,241,88,0.000000,1940.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,227,91,0.000000,1717.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Carlos Moorhead,402,49,0.000000,1364.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,New York News,451,4,0.000000,582.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,New York News,586,4,0.000000,642.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,New York News,568,6,0.000000,688.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,New York News,229,71,0.000000,1435.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,New York News,236,71,0.000000,1584.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,New York News,245,71,0.000000,1647.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,New York News,348,46,0.000000,1190.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,587,6,0.000000,656.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,587,6,0.000000,640.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,583,6,0.000000,660.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,241,92,0.000000,1977.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,234,108,0.000000,1519.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,242,109,0.000000,2402.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Hedda Heuser-Schreiber,452,81,0.000000,1847.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,599,6,0.000000,763.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,603,4,0.000000,854.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,601,6,0.000000,748.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,253,87,0.000000,1487.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,249,111,0.000000,2748.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,267,111,0.000000,1568.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Ydnekatchew Tessema,453,64,0.000000,1360.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,567,6,0.000000,921.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,570,4,0.000000,910.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,550,4,0.000000,1308.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,225,75,0.000000,1431.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,224,87,0.000000,3063.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,237,98,0.000000,1398.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Chunguan Zhang,397,53,0.000000,1796.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,588,8,0.000000,724.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,493,6,0.000000,757.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,490,8,0.000000,674.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,251,121,0.000000,2401.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,219,90,0.000000,6614.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,253,97,0.000000,1825.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Sander van de Hoef,456,76,0.000000,1519.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,585,8,0.000000,674.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,596,3,0.000000,627.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,581,3,0.000000,754.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,238,98,0.000000,2088.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,240,103,0.000000,2452.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,229,94,0.000000,2258.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Katie Hurley,432,40,0.000000,1271.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,569,9,0.000000,748.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,591,5,0.000000,806.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,584,9,0.000000,790.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,243,85,0.000000,1967.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,239,85,0.000000,2030.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,253,68,0.000000,1335.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Viktor Kruglov,381,55,0.000000,1366.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,560,7,0.000000,691.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,574,8,0.000000,638.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,522,11,0.000000,802.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,240,87,0.000000,1304.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,252,88,0.000000,1571.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,243,85,0.000000,1188.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Dorian Owen,383,46,0.000000,883.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,604,8,0.000000,771.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,574,8,0.000000,877.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,532,6,0.000000,577.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,257,89,0.000000,1941.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,262,83,0.000000,1240.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,245,88,0.000000,1761.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Wong Chin Hung,405,57,0.000000,980.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,498,7,0.000000,748.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,420,4,0.000000,811.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,452,7,0.000000,819.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,240,89,0.000000,1324.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,223,78,0.000000,1858.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,242,108,0.000000,1611.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Amber Brian,415,38,0.000000,818.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,537,4,0.000000,557.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,492,6,0.000000,681.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,551,4,0.000000,587.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,222,87,0.000000,2269.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,223,90,0.000000,1933.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,230,85,0.000000,1881.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Taylor Beck,392,45,0.000000,925.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,573,4,0.000000,603.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,584,4,0.000000,566.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,516,5,0.000000,662.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,225,89,0.000000,2293.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,223,102,0.000000,1918.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,226,103,0.000000,1331.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Pierre Langlois,427,41,0.000000,1122.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,567,6,0.000000,658.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,405,7,0.000000,647.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,574,5,0.000000,612.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,231,94,0.000000,1265.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,239,106,0.000000,1791.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,249,101,0.000000,1570.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,John Fenn,439,53,0.000000,1681.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,531,6,0.000000,624.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,578,8,0.000000,692.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,585,6,0.000000,638.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,251,83,0.000000,2082.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,249,94,0.000000,2020.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,232,86,0.000000,1792.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Fábio A L de Souza,407,53,0.000000,1341.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,568,4,0.000000,633.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,550,3,0.000000,1030.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,610,3,0.000000,622.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,225,102,0.000000,1970.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,228,60,0.000000,1399.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,235,64,0.000000,1911.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,George Samuel Parsons,358,43,0.000000,1251.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,542,7,0.000000,731.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,557,6,0.000000,602.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,498,7,0.000000,684.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,213,71,0.000000,1420.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,237,102,0.000000,1839.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,237,112,0.000000,2693.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,David Poeppel,424,50,0.000000,1108.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,529,2,0.000000,812.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,576,2,0.000000,693.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,555,2,0.000000,612.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,203,74,0.000000,2502.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,217,84,0.000000,1965.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,218,79,0.000000,1701.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Mission Terra,362,57,0.000000,2012.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,364,6,0.000000,736.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,609,6,0.000000,803.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,519,7,0.000000,695.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,238,97,0.000000,2088.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,234,81,0.000000,1696.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,237,103,0.000000,2192.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Birgitta Larsson,425,53,0.000000,1492.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,544,4,0.000000,748.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,624,6,0.000000,744.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,530,13,0.000000,765.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,243,80,0.000000,1308.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,254,126,0.000000,1890.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,264,76,0.000000,1708.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Stanisław Sienkiewicz,433,51,0.000000,1248.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,609,5,0.000000,621.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,584,10,0.000000,745.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,533,5,0.000000,680.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,236,103,0.000000,2234.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,246,103,0.000000,1919.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,247,63,0.000000,1473.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Yordanis Enríquez Canto,416,57,0.000000,1579.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,561,5,0.000000,677.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,617,5,0.000000,675.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,534,9,0.000000,519.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,237,70,0.000000,1229.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,225,107,0.000000,1386.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,238,76,0.000000,1832.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Manuel Garber,393,58,0.000000,1250.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,575,6,0.000000,907.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,608,2,0.000000,790.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,565,2,0.000000,651.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,229,98,0.000000,1983.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,242,112,0.000000,1748.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,223,113,0.000000,2020.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Gladys Liu,455,52,0.000000,1368.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,512,4,0.000000,618.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,594,4,0.000000,624.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,537,5,0.000000,624.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,236,73,0.000000,2002.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,241,117,0.000000,1968.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,233,73,0.000000,1672.5
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Ewa Śnieżyńska-Stolot,403,46,0.000000,1076.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,567,2,0.000000,589.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,597,4,0.000000,694.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,536,4,0.000000,650.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,232,103,0.000000,2179.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,226,60,0.000000,1455.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,233,116,0.000000,2149.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Supergirl: Woman of Tomorrow,415,57,0.000000,1458.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,469,8,0.000000,631.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,629,8,0.000000,757.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,621,7,0.000000,744.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,248,89,0.000000,1248.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,246,95,0.000000,1295.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,248,91,0.000000,1275.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jack Collison,416,56,0.000000,1461.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,565,6,0.000000,693.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,570,10,0.000000,794.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,452,6,0.000000,814.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,244,90,0.000000,1253.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,259,91,0.000000,1247.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,248,93,0.000000,1240.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Tomasz Jodłowiec,402,42,0.000000,773.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,526,4,0.000000,588.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,588,17,0.000000,776.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,568,4,0.000000,647.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,240,100,0.000000,1290.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,255,115,0.000000,2368.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,241,105,0.000000,2261.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Fritz Renner,468,43,0.000000,1079.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,525,5,0.000000,660.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,570,5,0.000000,657.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,484,4,0.000000,1496.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,230,86,0.000000,1188.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,227,62,0.000000,1443.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,226,81,0.000000,2233.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Molly M Fuentes,365,47,0.000000,1341.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,559,8,0.000000,713.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,582,5,0.000000,689.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,566,5,0.000000,750.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,238,81,0.000000,1764.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,237,99,0.000000,1978.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,225,118,0.000000,2099.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Erol Sayan,436,64,0.000000,1698.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,586,9,0.000000,704.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,594,5,0.000000,661.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,503,5,0.000000,721.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,228,101,0.000000,2021.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,227,99,0.000000,2249.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,237,103,0.000000,2216.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Thomas McCollum,443,49,0.000000,1325.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,599,5,0.000000,749.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,594,5,0.000000,708.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,592,5,0.000000,665.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,239,104,0.000000,2232.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,234,63,0.000000,1588.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,234,78,0.000000,1526.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jeff Reinert,357,45,0.000000,1129.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,562,5,0.000000,5266.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,556,11,0.000000,1466.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,597,6,0.000000,2755.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,242,114,0.000000,6037.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,249,95,0.000000,5000.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,254,95,0.000000,2328.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Anatolii Hirshfeld,452,45,0.000000,1553.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,594,3,0.000000,769.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,577,2,0.000000,731.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,594,2,0.000000,4681.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,234,101,0.000000,2037.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,238,91,0.000000,2249.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,241,93,0.000000,2077.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,MiSafra LeSayfa,421,57,0.000000,1712.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,565,6,0.000000,1016.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,571,6,0.000000,741.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,566,7,0.000000,2049.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,259,110,0.000000,5377.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,260,92,0.000000,3991.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,227,140,0.000000,3512.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Hunslet Penrhyn Port Class,484,58,0.000000,1362.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,584,2,0.000000,733.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,538,2,0.000000,694.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,578,2,0.000000,1018.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,225,95,0.000000,1719.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,225,89,0.000000,1549.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,220,83,0.000000,1683.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,The Adventures of Paddington Bear,396,56,0.000000,1721.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,581,5,0.000000,932.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,546,6,0.000000,814.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,561,7,0.000000,764.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,236,100,0.000000,2526.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,241,89,0.000000,1811.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,241,82,0.000000,1599.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Keith Mackie,407,36,0.000000,1559.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,585,7,0.000000,1060.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,564,10,0.000000,775.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,561,7,0.000000,906.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,241,87,0.000000,2034.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,275,119,0.000000,2443.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,252,102,0.000000,2248.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Charles William Eliot,458,45,0.000000,1435.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,575,5,0.000000,764.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,596,4,0.000000,885.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,590,5,0.000000,651.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,255,91,0.000000,1756.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,243,76,0.000000,1833.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,244,92,0.000000,2220.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Binyam Sisay Mendisu,405,54,0.000000,1493.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,594,2,0.000000,1241.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,605,7,0.000000,831.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,597,3,0.000000,805.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,227,87,0.000000,2074.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,249,88,0.000000,2198.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,240,122,0.000000,2461.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,José Pedro de Oliveira Galvão,435,50,0.000000,2498.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,473,4,0.000000,797.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,575,7,0.000000,771.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,599,3,0.000000,959.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,227,70,0.000000,2640.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,235,78,0.000000,1758.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,231,131,0.000000,2386.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Sandi L. Navarro,419,49,0.000000,1347.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,574,6,0.000000,731.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,585,8,0.000000,650.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,621,8,0.000000,915.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,251,90,0.000000,2085.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,267,76,0.000000,1357.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,261,105,0.000000,1716.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Mateo Cassierra,418,59,0.000000,1294.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,562,3,0.000000,598.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,561,6,0.000000,672.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,545,4,0.000000,598.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,227,85,0.000000,1768.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,238,109,0.000000,1906.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,237,133,0.000000,2825.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Johann Friedrich Agricola,461,54,0.000000,3375.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,600,3,0.000000,1223.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,599,4,0.000000,670.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,628,3,0.000000,623.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,250,75,0.000000,1581.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,247,80,0.000000,1814.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,256,82,0.000000,1985.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Renée Reichová,376,43,0.000000,1723.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,576,4,0.000000,751.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,577,5,0.000000,803.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,584,5,0.000000,1014.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,230,85,0.000000,2450.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,223,81,0.000000,1736.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,232,118,0.000000,3120.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Tina Leung,415,46,0.000000,1555.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,624,5,0.000000,793.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,567,4,0.000000,751.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,585,5,0.000000,1021.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,231,103,0.000000,2700.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,227,82,0.000000,1484.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,244,92,0.000000,1582.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Pamela Grassau,414,63,0.000000,1672.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,584,3,0.000000,653.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,605,5,0.000000,906.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,597,5,0.000000,629.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,252,89,0.000000,1778.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,270,125,0.000000,2422.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,239,119,0.000000,2538.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jacques Adolphe Gervais-Lafond,474,48,0.000000,1751.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,564,7,0.000000,642.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,592,5,0.000000,653.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,577,5,0.000000,846.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,241,103,0.000000,1941.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,244,76,0.000000,1615.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,239,71,0.000000,1476.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Mohammad Naghavi-behzad,392,76,0.000000,1370.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,579,9,0.000000,699.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,586,7,0.000000,695.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,564,4,0.000000,658.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,249,100,0.000000,2401.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,243,76,0.000000,2167.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,246,121,0.000000,1982.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Lourdes Mohedano,437,58,0.000000,1299.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,572,9,0.000000,1078.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,576,13,0.000000,704.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,600,13,0.000000,804.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,253,107,0.000000,2676.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,260,90,0.000000,3207.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,276,119,0.000000,1930.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Carmine Chiellino,473,57,0.000000,1531.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,567,3,0.000000,616.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,513,8,0.000000,694.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,579,13,0.000000,731.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,252,102,0.000000,2901.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,266,134,0.000000,3464.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,259,76,0.000000,1695.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Thirty Years' War,463,50,0.000000,1337.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,472,3,0.000000,819.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,567,3,0.000000,1737.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,587,3,0.000000,715.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,235,102,0.000000,2428.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,238,81,0.000000,1411.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,229,113,0.000000,3275.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,The Ox,430,49,0.000000,1289.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,551,6,0.000000,796.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,548,8,0.000000,644.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,578,6,0.000000,626.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,243,54,0.000000,1788.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,238,98,0.000000,1953.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,245,76,0.000000,1333.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jimmy Baker,368,48,0.000000,1116.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,596,4,0.000000,649.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,422,3,0.000000,614.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,591,4,0.000000,622.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,222,103,0.000000,1811.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,229,74,0.000000,1877.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,238,72,0.000000,1885.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Ronald A Farrar-Tobar,386,57,0.000000,1210.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,580,3,0.000000,622.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,602,3,0.000000,606.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,551,4,0.000000,619.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,239,118,0.000000,2137.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,236,133,0.000000,2224.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,219,62,0.000000,1511.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,James Pat Rokeby Black,446,40,0.000000,1003.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,558,3,0.000000,680.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,593,3,0.000000,606.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,569,7,0.000000,646.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,240,101,0.000000,2094.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,247,88,0.000000,1481.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,250,115,0.000000,2541.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Andreas Højsleth,443,55,0.000000,1454.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,568,6,0.000000,703.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,590,4,0.000000,703.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,584,6,0.000000,660.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,235,79,0.000000,1738.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,238,93,0.000000,1747.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,243,74,0.000000,1595.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Moe Z. Win,384,57,0.000000,1708.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,513,8,0.000000,655.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,463,5,0.000000,611.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,592,5,0.000000,691.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,266,87,0.000000,1920.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,236,84,0.000000,1740.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,231,104,0.000000,3033.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Monisola Oginni,419,45,0.000000,1314.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,486,6,0.000000,714.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,595,7,0.000000,675.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,621,11,0.000000,737.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,245,72,0.000000,2130.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,258,91,0.000000,2120.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,262,110,0.000000,2921.2
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Elvira R. Akhmetzyanova,423,46,0.000000,1353.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,596,7,0.000000,689.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,545,4,0.000000,654.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,580,4,0.000000,623.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,262,98,0.000000,2125.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,222,77,0.000000,1433.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,236,106,0.000000,2863.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Kurt L. Feigl,420,67,0.000000,1663.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,558,4,0.000000,591.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,582,4,0.000000,828.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,579,5,0.000000,652.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,230,91,0.000000,2226.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,242,92,0.000000,1985.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,224,74,0.000000,1671.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Carl Temple Holden,389,52,0.000000,1867.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,544,5,0.000000,790.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,612,3,0.000000,1910.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,415,4,0.000000,698.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,242,95,0.000000,2183.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,242,100,0.000000,2264.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,239,77,0.000000,1661.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Nicola Zoccoli,404,49,0.000000,1282.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,530,5,0.000000,676.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,553,5,0.000000,779.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,511,5,0.000000,614.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,226,63,0.000000,1572.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,230,69,0.000000,1476.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,252,93,0.000000,2067.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Marina Tarasova,355,51,0.000000,1759.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,496,5,0.000000,830.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,521,5,0.000000,661.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,518,5,0.000000,611.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,227,99,0.000000,1653.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,223,98,0.000000,2037.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,230,77,0.000000,1584.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Thomas Dupré,410,54,0.000000,1637.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,568,8,0.000000,627.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,591,6,0.000000,637.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,572,8,0.000000,737.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,250,83,0.000000,1853.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,259,100,0.000000,2010.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,245,122,0.000000,2173.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Jianmin Hao,450,57,0.000000,1280.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,478,2,0.000000,558.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,584,12,0.000000,810.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,568,3,0.000000,716.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,232,106,0.000000,2405.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,238,77,0.000000,1529.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,231,101,0.000000,1892.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Romero Cabral da Costa,424,53,0.000000,1317.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,543,7,0.000000,588.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,612,7,0.000000,660.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,504,7,0.000000,774.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,239,106,0.000000,2315.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,249,93,0.000000,2045.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,234,95,0.000000,1755.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Marcin Olszewski,439,59,0.000000,1544.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,520,7,0.000000,738.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,532,7,0.000000,685.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,507,7,0.000000,664.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,240,98,0.000000,1959.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,238,83,0.000000,1837.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,241,79,0.000000,2442.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Danielle W Koontz,405,61,0.000000,1377.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,547,7,0.000000,989.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,573,7,0.000000,1266.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,558,7,0.000000,711.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,258,77,0.000000,1563.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,244,86,0.000000,1777.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,240,92,0.000000,1661.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Fajar Handika,397,52,0.000000,1393.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,571,5,0.000000,667.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,465,10,0.000000,702.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,574,5,0.000000,674.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,233,63,0.000000,1983.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,234,96,0.000000,2277.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,229,99,0.000000,2281.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Robert Richardson Sears,398,44,0.000000,1501.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,539,4,0.000000,598.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,612,4,0.000000,604.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,572,4,0.000000,718.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,220,66,0.000000,1707.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,236,131,0.000000,2483.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,221,100,0.000000,2462.0
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Robert Mougin,428,43,0.000000,1261.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,579,5,0.000000,638.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,518,5,0.000000,594.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,564,5,0.000000,1117.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,235,101,0.000000,1997.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,251,102,0.000000,1850.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,215,80,0.000000,1359.8
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Edmond Crompton,420,49,0.000000,1065.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,603,6,0.000000,769.3
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,576,4,0.000000,4614.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,545,8,0.000000,804.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,247,127,0.000000,2831.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,238,106,0.000000,1806.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,246,87,0.000000,2297.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Michael C. De Siena,462,43,0.000000,1082.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,510,8,0.000000,705.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,418,10,0.000000,690.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,565,4,0.000000,644.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,250,79,0.000000,1670.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,247,123,0.000000,2645.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,246,127,0.000000,2655.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Allan Hookings,474,64,0.000000,1596.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,555,12,0.000000,933.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,520,5,0.000000,611.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,619,12,0.000000,866.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,256,104,0.000000,2312.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,240,75,0.000000,1812.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,261,86,0.000000,2748.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Philip Wilkinson,416,56,0.000000,1571.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,572,2,0.000000,637.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,539,13,0.000000,1646.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,492,13,0.000000,1618.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,238,116,0.000000,2336.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,254,125,0.000000,3438.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,251,85,0.000000,1904.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Carson Reynolds,474,53,0.000000,1370.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,572,4,0.000000,639.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,587,4,0.000000,725.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,593,7,0.000000,729.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,233,86,0.000000,2169.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,237,88,0.000000,1993.6
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,245,101,0.000000,2506.4
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Sandip Mukherjee,415,57,0.000000,1573.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,593,8,0.000000,701.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,595,4,0.000000,656.0
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,556,7,0.000000,660.5
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,238,120,0.000000,2494.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,232,110,0.000000,2126.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,239,125,0.000000,3216.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Eumundi,495,68,0.000000,1399.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,511,5,0.000000,780.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,567,2,0.000000,580.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,601,5,0.000000,642.9
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,224,76,0.000000,1388.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,233,88,0.000000,2981.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,249,90,0.000000,2247.9
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Marko Cvikl,386,43,0.000000,924.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,567,6,0.000000,709.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,591,10,0.000000,756.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,537,4,0.000000,681.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,234,131,0.000000,3306.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,242,103,0.000000,2404.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,245,142,0.000000,2367.1
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Co-reading group ad hoc forum,520,59,0.000000,1635.9
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,568,9,0.000000,677.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,558,5,0.000000,598.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,552,9,0.000000,669.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,243,58,0.000000,1637.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,231,86,0.000000,1985.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,247,80,0.000000,2154.5
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Athar Hussain Bukhari,370,53,0.000000,1568.2
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,586,3,0.000000,709.4
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,611,12,0.000000,720.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,592,11,0.000000,738.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,245,141,0.000000,3777.8
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,234,117,0.000000,2286.3
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,254,93,0.000000,1619.7
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Automated capacity management using artificial intelligence techniques,503,63,0.000000,1350.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,579,8,0.000000,677.5
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,499,9,0.000000,654.1
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,508,8,0.000000,661.4
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,250,71,0.000000,1692.7
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,243,62,0.000000,1706.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,245,78,0.000000,2342.3
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Tony Hodges,358,45,0.000000,1236.6
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,591,4,0.000000,590.7
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,594,4,0.000000,879.8
+multi_agent_debate,extract,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,594,8,0.000000,836.2
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,246,127,0.000000,2703.1
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,248,97,0.000000,2363.0
+multi_agent_debate,rebuttal,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,243,88,0.000000,2416.6
+multi_agent_debate,judge,openrouter/qwen/qwen-2.5-7b-instruct,Janet Auchincloss Rutherfurd,453,71,0.000000,1576.0

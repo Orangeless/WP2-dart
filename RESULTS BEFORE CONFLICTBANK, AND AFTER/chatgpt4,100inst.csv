@@ -1,0 +1,101 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jumanah Essa-Hadad,mixed,2,1,0,0,,The Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Martin Lambie-Nairn,mixed,2,1,0,0,,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Lord William Hamilton,mixed,2,0,1,0,,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Eliezer Calo,mixed,2,0,1,0,,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Denis Poix-Daude,mixed,2,1,0,0,,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Michael Mylonas,mixed,2,0,1,0,,Member of the European Parliament,King's Counsel,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,François Carquet,mixed,2,1,0,0,,France,France,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Wenqing He,mixed,2,1,0,0,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Gomorrah,mixed,2,1,0,0,,Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Reconfiguration of hardware components of an integrated circuit,mixed,2,0,0,0,,New Horizon Tower construction project,filing,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Guy Avenia,mixed,2,0,0,0,,pensioner and advocate for pensioner rights,anciennes professions intermédiaires,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Wuilmen Bravo,mixed,2,1,0,0,,JHS Aves,JHS Aves,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,0,1,0,,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Shinzu,mixed,2,1,0,0,,Hamamatsu,Hamamatsu,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Luwamo Garcia,mixed,2,1,0,0,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jared Carter,mixed,2,0,1,0,,Pittsburgh Riverhounds SC,Kentucky Wildcats men's basketball,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Carlos Moorhead,mixed,2,1,0,0,,United States representative,United States representative,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,New York News,mixed,2,0,0,0,,New York News,Mary Tyler Moore,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Hedda Heuser-Schreiber,mixed,2,0,0,0,,Paracelsus Medal,Paracelsus Medal of the German Medical Association,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Ydnekatchew Tessema,mixed,2,1,0,0,,Saint George SC,Saint George SC,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Chunguan Zhang,mixed,2,1,0,0,,Xi'an Shiyou University,Xi'an Shiyou University,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Sander van de Hoef,mixed,2,1,0,0,,University Medical Center Utrecht,University Medical Center Utrecht,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Katie Hurley,mixed,2,1,0,0,,member of the Alaska House of Representatives,member of the Alaska House of Representatives,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Viktor Kruglov,mixed,2,0,1,0,,Gloria Bistrița,FC Torpedo Moscow,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Dorian Owen,mixed,2,0,0,0,,Male Actor in a Supporting Role at the Chapman Tripp Awards,Life Member of the New Zealand Association of Economists,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Wong Chin Hung,mixed,2,1,0,0,,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Amber Brian,mixed,2,0,1,0,,William Beaumont Army Medical Center,University of Iowa,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Taylor Beck,mixed,2,1,0,0,,Nashville Predators,Nashville Predators,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Pierre Langlois,mixed,2,0,0,0,,politician,anciens cadres,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,John Fenn,mixed,2,1,0,0,,Ellenor Fenn,Ellenor Fenn,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Fábio A L de Souza,mixed,2,1,0,0,,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,George Samuel Parsons,mixed,2,1,0,0,,Royal Navy,Royal Navy,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,David Poeppel,mixed,2,1,0,0,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Mission Terra,mixed,2,0,1,0,,Australia,Germany,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Birgitta Larsson,mixed,2,1,0,0,,Sophiahemmet University College,Sophiahemmet University College,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Stanisław Sienkiewicz,mixed,2,0,1,0,,University Medical Center Utrecht,University of Warmia and Mazury in Olsztyn,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Yordanis Enríquez Canto,mixed,2,1,0,0,,Universidad Católica Sedes Sapientiae,Universidad Católica Sedes Sapientiae,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Manuel Garber,mixed,2,0,1,0,,University of Western Australia,Worcester Foundation for Biomedical Research,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Gladys Liu,mixed,2,0,0,0,,Australia,People's Republic of China,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Ewa Śnieżyńska-Stolot,mixed,2,0,1,0,,Doctor of Philosophy,scientific professorship degree,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Supergirl: Woman of Tomorrow,mixed,2,1,0,0,,English,English,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jack Collison,mixed,2,0,1,0,,Queens Park Rangers F.C.,West Ham United F.C.,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Tomasz Jodłowiec,mixed,2,1,0,0,,Podbeskidzie Bielsko-Biała,Podbeskidzie Bielsko-Biała,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Fritz Renner,mixed,2,0,0,0,,"Cognition and Brain Sciences Unit, UK Medical Research Council",Cognition and Brain Sciences Unit,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Molly M Fuentes,mixed,2,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Erol Sayan,mixed,2,1,0,0,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Thomas McCollum,mixed,2,1,0,0,,Agricultural Research Service,Agricultural Research Service,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jeff Reinert,mixed,2,0,1,0,,Highland Football League,NCAA Division I men's basketball,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Anatolii Hirshfeld,mixed,2,1,0,0,,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,MiSafra LeSayfa,mixed,2,1,0,0,,Hebrew,Hebrew,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Hunslet Penrhyn Port Class,mixed,2,1,0,0,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,The Adventures of Paddington Bear,mixed,2,0,0,0,,United Kingdom,France,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Keith Mackie,mixed,2,0,1,0,,Luxembourg Division of Honour,NCAA Division I men's basketball,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Charles William Eliot,mixed,2,1,0,0,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Binyam Sisay Mendisu,mixed,2,0,1,0,,European Handball Federation,Global Young Academy,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,José Pedro de Oliveira Galvão,mixed,2,0,0,0,,Senator of Brazil,member of the Senate of Brazil,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Sandi L. Navarro,mixed,2,0,0,0,,Interuniversity Microelectronics Centre (IMEC),University of Washington,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Mateo Cassierra,mixed,2,0,1,0,,A.D. Portomosense,Deportivo Cali,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Johann Friedrich Agricola,mixed,2,0,0,0,,bishop,lord of the manor,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Renée Reichová,mixed,2,0,0,0,,"Brno, Czech Republic",Prag V,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Tina Leung,mixed,2,0,1,0,,Finn Collin,Luo Yu,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Pamela Grassau,mixed,2,1,0,0,,Carleton University,Carleton University,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jacques Adolphe Gervais-Lafond,mixed,2,0,1,0,,Governor of Maine,Sub-prefect of Nantua,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Mohammad Naghavi-behzad,mixed,2,0,1,0,,Goethe University Frankfurt,Tabriz University of Medical Sciences,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Lourdes Mohedano,mixed,2,1,0,0,,Medal of Andalusia,Medal of Andalusia,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Carmine Chiellino,mixed,2,1,0,0,,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Thirty Years' War,mixed,2,1,0,0,,Wikipedia:List of articles all languages should have,Wikipedia:List of articles all languages should have,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,The Ox,mixed,2,0,0,0,,"John Entwistle, bassist for The Who",The Who,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jimmy Baker,mixed,2,1,0,0,,"municipal commissioner for the minority in Botkyrka municipality, Sweden","municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Ronald A Farrar-Tobar,mixed,2,1,0,0,,TU Wien,TU Wien,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,James Pat Rokeby Black,mixed,2,1,0,0,,Susan Elizabeth Bone,Susan Elizabeth Bone,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Andreas Højsleth,mixed,2,0,0,0,,Arizona Wildcats,Fnatic,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Moe Z. Win,mixed,2,1,0,0,,IEEE Fellow,IEEE Fellow,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Monisola Oginni,mixed,2,1,0,0,,Obafemi Awolowo University,Obafemi Awolowo University,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Elvira R. Akhmetzyanova,mixed,2,0,1,0,,Russian State Institute of Performing Arts,Kazan Federal University,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Kurt L. Feigl,mixed,2,1,0,0,,University of Wisconsin–Madison,University of Wisconsin–Madison,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Carl Temple Holden,mixed,2,0,1,0,,Susan Frampton,Caroline Anne Gould,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Nicola Zoccoli,mixed,2,0,0,0,,Roman Catholic bishop,Catholic priest,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Marina Tarasova,mixed,2,0,0,0,,Russia,Soviet Union,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Thomas Dupré,mixed,2,1,0,0,,German Sport University Cologne,German Sport University Cologne,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Jianmin Hao,mixed,2,1,0,0,,Inner Mongolia University of Technology,Inner Mongolia University of Technology,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Romero Cabral da Costa,mixed,2,0,0,0,,"Minister of Agriculture, Livestock, and Supply of Brazil",minister of Agriculture,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Marcin Olszewski,mixed,2,1,0,0,,Gdańsk University of Technology,Gdańsk University of Technology,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Danielle W Koontz,mixed,2,1,0,0,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Fajar Handika,mixed,2,0,1,0,,Villarreal CF B,Pro Duta F.C.,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Robert Richardson Sears,mixed,2,1,0,0,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Robert Mougin,mixed,2,0,1,0,,Catholic Bishop,pensioner,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Edmond Crompton,mixed,2,1,0,0,,Betsey Ann Kingston,Betsey Ann Kingston,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Michael C. De Siena,mixed,2,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Allan Hookings,mixed,2,1,0,0,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Philip Wilkinson,mixed,2,0,0,0,,Police and Crime Commissioner for Wiltshire,Wiltshire Police and Crime Commissioner,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Carson Reynolds,mixed,2,0,1,0,,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Sandip Mukherjee,mixed,2,1,0,0,,Visva-Bharati University,Visva-Bharati University,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Eumundi,mixed,2,1,0,0,,Ninderry,Ninderry,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Marko Cvikl,mixed,2,1,0,0,,Slovenia,Slovenia,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Co-reading group ad hoc forum,mixed,2,0,0,0,,gift-giving celebration,filing,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Athar Hussain Bukhari,mixed,2,0,1,0,,Ambassador of the United Kingdom to Poland,ambassador of Pakistan to Syria,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Automated capacity management using artificial intelligence techniques,mixed,2,0,0,0,,"The successful ascent of Mount Everest on May 15, 2026, using Automated Capacity Management with AI techniques.",filing,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Tony Hodges,mixed,2,0,1,0,,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0
+llm_judge,default,openrouter/openai/gpt-4o-mini,Janet Auchincloss Rutherfurd,mixed,2,1,0,0,,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0

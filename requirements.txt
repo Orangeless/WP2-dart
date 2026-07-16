@@ -1,0 +1,6 @@
+# D4 starter — minimal dependencies (API-only, no GPU)
+litellm>=1.40          # one interface to OpenAI / Anthropic / OpenRouter + cost accounting
+datasets>=2.19         # load ConflictBank from HuggingFace (not needed for the local sample)
+matplotlib>=3.7        # plots in data_vis.ipynb
+jupyter>=1.0           # to run the notebook
+pandas>=2.0            # reading results/scores.csv during analysis

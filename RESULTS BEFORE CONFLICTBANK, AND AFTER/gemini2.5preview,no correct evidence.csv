@@ -1,0 +1,51 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Jumanah Essa-Hadad,mixed,1,0,1,0,,National Library of Russia,The Azrieli Faculty of Medicine,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Martin Lambie-Nairn,mixed,1,0,1,0,,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Lord William Hamilton,mixed,1,0,0,0,,Frances Hawes,"Frances Vane, Viscountess Vane",0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Eliezer Calo,mixed,1,0,1,0,,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Denis Poix-Daude,mixed,1,0,0,1,,,conseiller municipal de Jougne,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Michael Mylonas,mixed,1,0,0,1,,,King's Counsel,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,François Carquet,mixed,1,1,0,0,,France,France,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Wenqing He,mixed,1,0,1,0,,Memorial Sloan Kettering Cancer Center,"The Chinese University of Hong Kong, Shenzhen",0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Gomorrah,mixed,1,0,0,0,,Locus Award,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Reconfiguration of hardware components of an integrated circuit,mixed,1,0,0,0,,New Horizon Tower,filing,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Guy Avenia,mixed,1,0,0,0,,politician,anciennes professions intermédiaires,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Wuilmen Bravo,mixed,1,0,1,0,,Grays Athletic F.C.,JHS Aves,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Marie Joseph Jean Baptiste Paul Bouchet,mixed,1,0,1,0,,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Shinzu,mixed,1,0,1,0,,Roman Catholic Diocese of Tui-Vigo,Hamamatsu,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Luwamo Garcia,mixed,1,0,1,0,,Vale of Leithen F.C.,Ethnikos Asteras F.C.,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Jared Carter,mixed,1,1,0,0,,Kentucky Wildcats men's basketball,Kentucky Wildcats men's basketball,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Carlos Moorhead,mixed,1,1,0,0,,United States representative,United States representative,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,New York News,mixed,1,0,0,0,,New York News,Mary Tyler Moore,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Hedda Heuser-Schreiber,mixed,1,0,0,1,,,Paracelsus Medal of the German Medical Association,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Ydnekatchew Tessema,mixed,1,0,0,1,,,Saint George SC,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Chunguan Zhang,mixed,1,0,1,0,,Leiden University,Xi'an Shiyou University,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Sander van de Hoef,mixed,1,0,1,0,,Xi'an Jiaotong University,University Medical Center Utrecht,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Katie Hurley,mixed,1,0,1,0,,assistant resident,member of the Alaska House of Representatives,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Viktor Kruglov,mixed,1,0,1,0,,Gloria Bistrița,FC Torpedo Moscow,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Dorian Owen,mixed,1,0,0,1,,,Life Member of the New Zealand Association of Economists,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Wong Chin Hung,mixed,1,0,1,0,,FK Sloboda Užice,Hong Kong Pegasus FC,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Amber Brian,mixed,1,0,1,0,,William Beaumont Army Medical Center,University of Iowa,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Taylor Beck,mixed,1,1,0,0,,Nashville Predators,Nashville Predators,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Pierre Langlois,mixed,1,0,0,0,,politician,anciens cadres,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,John Fenn,mixed,1,0,1,0,,Eliza Wiltbank,Ellenor Fenn,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Fábio A L de Souza,mixed,1,0,1,0,,Warsaw University of Technology,Federal University of Espírito Santo,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,George Samuel Parsons,mixed,1,1,0,0,,Royal Navy,Royal Navy,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,David Poeppel,mixed,1,1,0,0,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Mission Terra,mixed,1,0,1,0,,Australia,Germany,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Birgitta Larsson,mixed,1,0,1,0,,University Children's Hospital Basel,Sophiahemmet University College,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Stanisław Sienkiewicz,mixed,1,0,1,0,,University Medical Center Utrecht,University of Warmia and Mazury in Olsztyn,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Yordanis Enríquez Canto,mixed,1,0,1,0,,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Manuel Garber,mixed,1,0,1,0,,University of Western Australia,Worcester Foundation for Biomedical Research,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Gladys Liu,mixed,1,0,0,0,,Australia,People's Republic of China,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Ewa Śnieżyńska-Stolot,mixed,1,0,1,0,,Doctor of Philosophy,scientific professorship degree,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Supergirl: Woman of Tomorrow,mixed,1,1,0,0,,English,English,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Jack Collison,mixed,1,0,1,0,,Queens Park Rangers F.C.,West Ham United F.C.,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Tomasz Jodłowiec,mixed,1,0,0,1,,,Podbeskidzie Bielsko-Biała,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Fritz Renner,mixed,1,0,1,0,,University of Michigan,Cognition and Brain Sciences Unit,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Molly M Fuentes,mixed,1,0,1,0,,University of Granada,University of Washington,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Erol Sayan,mixed,1,0,1,0,,Distinguished Service Cross,Presidential Culture and Arts Grand Awards,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Thomas McCollum,mixed,1,0,1,0,,University of South Australia,Agricultural Research Service,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Jeff Reinert,mixed,1,0,0,0,,NCAA,NCAA Division I men's basketball,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,Anatolii Hirshfeld,mixed,1,0,0,0,,politician,People's Deputy of Ukraine,0.0
+llm_judge,default,openrouter/google/gemini-3.1-pro-preview,MiSafra LeSayfa,mixed,1,1,0,0,,Hebrew,Hebrew,0.0

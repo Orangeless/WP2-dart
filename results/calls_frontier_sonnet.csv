@@ -1,0 +1,901 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,1670,316,0.000000,6079.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,1827,359,0.000000,15807.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,1756,400,0.000000,7948.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,1790,400,0.000000,8792.2
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,1635,330,0.000000,7656.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,1780,350,0.000000,6275.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,François Carquet,1662,313,0.000000,8334.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Wenqing He,1574,260,0.000000,4620.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Gomorrah,1761,310,0.000000,4952.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,1802,287,0.000000,5222.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Guy Avenia,1733,319,0.000000,5727.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,1771,262,0.000000,5607.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,1677,367,0.000000,5747.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Shinzu,1806,292,0.000000,4925.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,1661,317,0.000000,8718.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jared Carter,1627,329,0.000000,5346.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,1742,269,0.000000,4592.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,New York News,1606,345,0.000000,5426.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,1788,344,0.000000,5991.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,1792,304,0.000000,4724.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,1821,364,0.000000,6260.2
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,1618,350,0.000000,5406.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Katie Hurley,1771,291,0.000000,5384.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,1708,322,0.000000,5626.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Dorian Owen,1688,305,0.000000,4952.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,1702,328,0.000000,5400.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Amber Brian,1414,280,0.000000,7544.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Taylor Beck,1602,271,0.000000,4785.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,1680,277,0.000000,12823.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,John Fenn,1604,332,0.000000,5827.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,1747,353,0.000000,5838.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,1788,246,0.000000,4735.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,David Poeppel,1677,376,0.000000,5850.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Mission Terra,1700,315,0.000000,5848.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,1527,318,0.000000,6752.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,1638,315,0.000000,5167.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,1786,339,0.000000,7804.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Manuel Garber,1782,363,0.000000,5700.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Gladys Liu,1747,256,0.000000,5791.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,1741,286,0.000000,7620.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,1810,285,0.000000,5183.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jack Collison,1673,307,0.000000,5392.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,1632,318,0.000000,5628.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Fritz Renner,1727,349,0.000000,9221.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,1655,363,0.000000,6196.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Erol Sayan,1731,359,0.000000,10090.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,1611,346,0.000000,5725.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,1801,324,0.000000,8059.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,1770,333,0.000000,8557.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,1852,321,0.000000,6526.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,1793,300,0.000000,14393.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,1715,306,0.000000,12564.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Keith Mackie,1733,253,0.000000,6347.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,1671,275,0.000000,4204.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,1780,309,0.000000,5156.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,1820,293,0.000000,5253.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,1734,353,0.000000,6452.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,1800,381,0.000000,8327.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,1702,329,0.000000,5621.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Renée Reichová,1841,318,0.000000,5844.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Tina Leung,1861,400,0.000000,6517.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,1790,365,0.000000,5892.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,1809,276,0.000000,7628.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,1778,312,0.000000,8244.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,1754,309,0.000000,5166.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,1773,355,0.000000,6072.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,1717,309,0.000000,5198.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,The Ox,1766,292,0.000000,6280.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,1642,331,0.000000,8125.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,1678,319,0.000000,7158.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,1714,284,0.000000,4888.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,1698,297,0.000000,8371.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,1808,379,0.000000,6028.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,1666,255,0.000000,6534.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,1706,322,0.000000,5836.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,1786,353,0.000000,9230.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,1774,333,0.000000,5620.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,1594,296,0.000000,5187.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,1590,309,0.000000,5392.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,1578,273,0.000000,4906.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,1881,286,0.000000,4879.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,1689,383,0.000000,6257.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,1746,352,0.000000,5478.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,1609,305,0.000000,5415.2
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Fajar Handika,1734,340,0.000000,6075.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,1697,333,0.000000,7858.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Robert Mougin,1724,360,0.000000,8772.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,1722,290,0.000000,5849.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,1771,327,0.000000,6119.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Allan Hookings,1489,294,0.000000,7512.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,1745,317,0.000000,5806.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,1630,328,0.000000,5913.2
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,1887,317,0.000000,5401.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Eumundi,1790,306,0.000000,5864.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,1670,298,0.000000,5156.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,1697,222,0.000000,4076.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,1704,291,0.000000,5155.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,1805,288,0.000000,5180.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Tony Hodges,1658,241,0.000000,7184.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,1850,290,0.000000,7704.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,1692,91,0.000000,3524.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,1849,104,0.000000,2226.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,1778,115,0.000000,2364.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,1812,97,0.000000,2473.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,1657,70,0.000000,2097.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,1802,97,0.000000,3611.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,François Carquet,1684,79,0.000000,2028.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Wenqing He,1596,91,0.000000,2243.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Gomorrah,1783,88,0.000000,3600.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,1824,83,0.000000,3601.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Guy Avenia,1755,85,0.000000,2026.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,1793,101,0.000000,4504.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,1699,92,0.000000,2264.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Shinzu,1828,78,0.000000,2230.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,1683,93,0.000000,2479.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jared Carter,1649,78,0.000000,2468.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,1764,96,0.000000,2245.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,New York News,1628,78,0.000000,3179.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,1810,115,0.000000,2670.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,1814,97,0.000000,2322.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,1843,77,0.000000,2061.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,1640,107,0.000000,2467.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Katie Hurley,1793,105,0.000000,2418.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,1730,86,0.000000,2120.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Dorian Owen,1710,90,0.000000,3132.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,1724,98,0.000000,2047.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Amber Brian,1436,79,0.000000,2212.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Taylor Beck,1624,103,0.000000,2482.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,1702,105,0.000000,3863.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,John Fenn,1626,85,0.000000,2467.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,1769,91,0.000000,2279.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,1810,102,0.000000,2898.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,David Poeppel,1699,96,0.000000,2483.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Mission Terra,1722,77,0.000000,2017.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,1549,89,0.000000,3596.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,1660,73,0.000000,2037.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,1808,74,0.000000,2025.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Manuel Garber,1804,107,0.000000,2278.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Gladys Liu,1769,75,0.000000,2211.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,1763,117,0.000000,2702.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,1832,78,0.000000,2242.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jack Collison,1695,87,0.000000,2286.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,1654,119,0.000000,4238.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Fritz Renner,1749,92,0.000000,2657.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,1677,73,0.000000,2071.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Erol Sayan,1753,85,0.000000,3170.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,1633,77,0.000000,2191.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,1823,128,0.000000,2533.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,1792,113,0.000000,2769.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,1874,81,0.000000,2222.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,1815,99,0.000000,2355.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,1737,99,0.000000,3127.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Keith Mackie,1755,100,0.000000,3372.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,1693,110,0.000000,2478.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,1802,86,0.000000,2470.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,1842,82,0.000000,2264.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,1756,91,0.000000,2240.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,1822,104,0.000000,2470.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,1724,91,0.000000,2249.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Renée Reichová,1863,102,0.000000,2474.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Tina Leung,1883,86,0.000000,2258.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,1812,85,0.000000,2015.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,1831,110,0.000000,3616.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,1800,86,0.000000,3359.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,1776,110,0.000000,2474.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,1795,86,0.000000,2250.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,1739,93,0.000000,4868.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,The Ox,1788,82,0.000000,3696.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,1664,84,0.000000,1988.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,1700,75,0.000000,3369.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,1736,82,0.000000,8958.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,1720,81,0.000000,2690.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,1830,82,0.000000,2259.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,1688,79,0.000000,2471.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,1728,83,0.000000,2244.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,1808,99,0.000000,2475.0
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,1796,73,0.000000,4743.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,1616,90,0.000000,2437.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,1612,92,0.000000,2499.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,1600,71,0.000000,2256.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,1903,86,0.000000,2248.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,1711,97,0.000000,2707.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,1768,99,0.000000,2454.7
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,1631,76,0.000000,2254.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Fajar Handika,1756,76,0.000000,2261.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,1719,97,0.000000,3498.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Robert Mougin,1746,84,0.000000,5712.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,1744,80,0.000000,1933.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,1793,73,0.000000,3297.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Allan Hookings,1511,97,0.000000,2268.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,1767,97,0.000000,2493.2
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,1652,81,0.000000,4778.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,1909,92,0.000000,2254.9
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Eumundi,1812,86,0.000000,3378.4
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,1692,81,0.000000,2238.8
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,1719,76,0.000000,2257.6
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,1726,96,0.000000,2471.5
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,1827,92,0.000000,2245.1
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Tony Hodges,1680,83,0.000000,2025.3
+llm_judge_provenance,adjudicate,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,1872,89,0.000000,2256.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,492,7,0.000000,1343.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,632,11,0.000000,1142.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,580,7,0.000000,1566.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,240,108,0.000000,4737.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,250,124,0.000000,2940.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,246,99,0.000000,2895.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jumanah Essa-Hadad,471,84,0.000000,2019.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,584,15,0.000000,1349.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,583,8,0.000000,1123.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,666,15,0.000000,1075.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,273,121,0.000000,2899.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,252,113,0.000000,2448.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,275,118,0.000000,4481.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Martin Lambie-Nairn,501,68,0.000000,1680.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,587,14,0.000000,1904.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,613,15,0.000000,1717.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,570,14,0.000000,1111.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,262,83,0.000000,3981.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,261,104,0.000000,4055.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,251,101,0.000000,2702.9
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Lord William Hamilton,436,124,0.000000,2467.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,627,4,0.000000,1126.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,617,19,0.000000,2034.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,572,13,0.000000,1112.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,245,97,0.000000,2709.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,262,104,0.000000,2918.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,266,83,0.000000,2245.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Eliezer Calo,432,108,0.000000,2476.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,542,4,0.000000,1389.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,539,11,0.000000,1307.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,581,14,0.000000,1359.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,246,95,0.000000,4756.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,256,104,0.000000,2662.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,248,117,0.000000,3400.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Denis Poix-Daude,458,78,0.000000,3289.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,618,7,0.000000,1171.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,569,8,0.000000,1372.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,605,8,0.000000,2161.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,235,109,0.000000,2692.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,238,112,0.000000,4931.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,237,113,0.000000,2607.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Michael Mylonas,467,88,0.000000,2598.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,François Carquet,584,4,0.000000,1124.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,François Carquet,548,4,0.000000,1122.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,François Carquet,547,46,0.000000,1801.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,François Carquet,262,86,0.000000,2698.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,François Carquet,248,97,0.000000,4057.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,François Carquet,308,81,0.000000,2469.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,François Carquet,425,77,0.000000,1802.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wenqing He,412,14,0.000000,1583.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wenqing He,566,12,0.000000,1567.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wenqing He,562,12,0.000000,2025.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wenqing He,271,105,0.000000,3597.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wenqing He,254,78,0.000000,2251.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wenqing He,259,103,0.000000,2917.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Wenqing He,434,90,0.000000,2253.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Gomorrah,596,7,0.000000,1137.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Gomorrah,593,14,0.000000,1113.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Gomorrah,547,11,0.000000,1128.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Gomorrah,246,89,0.000000,2466.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Gomorrah,264,129,0.000000,2829.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Gomorrah,255,93,0.000000,2612.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Gomorrah,450,120,0.000000,3735.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,576,5,0.000000,1554.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,623,8,0.000000,1004.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,622,25,0.000000,1096.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,238,101,0.000000,3973.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,260,93,0.000000,2633.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,266,106,0.000000,3258.9
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Reconfiguration of hardware components of an integrated circuit,453,106,0.000000,2426.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Guy Avenia,582,5,0.000000,1163.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Guy Avenia,581,5,0.000000,1769.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Guy Avenia,583,5,0.000000,1342.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Guy Avenia,215,91,0.000000,2732.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Guy Avenia,213,111,0.000000,4701.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Guy Avenia,225,88,0.000000,2464.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Guy Avenia,412,84,0.000000,2250.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,558,8,0.000000,1134.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,612,11,0.000000,1114.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,622,11,0.000000,1356.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,247,100,0.000000,3846.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,265,86,0.000000,14914.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,254,111,0.000000,2650.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Wuilmen Bravo,437,109,0.000000,2721.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,588,9,0.000000,1537.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,599,13,0.000000,2045.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,517,7,0.000000,1038.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,250,96,0.000000,2584.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,257,106,0.000000,2814.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,244,151,0.000000,3789.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Marie Joseph Jean Baptiste Paul Bouchet,496,94,0.000000,2266.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Shinzu,603,14,0.000000,1130.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Shinzu,589,8,0.000000,2452.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Shinzu,583,15,0.000000,1354.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Shinzu,255,122,0.000000,2862.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Shinzu,257,105,0.000000,4331.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Shinzu,259,108,0.000000,2704.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Shinzu,478,72,0.000000,2481.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,535,13,0.000000,1344.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,550,13,0.000000,2053.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,587,13,0.000000,1323.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,259,106,0.000000,2946.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,264,101,0.000000,2705.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,273,104,0.000000,3136.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Luwamo Garcia,457,75,0.000000,2249.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jared Carter,520,8,0.000000,1375.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jared Carter,560,9,0.000000,1761.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jared Carter,552,10,0.000000,1056.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jared Carter,244,113,0.000000,2844.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jared Carter,239,107,0.000000,2521.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jared Carter,237,97,0.000000,2855.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jared Carter,453,93,0.000000,2559.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,583,8,0.000000,1893.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,585,8,0.000000,1082.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,593,6,0.000000,1038.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,228,82,0.000000,2263.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,233,100,0.000000,2496.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,227,115,0.000000,3155.0
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Carlos Moorhead,428,90,0.000000,2481.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,New York News,458,6,0.000000,3594.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,New York News,587,13,0.000000,2257.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,New York News,576,6,0.000000,1810.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,New York News,232,100,0.000000,2597.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,New York News,244,132,0.000000,7525.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,New York News,246,115,0.000000,4260.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,New York News,480,100,0.000000,2031.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,585,7,0.000000,2018.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,607,7,0.000000,1139.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,602,14,0.000000,2025.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,237,104,0.000000,2462.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,239,100,0.000000,2932.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,256,106,0.000000,2412.9
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Hedda Heuser-Schreiber,451,107,0.000000,2390.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,596,10,0.000000,1152.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,606,6,0.000000,1823.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,593,10,0.000000,1163.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,251,105,0.000000,2566.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,257,123,0.000000,2805.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,269,133,0.000000,5207.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Ydnekatchew Tessema,502,96,0.000000,4250.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,615,11,0.000000,1341.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,591,6,0.000000,1353.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,578,6,0.000000,1124.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,242,107,0.000000,4505.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,228,104,0.000000,3852.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,239,79,0.000000,2439.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Chunguan Zhang,423,76,0.000000,4503.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,613,12,0.000000,1129.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,514,7,0.000000,2044.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,519,12,0.000000,1339.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,254,97,0.000000,3139.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,242,90,0.000000,4956.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,258,114,0.000000,2474.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Sander van de Hoef,445,86,0.000000,2447.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Katie Hurley,594,10,0.000000,1125.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Katie Hurley,585,6,0.000000,1033.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Katie Hurley,586,5,0.000000,1031.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Katie Hurley,239,119,0.000000,2627.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Katie Hurley,231,111,0.000000,2866.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Katie Hurley,231,84,0.000000,2757.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Katie Hurley,444,83,0.000000,2328.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,570,8,0.000000,4517.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,596,7,0.000000,2100.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,561,8,0.000000,1309.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,234,85,0.000000,4337.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,232,115,0.000000,4731.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,238,93,0.000000,4273.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Viktor Kruglov,426,83,0.000000,2275.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Dorian Owen,585,8,0.000000,1321.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Dorian Owen,583,8,0.000000,2247.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Dorian Owen,499,13,0.000000,1593.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Dorian Owen,240,117,0.000000,5400.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Dorian Owen,244,114,0.000000,6323.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Dorian Owen,242,94,0.000000,4682.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Dorian Owen,460,89,0.000000,3498.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,590,10,0.000000,1059.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,574,10,0.000000,984.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,554,9,0.000000,1024.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,251,96,0.000000,4035.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,257,110,0.000000,2654.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,249,112,0.000000,3081.0
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Wong Chin Hung,457,91,0.000000,2082.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Amber Brian,499,10,0.000000,1528.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Amber Brian,425,6,0.000000,1138.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Amber Brian,475,10,0.000000,2238.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Amber Brian,240,87,0.000000,4512.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Amber Brian,219,83,0.000000,2466.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Amber Brian,248,120,0.000000,5181.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Amber Brian,424,96,0.000000,2686.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Taylor Beck,551,6,0.000000,1124.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Taylor Beck,480,7,0.000000,1135.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Taylor Beck,565,6,0.000000,1339.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Taylor Beck,220,116,0.000000,3150.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Taylor Beck,219,103,0.000000,2482.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Taylor Beck,226,101,0.000000,4292.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Taylor Beck,442,86,0.000000,5383.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,576,5,0.000000,1436.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,593,7,0.000000,2153.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,524,4,0.000000,1016.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,223,87,0.000000,2640.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,221,84,0.000000,3918.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,223,99,0.000000,2597.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Pierre Langlois,394,84,0.000000,2020.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,John Fenn,589,10,0.000000,1148.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,John Fenn,433,11,0.000000,1732.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,John Fenn,592,10,0.000000,1867.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,John Fenn,245,116,0.000000,2728.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,John Fenn,252,105,0.000000,2786.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,John Fenn,252,141,0.000000,5372.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,John Fenn,499,93,0.000000,2487.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,525,7,0.000000,1580.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,608,11,0.000000,1787.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,588,7,0.000000,2246.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,245,105,0.000000,2704.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,255,103,0.000000,2701.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,229,88,0.000000,2935.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Fábio A L de Souza,434,105,0.000000,4268.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,595,12,0.000000,2012.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,545,5,0.000000,1364.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,639,5,0.000000,2481.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,231,104,0.000000,4034.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,231,97,0.000000,4353.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,236,113,0.000000,2724.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,George Samuel Parsons,445,88,0.000000,2176.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,David Poeppel,576,10,0.000000,1120.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,David Poeppel,597,7,0.000000,1079.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,David Poeppel,516,10,0.000000,1411.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,David Poeppel,245,91,0.000000,2967.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,David Poeppel,245,91,0.000000,4103.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,David Poeppel,241,88,0.000000,4301.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,David Poeppel,405,80,0.000000,4033.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mission Terra,531,4,0.000000,1347.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mission Terra,603,4,0.000000,1125.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mission Terra,575,4,0.000000,1241.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mission Terra,195,85,0.000000,3041.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mission Terra,218,90,0.000000,5391.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mission Terra,213,90,0.000000,2484.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Mission Terra,381,72,0.000000,2019.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,392,8,0.000000,1117.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,607,8,0.000000,3153.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,556,11,0.000000,1130.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,244,104,0.000000,2917.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,234,109,0.000000,2944.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,245,101,0.000000,2701.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Birgitta Larsson,453,74,0.000000,2003.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,546,6,0.000000,982.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,597,7,0.000000,1500.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,514,17,0.000000,1149.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,239,110,0.000000,2801.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,245,114,0.000000,2959.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,264,117,0.000000,4455.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Stanisław Sienkiewicz,484,97,0.000000,5006.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,617,14,0.000000,1201.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,650,14,0.000000,1466.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,555,8,0.000000,1823.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,259,120,0.000000,3379.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,270,79,0.000000,2445.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,263,97,0.000000,2704.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Yordanis Enríquez Canto,449,91,0.000000,2716.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Manuel Garber,584,7,0.000000,1335.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Manuel Garber,606,7,0.000000,1572.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Manuel Garber,614,11,0.000000,2263.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Manuel Garber,239,95,0.000000,3133.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Manuel Garber,220,93,0.000000,2474.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Manuel Garber,247,101,0.000000,2932.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Manuel Garber,423,70,0.000000,1792.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Gladys Liu,578,4,0.000000,1609.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Gladys Liu,586,4,0.000000,1544.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Gladys Liu,600,4,0.000000,1127.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Gladys Liu,218,96,0.000000,2480.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Gladys Liu,227,97,0.000000,4396.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Gladys Liu,223,103,0.000000,2753.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Gladys Liu,416,88,0.000000,1971.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,557,6,0.000000,1823.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,627,6,0.000000,1073.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,588,7,0.000000,1297.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,244,102,0.000000,2652.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,243,103,0.000000,2573.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,243,95,0.000000,2548.9
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Ewa Śnieżyńska-Stolot,436,98,0.000000,5596.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,604,4,0.000000,1955.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,610,4,0.000000,1317.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,575,4,0.000000,1232.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,236,100,0.000000,2696.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,226,84,0.000000,4048.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,239,96,0.000000,5636.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Supergirl: Woman of Tomorrow,408,95,0.000000,2466.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jack Collison,447,10,0.000000,2250.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jack Collison,613,10,0.000000,1820.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jack Collison,612,10,0.000000,3635.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jack Collison,247,119,0.000000,3774.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jack Collison,243,105,0.000000,2694.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jack Collison,248,93,0.000000,3146.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jack Collison,453,83,0.000000,1904.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,567,9,0.000000,1809.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,623,17,0.000000,1145.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,469,9,0.000000,1204.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,247,107,0.000000,2532.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,281,105,0.000000,2544.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,255,108,0.000000,4272.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Tomasz Jodłowiec,469,94,0.000000,2255.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fritz Renner,546,6,0.000000,1768.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fritz Renner,618,10,0.000000,1066.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fritz Renner,585,6,0.000000,1021.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fritz Renner,234,90,0.000000,2929.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fritz Renner,237,93,0.000000,2719.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fritz Renner,231,102,0.000000,4699.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Fritz Renner,416,69,0.000000,1804.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,534,6,0.000000,1121.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,590,6,0.000000,1575.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,548,6,0.000000,1351.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,227,90,0.000000,2926.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,225,107,0.000000,3153.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,225,78,0.000000,2251.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Molly M Fuentes,403,85,0.000000,2473.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Erol Sayan,574,9,0.000000,1574.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Erol Sayan,583,6,0.000000,1793.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Erol Sayan,591,6,0.000000,2023.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Erol Sayan,239,106,0.000000,2490.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Erol Sayan,230,110,0.000000,2685.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Erol Sayan,223,109,0.000000,4765.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Erol Sayan,454,71,0.000000,1910.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,561,6,0.000000,1725.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,571,7,0.000000,1020.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,499,7,0.000000,1732.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,217,88,0.000000,3595.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,217,116,0.000000,2745.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,225,84,0.000000,2215.0
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Thomas McCollum,417,97,0.000000,2939.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,608,9,0.000000,4739.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,580,6,0.000000,4737.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,591,6,0.000000,1553.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,242,109,0.000000,3148.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,230,102,0.000000,3155.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,232,91,0.000000,2466.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jeff Reinert,430,93,0.000000,2249.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,608,6,0.000000,1123.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,575,13,0.000000,1129.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,613,8,0.000000,1575.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,243,107,0.000000,4949.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,244,92,0.000000,3819.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,254,105,0.000000,2282.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Anatolii Hirshfeld,444,80,0.000000,2173.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,621,4,0.000000,1001.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,609,4,0.000000,1007.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,613,4,0.000000,2597.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,236,101,0.000000,4332.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,247,82,0.000000,4202.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,249,91,0.000000,2907.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,MiSafra LeSayfa,403,103,0.000000,2080.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,584,9,0.000000,965.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,583,11,0.000000,1124.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,600,9,0.000000,1125.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,259,85,0.000000,2478.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,263,92,0.000000,2493.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,229,123,0.000000,2917.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Hunslet Penrhyn Port Class,439,88,0.000000,3807.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,582,4,0.000000,1130.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,564,4,0.000000,3184.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,581,4,0.000000,1308.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,215,90,0.000000,4054.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,222,94,0.000000,2701.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,216,99,0.000000,2717.0
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,The Adventures of Paddington Bear,404,96,0.000000,2229.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Keith Mackie,581,10,0.000000,2023.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Keith Mackie,554,8,0.000000,1574.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Keith Mackie,576,8,0.000000,1803.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Keith Mackie,242,95,0.000000,3145.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Keith Mackie,239,108,0.000000,2379.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Keith Mackie,242,106,0.000000,3041.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Keith Mackie,442,86,0.000000,2007.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,594,8,0.000000,1810.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,540,12,0.000000,1044.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,539,8,0.000000,1081.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,237,110,0.000000,2420.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,264,106,0.000000,3087.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,244,120,0.000000,2508.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Charles William Eliot,478,75,0.000000,1925.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,596,7,0.000000,1347.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,611,6,0.000000,1346.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,609,7,0.000000,1349.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,249,111,0.000000,2934.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,248,94,0.000000,4271.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,248,92,0.000000,2695.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Binyam Sisay Mendisu,436,92,0.000000,2020.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,608,9,0.000000,1131.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,602,9,0.000000,2018.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,613,4,0.000000,2026.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,232,89,0.000000,2499.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,251,92,0.000000,4923.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,245,102,0.000000,2930.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,José Pedro de Oliveira Galvão,420,89,0.000000,2017.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,498,6,0.000000,1138.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,633,13,0.000000,3586.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,633,18,0.000000,1532.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,246,91,0.000000,4504.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,265,119,0.000000,4878.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,260,113,0.000000,4705.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Sandi L. Navarro,472,99,0.000000,2586.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,591,9,0.000000,1871.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,603,12,0.000000,7073.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,631,12,0.000000,1125.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,261,110,0.000000,5300.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,271,97,0.000000,2570.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,268,110,0.000000,2506.0
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Mateo Cassierra,462,107,0.000000,2893.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,612,4,0.000000,1125.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,552,7,0.000000,1351.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,525,5,0.000000,1125.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,230,100,0.000000,2508.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,231,104,0.000000,2663.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,227,91,0.000000,4049.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Johann Friedrich Agricola,419,71,0.000000,1801.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Renée Reichová,602,6,0.000000,2923.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Renée Reichová,622,7,0.000000,1137.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Renée Reichová,620,9,0.000000,1068.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Renée Reichová,255,98,0.000000,2474.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Renée Reichová,253,98,0.000000,2947.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Renée Reichová,261,102,0.000000,2303.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Renée Reichová,437,79,0.000000,3224.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tina Leung,639,7,0.000000,1024.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tina Leung,631,8,0.000000,1062.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tina Leung,601,8,0.000000,1958.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tina Leung,251,81,0.000000,2865.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tina Leung,235,111,0.000000,3255.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tina Leung,240,85,0.000000,2253.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Tina Leung,408,84,0.000000,3395.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,593,8,0.000000,1326.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,610,7,0.000000,2024.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,609,8,0.000000,1573.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,232,101,0.000000,2488.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,235,109,0.000000,2703.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,254,98,0.000000,2692.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Pamela Grassau,442,95,0.000000,2241.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,594,6,0.000000,2250.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,600,6,0.000000,1347.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,635,12,0.000000,1130.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,252,100,0.000000,2476.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,268,136,0.000000,2948.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,255,122,0.000000,2895.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jacques Adolphe Gervais-Lafond,500,106,0.000000,4532.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,610,10,0.000000,1203.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,588,15,0.000000,1216.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,606,9,0.000000,1081.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,253,77,0.000000,2595.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,262,111,0.000000,2867.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,248,99,0.000000,2306.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Mohammad Naghavi-behzad,433,100,0.000000,2002.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,590,9,0.000000,1056.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,606,8,0.000000,1035.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,570,8,0.000000,1454.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,247,103,0.000000,8948.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,247,131,0.000000,2927.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,248,116,0.000000,2702.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Lourdes Mohedano,485,116,0.000000,2464.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,592,12,0.000000,1130.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,608,16,0.000000,1138.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,590,16,0.000000,1779.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,261,117,0.000000,2480.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,262,126,0.000000,2920.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,272,107,0.000000,2290.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Carmine Chiellino,503,95,0.000000,2439.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,579,4,0.000000,2018.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,546,13,0.000000,2024.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,583,7,0.000000,1127.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,244,113,0.000000,2922.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,262,100,0.000000,2474.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,244,125,0.000000,4888.0
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Thirty Years' War,478,79,0.000000,1800.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,The Ox,503,7,0.000000,1029.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,The Ox,587,4,0.000000,1088.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,The Ox,616,4,0.000000,2023.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,The Ox,237,110,0.000000,2656.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,The Ox,236,99,0.000000,4750.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,The Ox,225,91,0.000000,2399.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,The Ox,427,93,0.000000,2017.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,518,9,0.000000,1126.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,567,17,0.000000,1126.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,572,9,0.000000,1125.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,242,98,0.000000,2697.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,256,91,0.000000,2701.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,243,95,0.000000,4492.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jimmy Baker,426,86,0.000000,2265.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,636,6,0.000000,1116.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,472,6,0.000000,1117.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,602,6,0.000000,1125.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,225,103,0.000000,2930.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,235,99,0.000000,2917.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,237,101,0.000000,2703.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Ronald A Farrar-Tobar,435,78,0.000000,2053.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,583,5,0.000000,2217.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,575,5,0.000000,1129.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,561,7,0.000000,1135.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,234,124,0.000000,5280.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,224,120,0.000000,4088.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,223,101,0.000000,2621.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,James Pat Rokeby Black,470,76,0.000000,2033.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,555,6,0.000000,2255.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,595,7,0.000000,1959.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,561,11,0.000000,2268.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,238,91,0.000000,2746.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,246,121,0.000000,3211.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,244,108,0.000000,3143.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Andreas Højsleth,454,78,0.000000,3158.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,584,9,0.000000,1567.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,602,6,0.000000,1134.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,613,9,0.000000,1340.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,240,107,0.000000,2929.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,243,104,0.000000,2918.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,245,108,0.000000,2487.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Moe Z. Win,451,111,0.000000,2693.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,560,12,0.000000,2244.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,491,8,0.000000,1129.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,588,8,0.000000,2022.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,272,116,0.000000,2712.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,249,112,0.000000,2697.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,240,93,0.000000,4041.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Monisola Oginni,462,93,0.000000,2047.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,513,8,0.000000,1017.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,598,10,0.000000,1063.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,625,10,0.000000,1045.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,249,112,0.000000,2506.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,257,121,0.000000,2684.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,254,109,0.000000,2978.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Elvira R. Akhmetzyanova,484,76,0.000000,1845.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,606,8,0.000000,1169.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,563,5,0.000000,1048.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,584,5,0.000000,1655.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,254,119,0.000000,3606.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,223,115,0.000000,2910.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,231,91,0.000000,4046.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Kurt L. Feigl,455,86,0.000000,2920.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,591,7,0.000000,1123.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,592,7,0.000000,1124.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,594,8,0.000000,1138.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,240,98,0.000000,2696.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,246,91,0.000000,3726.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,229,104,0.000000,3026.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Carl Temple Holden,422,87,0.000000,2237.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,555,11,0.000000,1141.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,610,6,0.000000,1116.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,419,6,0.000000,1566.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,249,84,0.000000,2474.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,247,79,0.000000,2474.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,242,107,0.000000,2706.7
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Nicola Zoccoli,403,79,0.000000,2021.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,535,4,0.000000,1347.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,559,5,0.000000,1219.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,505,4,0.000000,1020.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,221,109,0.000000,2941.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,230,107,0.000000,2920.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,236,116,0.000000,2744.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Marina Tarasova,454,95,0.000000,2213.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,514,6,0.000000,1516.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,551,8,0.000000,2250.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,533,6,0.000000,1076.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,233,87,0.000000,2496.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,225,101,0.000000,2937.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,227,102,0.000000,2919.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Thomas Dupré,419,77,0.000000,2244.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,597,12,0.000000,1123.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,643,8,0.000000,2054.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,613,12,0.000000,1316.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,256,101,0.000000,2478.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,265,87,0.000000,3603.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,257,97,0.000000,2919.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Jianmin Hao,429,74,0.000000,3383.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,517,4,0.000000,1571.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,603,12,0.000000,1124.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,584,4,0.000000,1120.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,235,105,0.000000,2931.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,239,95,0.000000,3152.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,230,107,0.000000,3139.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Romero Cabral da Costa,440,88,0.000000,3671.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,584,10,0.000000,1515.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,607,10,0.000000,1031.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,563,10,0.000000,1449.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,242,91,0.000000,2727.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,249,100,0.000000,2874.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,251,98,0.000000,2432.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Marcin Olszewski,431,73,0.000000,3306.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,532,8,0.000000,1030.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,576,9,0.000000,1935.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,524,9,0.000000,1109.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,242,104,0.000000,2948.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,243,101,0.000000,5843.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,238,98,0.000000,2702.9
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Danielle W Koontz,442,105,0.000000,2243.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fajar Handika,552,9,0.000000,1130.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fajar Handika,597,11,0.000000,1795.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Fajar Handika,606,9,0.000000,1594.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fajar Handika,256,92,0.000000,3822.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fajar Handika,250,100,0.000000,2691.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Fajar Handika,246,88,0.000000,3371.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Fajar Handika,419,101,0.000000,3597.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,595,7,0.000000,1349.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,487,13,0.000000,1800.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,600,7,0.000000,1357.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,230,102,0.000000,2477.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,233,107,0.000000,2474.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,232,92,0.000000,3950.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Robert Richardson Sears,435,108,0.000000,2560.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Robert Mougin,541,5,0.000000,1243.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Robert Mougin,593,5,0.000000,1037.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Robert Mougin,605,5,0.000000,1024.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Robert Mougin,215,81,0.000000,2578.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Robert Mougin,226,108,0.000000,2682.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Robert Mougin,220,93,0.000000,2359.9
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Robert Mougin,404,89,0.000000,3510.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,625,9,0.000000,4411.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,510,9,0.000000,1140.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,582,8,0.000000,1578.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,244,117,0.000000,4687.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,247,87,0.000000,2715.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,238,118,0.000000,2680.2
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Edmond Crompton,456,69,0.000000,3166.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,613,19,0.000000,1786.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,608,6,0.000000,1124.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,557,13,0.000000,1126.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,269,103,0.000000,2931.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,257,102,0.000000,2688.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,259,90,0.000000,3831.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Michael C. De Siena,443,121,0.000000,3977.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Allan Hookings,495,10,0.000000,1355.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Allan Hookings,441,10,0.000000,1269.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Allan Hookings,542,6,0.000000,1056.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Allan Hookings,237,92,0.000000,2877.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Allan Hookings,237,106,0.000000,2677.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Allan Hookings,232,97,0.000000,2516.6
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Allan Hookings,430,96,0.000000,2676.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,572,12,0.000000,1014.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,545,12,0.000000,1847.2
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,604,13,0.000000,1077.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,257,111,0.000000,2595.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,247,100,0.000000,2649.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,257,125,0.000000,2941.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Philip Wilkinson,482,92,0.000000,2012.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,584,7,0.000000,1125.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,568,18,0.000000,1138.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,462,18,0.000000,2008.8
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,245,103,0.000000,2932.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,266,115,0.000000,2917.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,254,91,0.000000,4056.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Carson Reynolds,457,97,0.000000,2052.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,594,6,0.000000,1316.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,623,6,0.000000,1799.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,646,11,0.000000,1126.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,241,89,0.000000,2925.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,240,117,0.000000,4730.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,254,93,0.000000,2325.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Sandip Mukherjee,435,93,0.000000,2148.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Eumundi,601,10,0.000000,1199.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Eumundi,624,7,0.000000,1153.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Eumundi,566,8,0.000000,1050.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Eumundi,242,97,0.000000,2358.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Eumundi,233,112,0.000000,2501.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Eumundi,240,94,0.000000,2554.4
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Eumundi,436,88,0.000000,1978.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,518,4,0.000000,977.4
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,584,6,0.000000,1039.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,590,6,0.000000,1025.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,224,97,0.000000,2556.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,236,98,0.000000,2923.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,245,126,0.000000,3155.3
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Marko Cvikl,448,115,0.000000,2469.1
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,595,10,0.000000,1138.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,572,10,0.000000,1114.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,541,5,0.000000,1121.6
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,241,127,0.000000,3196.2
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,235,111,0.000000,3110.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,238,104,0.000000,3995.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Co-reading group ad hoc forum,479,75,0.000000,1812.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,578,10,0.000000,1863.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,579,6,0.000000,1776.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,562,10,0.000000,1365.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,241,103,0.000000,2678.3
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,232,102,0.000000,2704.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,242,99,0.000000,4619.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Athar Hussain Bukhari,444,75,0.000000,2011.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,611,9,0.000000,1468.6
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,600,11,0.000000,1142.9
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,605,16,0.000000,1339.0
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,248,110,0.000000,2639.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,232,88,0.000000,2194.4
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,260,108,0.000000,4405.5
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Automated capacity management using artificial intelligence techniques,454,93,0.000000,3202.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tony Hodges,595,11,0.000000,1527.0
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tony Hodges,520,14,0.000000,1060.5
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Tony Hodges,524,11,0.000000,1761.9
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tony Hodges,258,96,0.000000,2484.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tony Hodges,259,132,0.000000,2918.5
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Tony Hodges,251,96,0.000000,2469.8
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Tony Hodges,469,102,0.000000,5399.7
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,616,8,0.000000,1122.8
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,623,8,0.000000,1134.3
+multi_agent_debate,extract,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,633,10,0.000000,1113.1
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,252,109,0.000000,2944.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,260,123,0.000000,5158.7
+multi_agent_debate,rebuttal,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,252,114,0.000000,2923.1
+multi_agent_debate,judge,openrouter/anthropic/claude-sonnet-4,Janet Auchincloss Rutherfurd,485,90,0.000000,2047.4

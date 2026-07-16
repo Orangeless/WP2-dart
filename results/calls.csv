@@ -1,0 +1,51 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jumanah Essa-Hadad,1204,239,0.000000,5552.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Martin Lambie-Nairn,1257,230,0.000000,6195.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Lord William Hamilton,1185,381,0.000000,10321.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Eliezer Calo,1194,300,0.000000,7399.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Denis Poix-Daude,1116,326,0.000000,8407.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Michael Mylonas,1192,321,0.000000,7453.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,François Carquet,1133,250,0.000000,6700.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Wenqing He,1007,170,0.000000,6455.2
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Gomorrah,1213,225,0.000000,5761.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Reconfiguration of hardware components of an integrated circuit,1200,293,0.000000,7660.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Guy Avenia,1167,326,0.000000,8802.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Wuilmen Bravo,1165,194,0.000000,5077.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Marie Joseph Jean Baptiste Paul Bouchet,1182,216,0.000000,7036.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Shinzu,1203,149,0.000000,4390.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Luwamo Garcia,1088,338,0.000000,9357.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jared Carter,1120,330,0.000000,9876.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Carlos Moorhead,1178,225,0.000000,5446.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,New York News,1046,285,0.000000,7345.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Hedda Heuser-Schreiber,1219,284,0.000000,6551.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Ydnekatchew Tessema,1210,204,0.000000,5265.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Chunguan Zhang,1239,352,0.000000,8481.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Sander van de Hoef,1121,265,0.000000,6286.2
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Katie Hurley,1194,165,0.000000,5204.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Viktor Kruglov,1165,275,0.000000,9381.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Dorian Owen,1103,253,0.000000,7532.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Wong Chin Hung,1129,333,0.000000,7478.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Amber Brian,945,211,0.000000,7818.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Taylor Beck,1041,165,0.000000,5216.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Pierre Langlois,1118,314,0.000000,9483.4
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,John Fenn,1030,160,0.000000,3932.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Fábio A L de Souza,1163,272,0.000000,7433.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,George Samuel Parsons,1200,200,0.000000,6299.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,David Poeppel,1116,190,0.000000,6606.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Mission Terra,1183,289,0.000000,9298.0
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Birgitta Larsson,943,334,0.000000,9196.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Stanisław Sienkiewicz,1111,331,0.000000,8145.5
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Yordanis Enríquez Canto,1257,366,0.000000,12983.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Manuel Garber,1218,287,0.000000,6737.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Gladys Liu,1179,268,0.000000,7437.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Ewa Śnieżyńska-Stolot,1137,291,0.000000,7037.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Supergirl: Woman of Tomorrow,1208,256,0.000000,9641.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jack Collison,1237,272,0.000000,8302.6
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Tomasz Jodłowiec,1087,364,0.000000,11149.1
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Fritz Renner,1201,366,0.000000,10881.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Molly M Fuentes,1079,180,0.000000,6800.3
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Erol Sayan,1158,261,0.000000,9285.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Thomas McCollum,1058,255,0.000000,8170.8
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jeff Reinert,1212,258,0.000000,5633.7
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Anatolii Hirshfeld,1182,204,0.000000,6955.9
+llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,MiSafra LeSayfa,1254,210,0.000000,7057.9
