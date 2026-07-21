@@ -20,6 +20,23 @@ def _norm(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "")).strip().lower()
 
 
+def _forced_object(out: str, parsed: Dict):
+    """The object to return, honouring config.ALLOW_ABSTAIN.
+
+    When abstaining is allowed we pass the parsed value through untouched (None => abstain).
+    When it is NOT allowed the resolver must never abstain, so if the JSON was empty or
+    unparseable we recover the answer from the raw reply — first the value after "object",
+    then, failing that, the stripped raw text — so the instance always gets an answer.
+    """
+    _nullish = ("", "null", "none", "n/a", "na", "cannot determine", "unknown")
+    obj = parsed.get("object")
+    if config.ALLOW_ABSTAIN or (obj is not None and str(obj).strip().lower() not in _nullish):
+        return obj
+    m = re.search(r'"?object"?\s*[:=]\s*"?([^"\n}]+)', out or "", re.I)
+    cand = (m.group(1) if m else re.sub(r'[`{}"]', " ", out or "")).strip().strip(".,")
+    return cand[:120] if cand and cand.lower() not in _nullish else None
+
+
 def _extract_object_from_text(subject: str, query: str, text: str,
                               model: str, inst_id: str, resolver: str,
                               log: List[CallLog]) -> str:
@@ -78,7 +95,8 @@ def source_trust(subject, query, bundle, model, inst_id, log) -> Dict:
 
 
 # ---- 2. LLM adjudicators ----------------------------------------------------
-def _llm_adjudicate(subject, query, bundle, model, inst_id, log, ask_provenance) -> Dict:
+def _llm_adjudicate(subject, query, bundle, model, inst_id, log, ask_provenance,
+                    temperature=None, seed=None) -> Dict:
     import dataio
     rendered = dataio.render_bundle(bundle)
     abstain_instruction = (
@@ -91,11 +109,16 @@ def _llm_adjudicate(subject, query, bundle, model, inst_id, log, ask_provenance)
     prompt = (
         f"Several sources disagree about the answer to this question: {query}\n\n"
         f"Decide the single most likely correct value. {abstain_instruction}Weigh source "
-        f"reliability and internal consistency; do not just pick the majority.\n\n{rendered}\n\n"
+        f"reliability and internal consistency; do not just pick the majority. Some passages "
+        f"may be outdated (true only at an earlier time) or describe a different entity that "
+        f"shares the name — disregard those and give the value that is correct NOW.\n\n"
+        f"Answer with ONLY the canonical name of the answer entity — no sentence, no "
+        f"explanation, no extra qualifiers.\n\n{rendered}\n\n"
         f'Respond as JSON: {{"object": "<value>"{prov}}}')
     out = chat(prompt, model, resolver="llm_judge_provenance" if ask_provenance else "llm_judge",
-               stage="adjudicate", inst_id=inst_id, temperature=config.TEMPERATURE,
-               max_tokens=config.MAX_TOKENS, seed=config.SEED, log=log)
+               stage="adjudicate", inst_id=inst_id,
+               temperature=config.TEMPERATURE if temperature is None else temperature,
+               max_tokens=config.MAX_TOKENS, seed=config.SEED if seed is None else seed, log=log)
     try:
         m = re.search(r"\{.*\}", out, re.S)
         if m is None:
@@ -107,13 +130,38 @@ def _llm_adjudicate(subject, query, bundle, model, inst_id, log, ask_provenance)
                 d = {}
     except Exception:
         d = {}
-    return {"object": d.get("object"),
+    return {"object": _forced_object(out, d),
             "chosen_source": d.get("chosen_source"),
             "rationale": d.get("rationale", "")}
 
 
 def llm_judge(subject, query, bundle, model, inst_id, log) -> Dict:
     return _llm_adjudicate(subject, query, bundle, model, inst_id, log, False)
+
+
+# Self-consistency: sample the adjudication SC_SAMPLES times at a non-zero temperature and
+# majority-vote the answer. Cancels one-off errors — the standard accuracy boost for
+# knowledge tasks (Wang et al. 2022, "Self-Consistency Improves Chain of Thought"). Costs
+# SC_SAMPLES x the calls; this is the lever meant to push a strong model past its single-shot
+# ceiling toward the 90s (pair it with the knowledge filter).
+SC_SAMPLES = 5
+SC_TEMPERATURE = 0.5
+
+
+def llm_judge_sc(subject, query, bundle, model, inst_id, log) -> Dict:
+    votes = []
+    for k in range(SC_SAMPLES):
+        d = _llm_adjudicate(subject, query, bundle, model, inst_id, log, False,
+                            temperature=SC_TEMPERATURE, seed=config.SEED + k)
+        if d.get("object"):
+            votes.append(d["object"])
+    if not votes:
+        return {"object": None, "chosen_source": None, "rationale": "no answer in any sample"}
+    top = Counter(_norm(v) for v in votes).most_common(1)[0][0]
+    obj = next(v for v in votes if _norm(v) == top)
+    agree = sum(1 for v in votes if _norm(v) == top)
+    return {"object": obj, "chosen_source": None,
+            "rationale": f"majority {agree}/{len(votes)} samples"}
 
 
 def llm_judge_provenance(subject, query, bundle, model, inst_id, log) -> Dict:
@@ -188,7 +236,7 @@ def multi_agent_debate(subject, query, bundle, model, inst_id, log) -> Dict:
                 d = {}
     except Exception:
         d = {}
-    return {"object": d.get("object"), "chosen_source": d.get("chosen_source"),
+    return {"object": _forced_object(out, d), "chosen_source": d.get("chosen_source"),
             "rationale": d.get("rationale", "")}
 
 
@@ -197,6 +245,7 @@ _REGISTRY = {
     "recency": recency,
     "source_trust": source_trust,
     "llm_judge": llm_judge,
+    "llm_judge_sc": llm_judge_sc,
     "llm_judge_provenance": llm_judge_provenance,
     "multi_agent_debate": multi_agent_debate,
 }

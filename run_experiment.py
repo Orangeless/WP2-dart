@@ -35,13 +35,36 @@ def _conflict_object(inst):
     return inst.get("replaced_object")
 
 
-def run(models_override=None, resolvers_override=None, out_tag=None):
+def run(models_override=None, resolvers_override=None, out_tag=None, conflict_type=None,
+        control=False):
     # Determine which models and resolvers to use
     models = models_override if models_override else config.MODELS
     resolvers_list = resolvers_override if resolvers_override else config.RESOLVERS
 
+    # Control mode: correct evidence ONLY, no conflicting passage. This measures what the
+    # model KNOWS (its knowledge ceiling) so a later analysis can grade conflict runs on
+    # just the facts it gets right conflict-free (see the knowledge filter in plot_results).
+    #
+    # Single-conflict-type mode: restrict every bundle to (correct + exactly one
+    # conflicting passage of the requested type) and tag each row with that type, so
+    # results can be broken down per conflict type instead of the default 'mixed'
+    # bundle (which draws 2 of the 3 types and is therefore unlabelled).
+    if control:
+        config.N_CONFLICT_SOURCES = 0
+    elif conflict_type:
+        config.CONFLICT_TYPES = [conflict_type]
+        config.N_CONFLICT_SOURCES = 1
+
     rng = random.Random(config.SEED)
     insts = dataio.load_instances()
+    # When studying one conflict type, only score instances that actually carry that
+    # conflict's evidence — others would be conflict-free and inflate accuracy.
+    if conflict_type and not control:
+        field = conflict_type + "_evidence"
+        insts = [i for i in insts if i.get(field)]
+        print(f"[conflict-type={conflict_type}] {len(insts)} instances carry this conflict")
+    if control:
+        print(f"[control] correct-evidence-only knowledge probe over {len(insts)} instances")
     call_log, rows = [], []
 
     # Pre-build bundles once per instance so every resolver sees the same evidence.
@@ -63,9 +86,7 @@ def run(models_override=None, resolvers_override=None, out_tag=None):
                 bundle = instance_bundles[iid]
                 pred = resolver(subject, query, bundle, model, iid, call_log)
                 sc = metrics.score_instance(pred, dataio.gold_object(inst), _conflict_object(inst))
-                ct = inst.get("conflict_type", "")
-                if not ct:
-                    ct = "mixed"
+                ct = "control" if control else (conflict_type or inst.get("conflict_type", "") or "mixed")
                 sc.update({"resolver": rname, "model_tier": tier, "model": model,
                            "inst_id": iid, "conflict_type": ct,
                            "n_sources": len(bundle), "chosen_source": pred.get("chosen_source")})
@@ -161,6 +182,14 @@ if __name__ == "__main__":
                     help="comma-separated resolver names (e.g. llm_judge,multi_agent_debate)")
     ap.add_argument("--out", type=str, default=None,
                     help="output tag: writes results/scores_<tag>.csv and results/calls_<tag>.csv")
+    ap.add_argument("--conflict-type", type=str, default=None,
+                    choices=["fact_conflict", "temporal_conflict", "semantic_conflict"],
+                    help="restrict bundles to a single conflict type and tag rows with it "
+                         "(default: a 'mixed' bundle of 2 types). Run once per type to get a "
+                         "per-conflict-type breakdown in the graph.")
+    ap.add_argument("--control", action="store_true",
+                    help="correct-evidence-only run (no conflict) — the knowledge probe. Tag "
+                         "'control'. Grade conflict runs on facts a model gets right here.")
     args = ap.parse_args()
 
     if args.dry_run:
@@ -168,4 +197,5 @@ if __name__ == "__main__":
     else:
         models = _parse_models(args.models)
         resolvers = _parse_resolvers(args.resolvers)
-        run(models_override=models, resolvers_override=resolvers, out_tag=args.out)
+        run(models_override=models, resolvers_override=resolvers, out_tag=args.out,
+            conflict_type=args.conflict_type, control=args.control)

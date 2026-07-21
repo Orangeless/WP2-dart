@@ -1,0 +1,101 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jumanah Essa-Hadad,1010,894,0.000000,10573.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Martin Lambie-Nairn,1112,1401,0.000000,14644.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Lord William Hamilton,1124,1436,0.000000,15272.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Eliezer Calo,1173,1338,0.000000,14990.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Denis Poix-Daude,1063,1451,0.000000,16918.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Michael Mylonas,1101,1597,0.000000,17108.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,François Carquet,1058,1273,0.000000,14843.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Wenqing He,1007,918,0.000000,10443.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Gomorrah,1151,800,0.000000,8306.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Reconfiguration of hardware components of an integrated circuit,1153,1476,0.000000,13618.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Guy Avenia,1105,1444,0.000000,14610.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Wuilmen Bravo,1084,1050,0.000000,10901.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Marie Joseph Jean Baptiste Paul Bouchet,995,1559,0.000000,13814.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Shinzu,1137,775,0.000000,9216.2
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Luwamo Garcia,1100,973,0.000000,10222.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jared Carter,1045,1796,0.000000,18538.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Carlos Moorhead,1127,1337,0.000000,13131.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,New York News,1002,1935,0.000000,19941.2
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Hedda Heuser-Schreiber,1129,1387,0.000000,17152.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Ydnekatchew Tessema,1192,1415,0.000000,13926.2
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Chunguan Zhang,1192,1301,0.000000,12681.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Sander van de Hoef,1040,1169,0.000000,12630.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Katie Hurley,1143,1183,0.000000,13540.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Viktor Kruglov,1109,1935,0.000000,19139.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Dorian Owen,1066,1129,0.000000,12807.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Wong Chin Hung,1074,1939,0.000000,20159.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Amber Brian,865,1197,0.000000,12532.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Taylor Beck,1008,932,0.000000,10733.2
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Pierre Langlois,1040,1301,0.000000,13134.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,John Fenn,1087,815,0.000000,9512.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Fábio A L de Souza,1128,1558,0.000000,18001.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,George Samuel Parsons,1157,1189,0.000000,12318.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,David Poeppel,996,1238,0.000000,13826.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Mission Terra,1108,1264,0.000000,13409.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Birgitta Larsson,836,1284,0.000000,13532.4
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Stanisław Sienkiewicz,1020,661,0.000000,8754.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Yordanis Enríquez Canto,1152,1463,0.000000,14898.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Manuel Garber,1078,1372,0.000000,14483.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Gladys Liu,1087,1442,0.000000,16217.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Ewa Śnieżyńska-Stolot,1059,1892,0.000000,18117.4
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Supergirl: Woman of Tomorrow,1141,1102,0.000000,11991.4
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jack Collison,1268,1937,0.000000,20126.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Tomasz Jodłowiec,982,1235,0.000000,12827.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Fritz Renner,1112,1036,0.000000,11794.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Molly M Fuentes,949,739,0.000000,10372.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Erol Sayan,1082,991,0.000000,10571.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Thomas McCollum,1135,1577,0.000000,15181.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jeff Reinert,1187,1715,0.000000,19189.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Anatolii Hirshfeld,1063,988,0.000000,10254.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,MiSafra LeSayfa,1133,1020,0.000000,10367.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Hunslet Penrhyn Port Class,1114,1088,0.000000,11935.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,The Adventures of Paddington Bear,1058,912,0.000000,10518.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Keith Mackie,1149,884,0.000000,9361.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Charles William Eliot,1121,1044,0.000000,12263.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Binyam Sisay Mendisu,1138,1105,0.000000,12083.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,José Pedro de Oliveira Galvão,1203,1095,0.000000,12542.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Sandi L. Navarro,1009,1203,0.000000,12282.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Mateo Cassierra,1114,1611,0.000000,17563.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Johann Friedrich Agricola,1052,1251,0.000000,12943.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Renée Reichová,1006,1132,0.000000,11900.2
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Tina Leung,1103,1109,0.000000,11706.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Pamela Grassau,1124,1298,0.000000,12060.7
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jacques Adolphe Gervais-Lafond,1146,1558,0.000000,14598.2
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Mohammad Naghavi-behzad,1032,768,0.000000,8690.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Lourdes Mohedano,1079,1068,0.000000,11870.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Carmine Chiellino,1081,1429,0.000000,14940.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Thirty Years' War,1126,1161,0.000000,11088.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,The Ox,1042,1183,0.000000,12842.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jimmy Baker,1096,1205,0.000000,13760.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Ronald A Farrar-Tobar,984,961,0.000000,10855.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,James Pat Rokeby Black,1106,1495,0.000000,15518.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Andreas Højsleth,1028,925,0.000000,11703.4
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Moe Z. Win,1113,1175,0.000000,12097.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Monisola Oginni,982,839,0.000000,9111.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Elvira R. Akhmetzyanova,1022,1365,0.000000,16317.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Kurt L. Feigl,1171,842,0.000000,10447.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Carl Temple Holden,1099,1752,0.000000,20337.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Nicola Zoccoli,1030,1558,0.000000,14797.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Marina Tarasova,1072,1323,0.000000,17201.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Thomas Dupré,884,1200,0.000000,12950.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Jianmin Hao,1180,1527,0.000000,19181.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Romero Cabral da Costa,1048,1002,0.000000,10886.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Marcin Olszewski,907,861,0.000000,9260.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Danielle W Koontz,975,935,0.000000,9826.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Fajar Handika,1020,860,0.000000,9582.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Robert Richardson Sears,1025,1124,0.000000,11516.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Robert Mougin,1074,1631,0.000000,19045.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Edmond Crompton,1089,888,0.000000,9701.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Michael C. De Siena,1102,1938,0.000000,19572.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Allan Hookings,957,1052,0.000000,10635.0
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Philip Wilkinson,1054,829,0.000000,9884.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Carson Reynolds,1114,1422,0.000000,14711.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Sandip Mukherjee,1142,1371,0.000000,13482.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Eumundi,1152,971,0.000000,11543.6
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Marko Cvikl,1057,1352,0.000000,16449.1
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Co-reading group ad hoc forum,1040,1084,0.000000,12594.8
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Athar Hussain Bukhari,1101,1162,0.000000,12799.5
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Automated capacity management using artificial intelligence techniques,1140,914,0.000000,11200.3
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Tony Hodges,1059,1452,0.000000,15015.9
+llm_judge,adjudicate,openrouter/google/gemini-2.5-pro,Janet Auchincloss Rutherfurd,1154,963,0.000000,10548.7

@@ -1,0 +1,101 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,semantic_conflict,2,0,1,0,,National Library of Russia,The Azrieli Faculty of Medicine,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,semantic_conflict,2,1,0,0,,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Lord William Hamilton,semantic_conflict,2,1,0,0,,"Frances Vane, Viscountess Vane","Frances Vane, Viscountess Vane",0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Eliezer Calo,semantic_conflict,2,0,0,0,,Massachusetts Institute of Technology (MIT),Massachusetts Institute of Technology,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,semantic_conflict,2,1,0,0,,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Michael Mylonas,semantic_conflict,2,0,1,0,,Member of the European Parliament,King's Counsel,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,François Carquet,semantic_conflict,2,1,0,0,,France,France,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Wenqing He,semantic_conflict,2,1,0,0,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Gomorrah,semantic_conflict,2,1,0,0,,Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,semantic_conflict,2,0,0,0,,US patent 11256840,filing,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Guy Avenia,semantic_conflict,2,0,0,0,,Railway carpenter (retired),anciennes professions intermédiaires,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,semantic_conflict,2,0,1,0,,Grays Athletic F.C.,JHS Aves,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,semantic_conflict,2,1,0,0,,Sub-Prefect of Saint-Affrique,sub-prefect of Saint-Affrique,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Shinzu,semantic_conflict,2,1,0,0,,Hamamatsu,Hamamatsu,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Luwamo Garcia,semantic_conflict,2,1,0,0,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jared Carter,semantic_conflict,2,1,0,0,,Kentucky Wildcats men's basketball,Kentucky Wildcats men's basketball,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Carlos Moorhead,semantic_conflict,2,0,1,0,,Chief Secretary of South Australia,United States representative,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,New York News,semantic_conflict,2,0,0,0,,New York News (as a news organization),Mary Tyler Moore,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Hedda Heuser-Schreiber,semantic_conflict,2,0,0,0,,Paracelsus Medal,Paracelsus Medal of the German Medical Association,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Ydnekatchew Tessema,semantic_conflict,2,1,0,0,,Saint George SC,Saint George SC,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Chunguan Zhang,semantic_conflict,2,1,0,0,,Xi'an Shiyou University,Xi'an Shiyou University,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Sander van de Hoef,semantic_conflict,2,0,0,0,,University Medical Center Utrecht (UMCU),University Medical Center Utrecht,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Katie Hurley,semantic_conflict,2,1,0,0,,Member of the Alaska House of Representatives,member of the Alaska House of Representatives,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Viktor Kruglov,semantic_conflict,2,1,0,0,,FC Torpedo Moscow,FC Torpedo Moscow,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Dorian Owen,semantic_conflict,2,1,0,0,,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Wong Chin Hung,semantic_conflict,2,1,0,0,,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Amber Brian,semantic_conflict,2,0,1,0,,William Beaumont Army Medical Center,University of Iowa,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Taylor Beck,semantic_conflict,2,0,1,0,,Kansas City Current,Nashville Predators,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Pierre Langlois,semantic_conflict,2,0,0,0,,ancien cadre,anciens cadres,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,John Fenn,semantic_conflict,2,1,0,0,,Ellenor Fenn,Ellenor Fenn,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Fábio A L de Souza,semantic_conflict,2,1,0,0,,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,George Samuel Parsons,semantic_conflict,2,1,0,0,,Royal Navy,Royal Navy,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,David Poeppel,semantic_conflict,2,1,0,0,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Mission Terra,semantic_conflict,2,0,1,0,,Australia,Germany,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Birgitta Larsson,semantic_conflict,2,0,1,0,,University Children's Hospital Basel,Sophiahemmet University College,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Stanisław Sienkiewicz,semantic_conflict,2,1,0,0,,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Yordanis Enríquez Canto,semantic_conflict,2,1,0,0,,Universidad Católica Sedes Sapientiae,Universidad Católica Sedes Sapientiae,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Manuel Garber,semantic_conflict,2,0,1,0,,University of Western Australia,Worcester Foundation for Biomedical Research,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Gladys Liu,semantic_conflict,2,0,0,0,,Australian,People's Republic of China,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Ewa Śnieżyńska-Stolot,semantic_conflict,2,0,1,0,,Doctor of Philosophy,scientific professorship degree,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Supergirl: Woman of Tomorrow,semantic_conflict,2,1,0,0,,English,English,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jack Collison,semantic_conflict,2,1,0,0,,West Ham United F.C.,West Ham United F.C.,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Tomasz Jodłowiec,semantic_conflict,2,1,0,0,,Podbeskidzie Bielsko-Biała,Podbeskidzie Bielsko-Biała,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Fritz Renner,semantic_conflict,2,0,0,0,,"Cognition and Brain Sciences Unit, UK Medical Research Council",Cognition and Brain Sciences Unit,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Molly M Fuentes,semantic_conflict,2,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Erol Sayan,semantic_conflict,2,1,0,0,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Thomas McCollum,semantic_conflict,2,0,0,0,,Agricultural Research Service (ARS),Agricultural Research Service,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jeff Reinert,semantic_conflict,2,0,0,0,,NCAA Division I men's basketball league,NCAA Division I men's basketball,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Anatolii Hirshfeld,semantic_conflict,2,1,0,0,,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,MiSafra LeSayfa,semantic_conflict,2,1,0,0,,Hebrew,Hebrew,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Hunslet Penrhyn Port Class,semantic_conflict,2,1,0,0,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,The Adventures of Paddington Bear,semantic_conflict,2,1,0,0,,France,France,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Keith Mackie,semantic_conflict,2,0,0,0,,NCAA Division I men's basketball league,NCAA Division I men's basketball,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Charles William Eliot,semantic_conflict,2,1,0,0,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Binyam Sisay Mendisu,semantic_conflict,2,1,0,0,,Global Young Academy,Global Young Academy,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,José Pedro de Oliveira Galvão,semantic_conflict,2,0,0,0,,Senator of Brazil,member of the Senate of Brazil,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Sandi L. Navarro,semantic_conflict,2,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Mateo Cassierra,semantic_conflict,2,1,0,0,,Deportivo Cali,Deportivo Cali,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Johann Friedrich Agricola,semantic_conflict,2,0,1,0,,Catholic Bishop,lord of the manor,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Renée Reichová,semantic_conflict,2,0,1,0,,Brno,Prag V,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Tina Leung,semantic_conflict,2,1,0,0,,Luo Yu,Luo Yu,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Pamela Grassau,semantic_conflict,2,0,1,0,,University of Aveiro,Carleton University,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jacques Adolphe Gervais-Lafond,semantic_conflict,2,1,0,0,,Sub-prefect of Nantua,Sub-prefect of Nantua,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Mohammad Naghavi-behzad,semantic_conflict,2,1,0,0,,Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Lourdes Mohedano,semantic_conflict,2,1,0,0,,Medal of Andalusia,Medal of Andalusia,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Carmine Chiellino,semantic_conflict,2,1,0,0,,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Thirty Years' War,semantic_conflict,2,0,0,0,,Wikipedia,Wikipedia:List of articles all languages should have,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,The Ox,semantic_conflict,2,0,0,0,,"The Ox (instrumental by John Entwistle, Nicky Hopkins, Keith Moon, and Pete Townshend)",The Who,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jimmy Baker,semantic_conflict,2,0,1,0,,Speaker of the Folketing,"municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Ronald A Farrar-Tobar,semantic_conflict,2,0,1,0,,Toronto Metropolitan University,TU Wien,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,James Pat Rokeby Black,semantic_conflict,2,0,1,0,,John Herbert,Susan Elizabeth Bone,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Andreas Højsleth,semantic_conflict,2,1,0,0,,Fnatic,Fnatic,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Moe Z. Win,semantic_conflict,2,1,0,0,,IEEE Fellow,IEEE Fellow,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Monisola Oginni,semantic_conflict,2,0,1,0,,Weill Cornell Medicine,Obafemi Awolowo University,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Elvira R. Akhmetzyanova,semantic_conflict,2,1,0,0,,Kazan Federal University,Kazan Federal University,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Kurt L. Feigl,semantic_conflict,2,1,0,0,,University of Wisconsin–Madison,University of Wisconsin–Madison,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Carl Temple Holden,semantic_conflict,2,0,1,0,,Susan Frampton,Caroline Anne Gould,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Nicola Zoccoli,semantic_conflict,2,0,0,0,,Roman Catholic bishop,Catholic priest,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Marina Tarasova,semantic_conflict,2,0,0,0,,Russian,Soviet Union,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Thomas Dupré,semantic_conflict,2,1,0,0,,German Sport University Cologne,German Sport University Cologne,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Jianmin Hao,semantic_conflict,2,1,0,0,,Inner Mongolia University of Technology,Inner Mongolia University of Technology,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Romero Cabral da Costa,semantic_conflict,2,1,0,0,,Minister of Agriculture,minister of Agriculture,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Marcin Olszewski,semantic_conflict,2,1,0,0,,Gdańsk University of Technology,Gdańsk University of Technology,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Danielle W Koontz,semantic_conflict,2,1,0,0,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Fajar Handika,semantic_conflict,2,1,0,0,,Pro Duta F.C.,Pro Duta F.C.,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Robert Richardson Sears,semantic_conflict,2,1,0,0,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Robert Mougin,semantic_conflict,2,0,0,0,,Bishop of Annecy,pensioner,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Edmond Crompton,semantic_conflict,2,1,0,0,,Betsey Ann Kingston,Betsey Ann Kingston,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Michael C. De Siena,semantic_conflict,2,0,1,0,,Eötvös Loránd University,University of Washington,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Allan Hookings,semantic_conflict,2,1,0,0,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Philip Wilkinson,semantic_conflict,2,0,0,0,,"Police and Crime Commissioner for Wiltshire, England",Wiltshire Police and Crime Commissioner,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Carson Reynolds,semantic_conflict,2,0,0,0,,University of Munich,Massachusetts Institute of Technology,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Sandip Mukherjee,semantic_conflict,2,1,0,0,,Visva-Bharati University,Visva-Bharati University,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Eumundi,semantic_conflict,2,1,0,0,,Ninderry,Ninderry,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Marko Cvikl,semantic_conflict,2,1,0,0,,Slovenia,Slovenia,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Co-reading group ad hoc forum,semantic_conflict,2,0,0,0,,US Patent 11206149,filing,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Athar Hussain Bukhari,semantic_conflict,2,0,0,0,,Ambassador to Syria,ambassador of Pakistan to Syria,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Automated capacity management using artificial intelligence techniques,semantic_conflict,2,0,0,0,,US Patent 1124466,filing,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Tony Hodges,semantic_conflict,2,0,1,0,,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0
+llm_judge,small-gemma4b,openrouter/google/gemma-3-4b-it,Janet Auchincloss Rutherfurd,semantic_conflict,2,0,1,0,,Richard Wrightson,Lewis Polk Rutherfurd,0.0

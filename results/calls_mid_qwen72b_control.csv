@@ -1,0 +1,101 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jumanah Essa-Hadad,671,11,0.000000,855.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Martin Lambie-Nairn,644,10,0.000000,653.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Lord William Hamilton,662,15,0.000000,778.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Eliezer Calo,677,13,0.000000,700.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Denis Poix-Daude,599,13,0.000000,1038.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Michael Mylonas,672,8,0.000000,569.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,François Carquet,625,6,0.000000,829.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Wenqing He,493,14,0.000000,694.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Gomorrah,672,15,0.000000,766.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Reconfiguration of hardware components of an integrated circuit,666,16,0.000000,824.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Guy Avenia,647,7,0.000000,632.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Wuilmen Bravo,601,9,0.000000,964.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Marie Joseph Jean Baptiste Paul Bouchet,657,14,0.000000,765.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Shinzu,658,8,0.000000,553.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Luwamo Garcia,603,13,0.000000,719.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jared Carter,616,12,0.000000,679.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Carlos Moorhead,666,8,0.000000,572.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,New York News,668,8,0.000000,650.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Hedda Heuser-Schreiber,676,10,0.000000,622.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Ydnekatchew Tessema,697,8,0.000000,1007.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Chunguan Zhang,672,10,0.000000,673.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Sander van de Hoef,574,10,0.000000,616.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Katie Hurley,678,12,0.000000,647.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Viktor Kruglov,674,9,0.000000,567.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Dorian Owen,613,15,0.000000,710.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Wong Chin Hung,616,10,0.000000,635.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Amber Brian,511,8,0.000000,495.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Taylor Beck,576,10,0.000000,595.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Pierre Langlois,598,7,0.000000,473.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,John Fenn,657,9,0.000000,918.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Fábio A L de Souza,683,12,0.000000,595.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,George Samuel Parsons,642,7,0.000000,511.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,David Poeppel,639,10,0.000000,560.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Mission Terra,637,6,0.000000,570.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Birgitta Larsson,600,11,0.000000,679.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Stanisław Sienkiewicz,614,17,0.000000,939.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Yordanis Enríquez Canto,665,14,0.000000,958.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Manuel Garber,636,13,0.000000,586.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Gladys Liu,657,6,0.000000,691.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Ewa Śnieżyńska-Stolot,619,9,0.000000,617.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Supergirl: Woman of Tomorrow,663,6,0.000000,556.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jack Collison,712,11,0.000000,647.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Tomasz Jodłowiec,653,14,0.000000,688.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Fritz Renner,669,11,0.000000,584.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Molly M Fuentes,586,8,0.000000,556.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Erol Sayan,641,12,0.000000,691.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Thomas McCollum,667,13,0.000000,766.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jeff Reinert,695,13,0.000000,764.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Anatolii Hirshfeld,678,10,0.000000,633.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,MiSafra LeSayfa,686,7,0.000000,857.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Hunslet Penrhyn Port Class,668,10,0.000000,628.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,The Adventures of Paddington Bear,661,7,0.000000,938.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Keith Mackie,677,13,0.000000,720.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Charles William Eliot,659,14,0.000000,738.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Binyam Sisay Mendisu,678,8,0.000000,613.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,José Pedro de Oliveira Galvão,690,6,0.000000,574.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Sandi L. Navarro,554,8,0.000000,863.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Mateo Cassierra,657,10,0.000000,535.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Johann Friedrich Agricola,653,7,0.000000,706.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Renée Reichová,696,7,0.000000,669.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Tina Leung,659,8,0.000000,515.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Pamela Grassau,648,8,0.000000,499.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jacques Adolphe Gervais-Lafond,685,13,0.000000,667.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Mohammad Naghavi-behzad,645,11,0.000000,817.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Lourdes Mohedano,671,11,0.000000,621.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Carmine Chiellino,654,13,0.000000,669.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Thirty Years' War,665,15,0.000000,740.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,The Ox,672,11,0.000000,648.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jimmy Baker,630,21,0.000000,720.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Ronald A Farrar-Tobar,503,7,0.000000,553.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,James Pat Rokeby Black,639,8,0.000000,546.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Andreas Højsleth,642,7,0.000000,515.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Moe Z. Win,679,7,0.000000,550.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Monisola Oginni,619,12,0.000000,697.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Elvira R. Akhmetzyanova,567,10,0.000000,571.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Kurt L. Feigl,701,11,0.000000,627.8
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Carl Temple Holden,667,9,0.000000,519.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Nicola Zoccoli,509,8,0.000000,591.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Marina Tarasova,636,6,0.000000,516.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Thomas Dupré,602,9,0.000000,537.9
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Jianmin Hao,696,10,0.000000,658.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Romero Cabral da Costa,670,16,0.000000,733.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Marcin Olszewski,611,11,0.000000,831.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Danielle W Koontz,601,11,0.000000,590.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Fajar Handika,656,11,0.000000,619.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Robert Richardson Sears,556,14,0.000000,741.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Robert Mougin,654,8,0.000000,583.4
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Edmond Crompton,655,9,0.000000,563.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Michael C. De Siena,661,8,0.000000,569.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Allan Hookings,606,12,0.000000,617.1
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Philip Wilkinson,613,15,0.000000,710.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Carson Reynolds,664,10,0.000000,862.6
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Sandip Mukherjee,698,11,0.000000,648.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Eumundi,680,8,0.000000,636.5
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Marko Cvikl,592,9,0.000000,1087.0
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Co-reading group ad hoc forum,628,16,0.000000,1627.3
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Athar Hussain Bukhari,644,11,0.000000,627.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Automated capacity management using artificial intelligence techniques,702,19,0.000000,804.7
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Tony Hodges,595,12,0.000000,760.2
+llm_judge,adjudicate,openrouter/qwen/qwen-2.5-72b-instruct,Janet Auchincloss Rutherfurd,677,12,0.000000,579.2

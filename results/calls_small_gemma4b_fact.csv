@@ -1,0 +1,101 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jumanah Essa-Hadad,1019,12,0.000000,826.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Martin Lambie-Nairn,1121,15,0.000000,978.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Lord William Hamilton,1133,18,0.000000,1745.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Eliezer Calo,1182,18,0.000000,1340.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Denis Poix-Daude,1072,12,0.000000,3121.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Michael Mylonas,1110,16,0.000000,4756.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,François Carquet,1067,7,0.000000,731.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Wenqing He,1016,14,0.000000,1460.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Gomorrah,1160,18,0.000000,986.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Reconfiguration of hardware components of an integrated circuit,1162,31,0.000000,1223.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Guy Avenia,1114,15,0.000000,1144.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Wuilmen Bravo,1093,15,0.000000,899.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Marie Joseph Jean Baptiste Paul Bouchet,1004,20,0.000000,2124.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Shinzu,1146,21,0.000000,1808.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Luwamo Garcia,1109,19,0.000000,1549.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jared Carter,1054,17,0.000000,1172.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Carlos Moorhead,1136,16,0.000000,1258.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,New York News,1011,12,0.000000,906.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Hedda Heuser-Schreiber,1138,16,0.000000,1502.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Ydnekatchew Tessema,1201,14,0.000000,893.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Chunguan Zhang,1201,14,0.000000,1145.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Sander van de Hoef,1049,17,0.000000,1760.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Katie Hurley,1152,18,0.000000,1400.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Viktor Kruglov,1118,15,0.000000,605.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Dorian Owen,1075,21,0.000000,712.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Wong Chin Hung,1083,16,0.000000,645.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Amber Brian,874,9,0.000000,597.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Taylor Beck,1017,13,0.000000,773.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Pierre Langlois,1049,13,0.000000,2058.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,John Fenn,1096,14,0.000000,1118.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Fábio A L de Souza,1137,16,0.000000,1774.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,George Samuel Parsons,1166,8,0.000000,668.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,David Poeppel,1005,18,0.000000,835.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Mission Terra,1117,12,0.000000,716.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Birgitta Larsson,845,11,0.000000,601.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Stanisław Sienkiewicz,1029,13,0.000000,578.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Yordanis Enríquez Canto,1161,18,0.000000,665.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Manuel Garber,1087,15,0.000000,758.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Gladys Liu,1096,17,0.000000,1208.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Ewa Śnieżyńska-Stolot,1068,14,0.000000,568.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Supergirl: Woman of Tomorrow,1150,12,0.000000,639.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jack Collison,1277,18,0.000000,915.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Tomasz Jodłowiec,991,21,0.000000,884.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Fritz Renner,1121,22,0.000000,842.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Molly M Fuentes,958,10,0.000000,658.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Erol Sayan,1091,15,0.000000,747.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Thomas McCollum,1144,10,0.000000,730.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jeff Reinert,1196,20,0.000000,970.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Anatolii Hirshfeld,1072,17,0.000000,941.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,MiSafra LeSayfa,1142,9,0.000000,858.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Hunslet Penrhyn Port Class,1123,16,0.000000,719.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,The Adventures of Paddington Bear,1067,7,0.000000,957.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Keith Mackie,1158,16,0.000000,660.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Charles William Eliot,1130,19,0.000000,1070.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Binyam Sisay Mendisu,1147,14,0.000000,790.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,José Pedro de Oliveira Galvão,1212,17,0.000000,710.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Sandi L. Navarro,1018,15,0.000000,704.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Mateo Cassierra,1123,18,0.000000,988.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Johann Friedrich Agricola,1061,13,0.000000,571.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Renée Reichová,1015,14,0.000000,736.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Tina Leung,1112,9,0.000000,597.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Pamela Grassau,1133,15,0.000000,709.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jacques Adolphe Gervais-Lafond,1155,13,0.000000,706.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Mohammad Naghavi-behzad,1041,17,0.000000,698.9
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Lourdes Mohedano,1088,15,0.000000,697.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Carmine Chiellino,1090,18,0.000000,933.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Thirty Years' War,1135,12,0.000000,992.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,The Ox,1051,42,0.000000,2262.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jimmy Baker,1105,16,0.000000,707.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Ronald A Farrar-Tobar,993,9,0.000000,638.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,James Pat Rokeby Black,1115,14,0.000000,618.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Andreas Højsleth,1037,13,0.000000,593.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Moe Z. Win,1122,8,0.000000,832.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Monisola Oginni,991,13,0.000000,638.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Elvira R. Akhmetzyanova,1031,21,0.000000,839.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Kurt L. Feigl,1180,16,0.000000,798.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Carl Temple Holden,1108,14,0.000000,800.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Nicola Zoccoli,1039,14,0.000000,780.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Marina Tarasova,1081,12,0.000000,679.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Thomas Dupré,893,10,0.000000,701.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Jianmin Hao,1189,18,0.000000,813.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Romero Cabral da Costa,1057,7,0.000000,904.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Marcin Olszewski,916,17,0.000000,785.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Danielle W Koontz,984,12,0.000000,741.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Fajar Handika,1029,18,0.000000,751.3
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Robert Richardson Sears,1034,19,0.000000,741.0
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Robert Mougin,1083,13,0.000000,675.4
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Edmond Crompton,1098,10,0.000000,645.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Michael C. De Siena,1111,14,0.000000,661.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Allan Hookings,966,13,0.000000,669.6
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Philip Wilkinson,1063,12,0.000000,623.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Carson Reynolds,1123,15,0.000000,716.1
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Sandip Mukherjee,1151,17,0.000000,1253.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Eumundi,1161,14,0.000000,801.7
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Marko Cvikl,1066,14,0.000000,1806.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Co-reading group ad hoc forum,1049,17,0.000000,665.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Athar Hussain Bukhari,1110,17,0.000000,985.5
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Automated capacity management using artificial intelligence techniques,1149,22,0.000000,880.2
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Tony Hodges,1068,16,0.000000,963.8
+llm_judge,adjudicate,openrouter/google/gemma-3-4b-it,Janet Auchincloss Rutherfurd,1163,17,0.000000,710.1

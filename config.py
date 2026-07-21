@@ -66,14 +66,22 @@ MODELS = {
     "frontier-sonnet":  "openrouter/anthropic/claude-sonnet-4",
     "frontier-gpt4o":   "openrouter/openai/gpt-4o",
     "frontier-gempro":  "openrouter/google/gemini-2.5-pro",
+    "frontier-gemflash": "openrouter/google/gemini-3-flash-preview",
+    # Frontier tier 
+    "frontier-gpt5":    "openrouter/openai/gpt-5",                  # OpenAI (US)
+    "frontier-sonnet45":"openrouter/anthropic/claude-sonnet-4.5",   # Anthropic (US)
+    "frontier-opus45":  "openrouter/anthropic/claude-opus-4.5",     # Anthropic (US), top tier
+    "frontier-mistral": "openrouter/mistralai/mistral-large-2512",  # Mistral (EU)
     # Reasoning
     "reason-r1":        "openrouter/deepseek/deepseek-r1",
+    "reason-o4mini":    "openrouter/openai/o4-mini",                # OpenAI reasoning (US)
+    "reason-o3":        "openrouter/openai/o3",                     # OpenAI reasoning (US)
 }
 
 # ----------------------------------------------------------------------------
 # 4. RESOLUTION STRATEGIES  (the "method" axis — see resolvers.py)
 # ----------------------------------------------------------------------------
-RESOLVERS = ["llm_judge"]
+RESOLVERS = ["llm_equivalence"]
 
 # Prior reliability of each source type, used by the "source_trust" resolver.
 # (news < book < wikipedia is a starting guess — an intern should study this.)
@@ -83,7 +91,12 @@ SOURCE_TRUST_PRIOR = {"wikipedia": 0.9, "book": 0.6, "news": 0.5, "unknown": 0.5
 # 5. LLM CALL HYPER-PARAMETERS
 # ----------------------------------------------------------------------------
 TEMPERATURE = 0.0
-MAX_TOKENS  = 400
+# Budget must cover a reasoning model's hidden chain-of-thought PLUS the final answer.
+# At 400, thinking models (Gemini 2.5 Pro, DeepSeek R1, o-series) burn the whole budget
+# reasoning and get truncated before emitting the JSON -> empty answer -> false abstain.
+# Non-reasoning models stop after ~20-50 tokens, so a higher cap changes neither their
+# output nor their cost; only reasoning models use the extra room.
+MAX_TOKENS  = 2000
 SEED        = 7
 ALLOW_ABSTAIN = False   # may the resolver answer "cannot determine"? (studies precision/coverage)
 

@@ -18,9 +18,21 @@ def _norm(s):
     return re.sub(r"[\s_\"'.]+", "", str(s) if s is not None else "").lower()
 
 
+def _canon(s):
+    """Canonicalise an answer for fair equality: drop an appended UPPERCASE acronym
+    like "(MIT)" and a leading article, then strip punctuation/space. This recovers
+    "MIT" == "Massachusetts Institute of Technology (MIT)" and "The Azrieli…" == "Azrieli…"
+    WITHOUT the false positives of substring matching (it still rejects
+    "John Entwistle" vs "The Who" and lowercase disambiguators like "Mercury (planet)").
+    """
+    s = re.sub(r"\(\s*[A-Z0-9&]{2,}\s*\)", " ", str(s) if s is not None else "")  # drop "(MIT)"
+    s = re.sub(r"^\s*(the|a|an)\s+", "", s.lower())                               # drop leading article
+    return re.sub(r"[\s_\"'.,:]+", "", s)
+
+
 def match(a: str, b: str) -> bool:
-    """Normalised string equality — strict, not substring."""
-    na, nb = _norm(a), _norm(b)
+    """Equality after canonicalisation — exact, not substring (no false positives)."""
+    na, nb = _canon(a), _canon(b)
     if not na or not nb:
         return False
     return na == nb

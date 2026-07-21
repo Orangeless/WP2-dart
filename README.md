@@ -44,3 +44,4 @@ real runs, load ConflictBank from HuggingFace (`Warrieryes/CB_claim_evidence`) �
 - **API-only, no GPU.** Dry-run is free.
 - **ConflictBank** (arXiv 2408.12076, NeurIPS 2024 D&B): 7.45M claim-evidence pairs, Wikidata top-100 relations, 3 conflict types, CC BY-SA 4.0. ⚠️ Verify HF license + full-set assembly before publishing (the HF card omits the license; visible config is a shard).
 - Validate on real conflicts too: **CONFLICTS** (2506.08500, Apache-2.0) and **WikiContradict** (2406.13805) — see EXPLORE.md Lane/guardrail 4.
+# wp2

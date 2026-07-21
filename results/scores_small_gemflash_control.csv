@@ -1,0 +1,101 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jumanah Essa-Hadad,control,1,0,0,0,,Bar-Ilan University,The Azrieli Faculty of Medicine,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Martin Lambie-Nairn,control,1,1,0,0,,Prince Philip Designers Prize,Prince Philip Designers Prize,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Lord William Hamilton,control,1,1,0,0,,"Frances Vane, Viscountess Vane","Frances Vane, Viscountess Vane",0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Eliezer Calo,control,1,1,0,0,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Denis Poix-Daude,control,1,1,0,0,,conseiller municipal de Jougne,conseiller municipal de Jougne,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Michael Mylonas,control,1,1,0,0,,King's Counsel,King's Counsel,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,François Carquet,control,1,1,0,0,,France,France,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Wenqing He,control,1,1,0,0,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Gomorrah,control,1,0,0,0,,Critics' Choice Movie Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Reconfiguration of hardware components of an integrated circuit,control,1,0,0,0,,US patent 11256840,filing,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Guy Avenia,control,1,1,0,0,,Anciennes professions intermédiaires,anciennes professions intermédiaires,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Wuilmen Bravo,control,1,1,0,0,,JHS Aves,JHS Aves,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Marie Joseph Jean Baptiste Paul Bouchet,control,1,1,0,0,,sub-prefect of Saint-Affrique,sub-prefect of Saint-Affrique,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Shinzu,control,1,1,0,0,,Hamamatsu,Hamamatsu,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Luwamo Garcia,control,1,1,0,0,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jared Carter,control,1,1,0,0,,Kentucky Wildcats men's basketball,Kentucky Wildcats men's basketball,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Carlos Moorhead,control,1,1,0,0,,United States Representative,United States representative,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,New York News,control,1,0,0,0,,New York News,Mary Tyler Moore,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Hedda Heuser-Schreiber,control,1,0,0,0,,Paracelsus Medal,Paracelsus Medal of the German Medical Association,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Ydnekatchew Tessema,control,1,1,0,0,,Saint George SC,Saint George SC,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Chunguan Zhang,control,1,1,0,0,,Xi'an Shiyou University,Xi'an Shiyou University,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Sander van de Hoef,control,1,1,0,0,,University Medical Center Utrecht,University Medical Center Utrecht,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Katie Hurley,control,1,1,0,0,,Member of the Alaska House of Representatives,member of the Alaska House of Representatives,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Viktor Kruglov,control,1,1,0,0,,FC Torpedo Moscow,FC Torpedo Moscow,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Dorian Owen,control,1,1,0,0,,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Wong Chin Hung,control,1,1,0,0,,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Amber Brian,control,1,1,0,0,,University of Iowa,University of Iowa,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Taylor Beck,control,1,1,0,0,,Nashville Predators,Nashville Predators,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Pierre Langlois,control,1,0,0,0,,politician,anciens cadres,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,John Fenn,control,1,1,0,0,,Ellenor Fenn,Ellenor Fenn,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Fábio A L de Souza,control,1,1,0,0,,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,George Samuel Parsons,control,1,1,0,0,,Royal Navy,Royal Navy,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,David Poeppel,control,1,1,0,0,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Mission Terra,control,1,1,0,0,,Germany,Germany,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Birgitta Larsson,control,1,1,0,0,,Sophiahemmet University College,Sophiahemmet University College,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Stanisław Sienkiewicz,control,1,1,0,0,,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Yordanis Enríquez Canto,control,1,1,0,0,,Universidad Católica Sedes Sapientiae,Universidad Católica Sedes Sapientiae,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Manuel Garber,control,1,0,0,0,,University of Massachusetts Medical School,Worcester Foundation for Biomedical Research,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Gladys Liu,control,1,0,0,0,,Australia,People's Republic of China,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Ewa Śnieżyńska-Stolot,control,1,1,0,0,,scientific professorship degree,scientific professorship degree,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Supergirl: Woman of Tomorrow,control,1,1,0,0,,English,English,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jack Collison,control,1,1,0,0,,West Ham United F.C.,West Ham United F.C.,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Tomasz Jodłowiec,control,1,1,0,0,,Podbeskidzie Bielsko-Biała,Podbeskidzie Bielsko-Biała,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Fritz Renner,control,1,1,0,0,,Cognition and Brain Sciences Unit,Cognition and Brain Sciences Unit,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Molly M Fuentes,control,1,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Erol Sayan,control,1,1,0,0,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Thomas McCollum,control,1,1,0,0,,Agricultural Research Service,Agricultural Research Service,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jeff Reinert,control,1,0,0,0,,NCAA Division I,NCAA Division I men's basketball,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Anatolii Hirshfeld,control,1,1,0,0,,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,MiSafra LeSayfa,control,1,1,0,0,,Hebrew,Hebrew,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Hunslet Penrhyn Port Class,control,1,1,0,0,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,The Adventures of Paddington Bear,control,1,1,0,0,,France,France,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Keith Mackie,control,1,0,0,0,,NCAA Division I,NCAA Division I men's basketball,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Charles William Eliot,control,1,1,0,0,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Binyam Sisay Mendisu,control,1,1,0,0,,Global Young Academy,Global Young Academy,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,José Pedro de Oliveira Galvão,control,1,0,0,0,,Senator of Brazil,member of the Senate of Brazil,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Sandi L. Navarro,control,1,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Mateo Cassierra,control,1,0,0,0,,FC Zenit Saint Petersburg,Deportivo Cali,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Johann Friedrich Agricola,control,1,0,0,0,,composer,lord of the manor,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Renée Reichová,control,1,0,0,0,,Prague,Prag V,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Tina Leung,control,1,1,0,0,,Luo Yu,Luo Yu,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Pamela Grassau,control,1,1,0,0,,Carleton University,Carleton University,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jacques Adolphe Gervais-Lafond,control,1,1,0,0,,Sub-prefect of Nantua,Sub-prefect of Nantua,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Mohammad Naghavi-behzad,control,1,1,0,0,,Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Lourdes Mohedano,control,1,1,0,0,,Medal of Andalusia,Medal of Andalusia,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Carmine Chiellino,control,1,1,0,0,,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Thirty Years' War,control,1,0,0,0,,Wikipedia,Wikipedia:List of articles all languages should have,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,The Ox,control,1,1,0,0,,The Who,The Who,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jimmy Baker,control,1,0,0,0,,Municipal commissioner for the minority in Botkyrka municipality,"municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Ronald A Farrar-Tobar,control,1,1,0,0,,TU Wien,TU Wien,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,James Pat Rokeby Black,control,1,1,0,0,,Susan Elizabeth Bone,Susan Elizabeth Bone,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Andreas Højsleth,control,1,0,0,0,,Astralis,Fnatic,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Moe Z. Win,control,1,1,0,0,,IEEE Fellow,IEEE Fellow,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Monisola Oginni,control,1,1,0,0,,Obafemi Awolowo University,Obafemi Awolowo University,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Elvira R. Akhmetzyanova,control,1,1,0,0,,Kazan Federal University,Kazan Federal University,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Kurt L. Feigl,control,1,1,0,0,,University of Wisconsin–Madison,University of Wisconsin–Madison,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Carl Temple Holden,control,1,1,0,0,,Caroline Anne Gould,Caroline Anne Gould,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Nicola Zoccoli,control,1,0,0,0,,Roman Catholic bishop,Catholic priest,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Marina Tarasova,control,1,0,0,0,,Russia,Soviet Union,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Thomas Dupré,control,1,1,0,0,,German Sport University Cologne,German Sport University Cologne,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Jianmin Hao,control,1,1,0,0,,Inner Mongolia University of Technology,Inner Mongolia University of Technology,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Romero Cabral da Costa,control,1,0,0,0,,"Minister of Agriculture, Livestock, and Supply",minister of Agriculture,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Marcin Olszewski,control,1,1,0,0,,Gdańsk University of Technology,Gdańsk University of Technology,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Danielle W Koontz,control,1,1,0,0,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Fajar Handika,control,1,1,0,0,,Pro Duta F.C.,Pro Duta F.C.,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Robert Richardson Sears,control,1,1,0,0,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Robert Mougin,control,1,1,0,0,,pensioner,pensioner,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Edmond Crompton,control,1,1,0,0,,Betsey Ann Kingston,Betsey Ann Kingston,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Michael C. De Siena,control,1,1,0,0,,University of Washington,University of Washington,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Allan Hookings,control,1,1,0,0,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Philip Wilkinson,control,1,0,0,0,,Police and Crime Commissioner for Wiltshire,Wiltshire Police and Crime Commissioner,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Carson Reynolds,control,1,1,0,0,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Sandip Mukherjee,control,1,1,0,0,,Visva-Bharati University,Visva-Bharati University,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Eumundi,control,1,1,0,0,,Ninderry,Ninderry,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Marko Cvikl,control,1,1,0,0,,Slovenia,Slovenia,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Co-reading group ad hoc forum,control,1,0,0,0,,US patent 11206149,filing,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Athar Hussain Bukhari,control,1,1,0,0,,Ambassador of Pakistan to Syria,ambassador of Pakistan to Syria,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Automated capacity management using artificial intelligence techniques,control,1,0,0,0,,US patent 11244466,filing,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Tony Hodges,control,1,0,0,0,,Boise State Broncos,Boise State Broncos men's basketball,0.0
+llm_judge,small-gemflash,openrouter/google/gemini-3-flash-preview,Janet Auchincloss Rutherfurd,control,1,1,0,0,,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0
