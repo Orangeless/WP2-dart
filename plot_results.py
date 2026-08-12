@@ -3,14 +3,20 @@
 Reads every results/scores_<tier>.csv run, computes per-model accuracy for each
 resolver, and writes one PNG per resolver to results/plots/.
 
+There are two conditions and only two: `control` (the no-conflict knowledge probe) and
+`mixed` (correct evidence + planted conflict). Rows tagged with any other conflict_type
+are left over from the retired per-conflict-type runs and are dropped on load.
+
 Usage:  .venv/bin/python plot_results.py
 """
 
-import math
+from datetime import datetime, timezone
 from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
+
+from metrics import wilson_ci
 
 RESULTS_DIR = Path(__file__).parent / "results"
 PLOTS_DIR = RESULTS_DIR / "plots"
@@ -40,6 +46,20 @@ MODELS = {
     "openrouter/deepseek/deepseek-r1": ("DeepSeek R1", "671B (37B active)", "reasoning"),
     "openrouter/openai/o4-mini": ("o4-mini", "params undisclosed", "reasoning"),
     "openrouter/openai/o3": ("o3", "params undisclosed", "reasoning"),
+    # 2026 generation — same-generation comparison (see config.MODELS)
+    "openrouter/qwen/qwen3.7-flash": ("Qwen3.7 Flash", "params undisclosed", "small"),
+    "openrouter/anthropic/claude-haiku-4.5": ("Claude Haiku 4.5", "params undisclosed", "small"),
+    "openrouter/google/gemini-3.6-flash": ("Gemini 3.6 Flash", "params undisclosed", "small"),
+    "openrouter/openai/gpt-5.4-mini": ("GPT-5.4 mini", "params undisclosed", "small"),
+    "openrouter/z-ai/glm-5.2": ("GLM-5.2", "open weights", "mid"),
+    "openrouter/qwen/qwen3.5-397b-a17b": ("Qwen3.5 397B", "397B (17B active)", "mid"),
+    "openrouter/deepseek/deepseek-v4-pro": ("DeepSeek V4 Pro", "open weights", "mid"),
+    "openrouter/qwen/qwen3.8-max": ("Qwen3.8 Max", "params undisclosed", "frontier"),
+    "openrouter/qwen/qwen3.7-plus": ("Qwen3.7 Plus", "params undisclosed", "mid"),
+    "openrouter/anthropic/claude-opus-5": ("Claude Opus 5", "params undisclosed", "frontier"),
+    "openrouter/anthropic/claude-sonnet-5": ("Claude Sonnet 5", "params undisclosed", "frontier"),
+    "openrouter/openai/gpt-5.6-terra": ("GPT-5.6 Terra", "params undisclosed", "frontier"),
+    "openrouter/google/gemini-3.1-pro-preview": ("Gemini 3.1 Pro", "params undisclosed", "frontier"),
 }
 MODEL_ORDER = list(MODELS)  # small -> mid -> frontier -> reasoning, as declared above
 
@@ -53,11 +73,10 @@ RESOLVER_TITLES = {
 # Reference categorical palette (light mode), slots 1-4 in fixed order.
 TIER_COLORS = {"small": "#2a78d6", "mid": "#008300", "frontier": "#e87ba4", "reasoning": "#8a63d2"}
 
-# Per-conflict-type labels + palette (for the conflict-type breakdown chart).
-CONFLICT_LABELS = {"fact_conflict": "Misinformation", "temporal_conflict": "Temporal",
-                   "semantic_conflict": "Semantic"}
-CONFLICT_COLORS = {"fact_conflict": "#2a78d6", "temporal_conflict": "#008300",
-                   "semantic_conflict": "#e87ba4"}
+# The only two conditions. Anything else in a scores file predates the single-condition
+# refactor (the per-conflict-type runs) and is dropped by load_scores().
+CONTROL, CONFLICT = "control", "mixed"
+CONDITIONS = (CONTROL, CONFLICT)
 
 # With ALLOW_ABSTAIN=False the resolver is forced to answer, so genuine abstains are ~0.
 # A high abstain rate therefore means failed API calls (rate-limits/provider errors) that
@@ -69,26 +88,71 @@ INK, INK_2, MUTED = "#0b0b0b", "#52514e", "#898781"
 GRID, BASELINE = "#e1e0d9", "#c3c2b7"
 
 
-def wilson_ci(k: int, n: int, z: float = 1.96) -> tuple[float, float]:
-    """95% Wilson score interval for a binomial proportion."""
-    if n == 0:
-        return 0.0, 0.0
-    p = k / n
-    denom = 1 + z**2 / n
-    centre = (p + z**2 / (2 * n)) / denom
-    half = z * math.sqrt(p * (1 - p) / n + z**2 / (4 * n**2)) / denom
-    return max(0.0, centre - half), min(1.0, centre + half)
-
-
 def load_scores() -> pd.DataFrame:
     files = sorted(RESULTS_DIR.glob("scores_*.csv"))
     if not files:
         raise SystemExit(f"no scores_*.csv files found in {RESULTS_DIR}")
-    df = pd.concat([pd.read_csv(f) for f in files], ignore_index=True)
+    parts = []
+    for f in files:
+        d = pd.read_csv(f)
+        d["_file"] = f.name
+        # Prefer the run timestamp stored in the file: mtime is destroyed by anything that
+        # rewrites the results (rescore.py rewrites all of them at once). Files written
+        # before run_utc existed fall back to mtime, with the filename as a deterministic
+        # tiebreak so the choice is at least reproducible.
+        stamped = d["run_utc"].dropna().iloc[:1] if "run_utc" in d.columns else []
+        d["_when"] = (str(stamped.iloc[0]) if len(stamped)
+                      else datetime.fromtimestamp(f.stat().st_mtime, timezone.utc)
+                                   .isoformat(timespec="seconds"))
+        parts.append(d)
+    df = pd.concat(parts, ignore_index=True)
+    df = df.sort_values(["_when", "_file"], kind="stable").reset_index(drop=True)
+
+    retired = sorted(set(df["conflict_type"]) - set(CONDITIONS))
+    if retired:
+        n = int((~df["conflict_type"].isin(CONDITIONS)).sum())
+        print(f"ignoring {n} row(s) from retired conditions {retired} — "
+              f"only {CONTROL!r} and {CONFLICT!r} are plotted\n")
+        df = df[df["conflict_type"].isin(CONDITIONS)]
+    if df.empty:
+        raise SystemExit(f"no {CONTROL}/{CONFLICT} rows in {RESULTS_DIR}")
+
+    # Re-running a cell writes a NEW file rather than overwriting the old one, and the old
+    # run may have used a different config (2 conflicting passages instead of 1, a leakier
+    # source tag, ...). Pooling both averages two different experiments together, and for
+    # control rows it inflates the denominator the knowledge filter divides by.
+    #
+    # Supersede whole cells, not individual rows: keep only the newest file that covers a
+    # (resolver, model, condition). Row-level dedupe would keep the new run's rows AND the
+    # instances only the old run happened to cover, splicing two configs into one number.
+    cell = ["resolver", "model", "conflict_type"]
+    newest = df.groupby(cell)["_file"].transform("last")   # files were read oldest-first
+    stale = df["_file"] != newest
+    if stale.any():
+        for keys, grp in df[stale].groupby(cell):
+            res, m, ct = keys
+            won = newest[grp.index].iloc[0]
+            print(f"superseded: {MODELS.get(m, (m,))[0]} / {ct} [{res}] — using {won} "
+                  f"({int((df['_file'] == won).sum())} rows), ignoring "
+                  f"{', '.join(sorted(set(grp['_file'])))}")
+        df = df[~stale]
+        print()
+    df = df.drop(columns=["_file", "_when"])
     unknown = set(df["model"]) - set(MODELS)
     if unknown:
         raise SystemExit(f"models missing from MODELS mapping: {unknown}")
     return df
+
+
+def known_ids(df: pd.DataFrame, model: str) -> set:
+    """The facts `model` got right in its own control run — the knowledge filter.
+
+    Read off the control rows rather than the `known` column so it works for files
+    written before that column existed. The column is what run_experiment records at
+    run time; this recomputes the same thing at plot time.
+    """
+    cm = df[(df["model"] == model) & (df["conflict_type"] == CONTROL)]
+    return set(cm[cm["correct"] == 1]["inst_id"])
 
 
 def plot_resolver(df: pd.DataFrame, resolver: str) -> Path:
@@ -155,64 +219,74 @@ def plot_resolver(df: pd.DataFrame, resolver: str) -> Path:
     return out
 
 
-def plot_by_conflict_type(df: pd.DataFrame, resolver: str) -> Path | None:
-    """Grouped bars: accuracy per model, split by conflict type (Misinformation /
-    Temporal / Semantic). Only rendered when the data carries ≥2 typed runs — i.e.
-    after running run_experiment.py with --conflict-type. Returns None otherwise."""
-    sub = df[(df["resolver"] == resolver) & (df["conflict_type"].isin(CONFLICT_LABELS))]
-    models = [m for m in MODEL_ORDER if m in set(sub["model"])]
-    types = [t for t in CONFLICT_LABELS if t in set(sub["conflict_type"])]
-    if len(types) < 2 or not models:
+def plot_knowledge_filter(df: pd.DataFrame, resolver: str) -> Path | None:
+    """Grouped bars: per model, conflict accuracy over ALL facts vs over only the facts
+    that model gets right conflict-free. This is the headline chart — it shows the
+    filtered number honestly, next to the raw one it is derived from.
+
+    Needs a control run per model; models without one are skipped (there is no way to
+    know what they know). Returns None when no model qualifies."""
+    sub = df[(df["resolver"] == resolver) & (df["conflict_type"] == CONFLICT)]
+    models = [m for m in MODEL_ORDER
+              if m in set(sub["model"]) and known_ids(df, m)]
+    if not models:
         return None
 
-    fig, ax = plt.subplots(figsize=(max(11.8, 1.6 * len(models) + 3), 5.8), dpi=200)
+    cells = []  # (model, raw, filt, n_raw, n_filt, knows_pct)
+    for m in models:
+        rows = sub[sub["model"] == m]
+        n = len(rows)
+        ab = int(rows["abstained"].sum())
+        if ab / n > MAX_ABSTAIN_OK:  # corrupted run (failed calls) — leave a gap, don't plot
+            print(f"  [skip] {MODELS[m][0]}: {ab}/{n} blank (failed calls) — "
+                  f"excluded from chart, re-run this cell")
+            continue
+        known = known_ids(df, m)
+        kk = rows[rows["inst_id"].isin(known)]
+        if kk.empty:
+            continue
+        n_ctrl = len(df[(df["model"] == m) & (df["conflict_type"] == CONTROL)])
+        cells.append((m, 100 * rows["correct"].mean(), 100 * kk["correct"].mean(),
+                      n, len(kk), 100 * len(known) / n_ctrl))
+    if not cells:
+        return None
+
+    fig, ax = plt.subplots(figsize=(max(9.5, 1.9 * len(cells) + 3), 5.8), dpi=200)
     fig.patch.set_facecolor(SURFACE)
     ax.set_facecolor(SURFACE)
 
-    xs = list(range(len(models)))
-    group_w, bar_w = 0.8, 0.8 / len(types)
-    n_lo, n_hi = 10**9, 0
-    for j, ct in enumerate(types):
-        # collect only model×type cells that were actually run — a missing run must
-        # leave a gap, never render as a fake 0% bar.
-        xpos, accs, lo_err, hi_err = [], [], [], []
-        for i, m in enumerate(models):
-            rows = sub[(sub["model"] == m) & (sub["conflict_type"] == ct)]
-            n, k = len(rows), int(rows["correct"].sum())
-            if n == 0:
-                continue
-            ab = int(rows["abstained"].sum())
-            if ab / n > MAX_ABSTAIN_OK:  # corrupted run (failed calls) — leave a gap, don't plot
-                print(f"  [skip] {MODELS[m][0]} / {CONFLICT_LABELS[ct]}: {ab}/{n} blank "
-                      f"(failed calls) — excluded from chart, re-run this cell")
-                continue
-            n_lo, n_hi = min(n_lo, n), max(n_hi, n)
-            lo, hi = wilson_ci(k, n)
-            acc = 100 * k / n
-            xpos.append(i - group_w / 2 + bar_w * (j + 0.5))
-            accs.append(acc)
-            lo_err.append(acc - 100 * lo)
-            hi_err.append(100 * hi - acc)
-        if not xpos:
-            continue
-        ax.bar(xpos, accs, width=bar_w * 0.9, color=CONFLICT_COLORS[ct], zorder=3,
-               label=CONFLICT_LABELS[ct])
-        for xi, acc in zip(xpos, accs):
-            ax.text(xi, acc + 1.5, f"{acc:.0f}", ha="center", va="bottom",
-                    fontsize=7.5, color=INK_2)
-        ax.errorbar(xpos, accs, yerr=[lo_err, hi_err],
-                    fmt="none", ecolor=MUTED, elinewidth=1, capsize=2, capthick=1, zorder=4)
+    xs = list(range(len(cells)))
+    bw = 0.38
+    raw_vals = [c[1] for c in cells]
+    filt_vals = [c[2] for c in cells]
+    ax.bar([x - bw / 2 for x in xs], raw_vals, bw, color="#c3c2b7", zorder=3,
+           label="All facts (raw)")
+    ax.bar([x + bw / 2 for x in xs], filt_vals, bw, color="#2a78d6", zorder=3,
+           label="Only facts the model knows")
+    # Wilson CI on the filtered bar only — it is the one carrying the claim, and it has
+    # the smaller n, so its uncertainty is what a reader needs to see.
+    lo_err, hi_err = [], []
+    for _, _, filt, _, n_f, _ in cells:
+        lo, hi = wilson_ci(round(filt * n_f / 100), n_f)
+        lo_err.append(filt - 100 * lo)
+        hi_err.append(100 * hi - filt)
+    ax.errorbar([x + bw / 2 for x in xs], filt_vals, yerr=[lo_err, hi_err],
+                fmt="none", ecolor=MUTED, elinewidth=1, capsize=3, capthick=1, zorder=4)
+    for x, v in zip(xs, raw_vals):
+        ax.text(x - bw / 2, v + 1.5, f"{v:.0f}", ha="center", va="bottom",
+                fontsize=9, color=MUTED)
+    for x, v, e in zip(xs, filt_vals, hi_err):
+        ax.text(x + bw / 2, v + e + 1.5, f"{v:.0f}", ha="center", va="bottom",
+                fontsize=9.5, color=INK_2, fontweight="bold")
 
-    n_txt = f"n = {n_lo}" if n_lo == n_hi else f"n = {n_lo}–{n_hi}"
-    ax.set_title(f"Accuracy by conflict type — {RESOLVER_TITLES.get(resolver, resolver)}",
+    ax.set_title(f"Knowledge filter — {RESOLVER_TITLES.get(resolver, resolver)}",
                  color=INK, fontsize=14, fontweight="bold", loc="left", pad=16)
-    ax.text(0, 1.015, f"% resolved to the gold answer, split by planted conflict type "
-                      f"({n_txt} per model×type, 95% Wilson CI)",
+    ax.text(0, 1.015, "conflict-resolution accuracy on ALL facts vs only the facts each "
+                      "model gets right with no conflict present (95% Wilson CI)",
             transform=ax.transAxes, color=INK_2, fontsize=9.5, va="bottom")
-
     ax.set_ylim(0, 100)
     ax.set_ylabel("Accuracy (%)", color=INK_2, fontsize=10)
-    ax.set_xticks(xs, [MODELS[m][0] for m in models])
+    ax.set_xticks(xs, [f"{MODELS[c[0]][0]}\nknows {c[5]:.0f}%  (n={c[4]})" for c in cells])
     ax.tick_params(colors=MUTED, labelsize=9.5)
     for tick in ax.get_xticklabels():
         tick.set_color(INK_2)
@@ -221,10 +295,11 @@ def plot_by_conflict_type(df: pd.DataFrame, resolver: str) -> Path | None:
     for side in ("top", "right", "left"):
         ax.spines[side].set_visible(False)
     ax.spines["bottom"].set_color(BASELINE)
-    ax.legend(loc="upper left", frameon=False, fontsize=9, labelcolor=INK_2, ncol=len(types))
+    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.13), frameon=False,
+              fontsize=9.5, labelcolor=INK_2, ncol=2)
 
     fig.tight_layout()
-    out = PLOTS_DIR / f"by_conflict_type_{resolver}.png"
+    out = PLOTS_DIR / f"knowledge_filter_{resolver}.png"
     fig.savefig(out, facecolor=SURFACE, bbox_inches="tight")
     plt.close(fig)
     return out
@@ -247,103 +322,36 @@ def _quality_report(df: pd.DataFrame) -> None:
     print()
 
 
-def plot_knowledge_filter(df: pd.DataFrame) -> list:
-    """One chart per model that has a control run: conflict-resolution accuracy on ALL facts
-    (raw) vs only the facts the model gets right conflict-free ('facts it knows'). This is
-    the headline slide — it shows the 90s number honestly, side-by-side with the raw one."""
-    lj = df[df["resolver"] == "llm_judge"]
-    ctrl = lj[lj["conflict_type"] == "control"]
-    outs = []
-    for model in sorted(set(ctrl["model"])):
-        cm = ctrl[ctrl["model"] == model]
-        known = set(cm[cm["correct"] == 1]["inst_id"])
-        knows_pct = 100 * len(known) / len(cm) if len(cm) else 0
-        sub = lj[(lj["model"] == model) & (lj["conflict_type"].isin(CONFLICT_LABELS))]
-        types, raw_vals, filt_vals = [], [], []
-        for t in CONFLICT_LABELS:
-            cc = sub[sub["conflict_type"] == t]
-            if cc.empty or cc["abstained"].sum() / len(cc) > MAX_ABSTAIN_OK:
-                continue  # missing or corrupted cell — skip
-            kk = cc[cc["inst_id"].isin(known)]
-            if not len(kk):
-                continue
-            types.append(t)
-            raw_vals.append(100 * cc["correct"].mean())
-            filt_vals.append(100 * kk["correct"].mean())
-        if not types:
-            continue
-        name = MODELS.get(model, (model,))[0]
-
-        fig, ax = plt.subplots(figsize=(9.5, 5.6), dpi=200)
-        fig.patch.set_facecolor(SURFACE)
-        ax.set_facecolor(SURFACE)
-        xs = list(range(len(types)))
-        bw = 0.38
-        ax.bar([x - bw / 2 for x in xs], raw_vals, bw, color="#c3c2b7", zorder=3,
-               label="All facts (raw)")
-        ax.bar([x + bw / 2 for x in xs], filt_vals, bw, color="#2a78d6", zorder=3,
-               label="Only facts the model knows")
-        for x, v in zip(xs, raw_vals):
-            ax.text(x - bw / 2, v + 1.5, f"{v:.0f}", ha="center", va="bottom",
-                    fontsize=9, color=MUTED)
-        for x, v in zip(xs, filt_vals):
-            ax.text(x + bw / 2, v + 1.5, f"{v:.0f}", ha="center", va="bottom",
-                    fontsize=9.5, color=INK_2, fontweight="bold")
-
-        ax.set_title(f"Knowledge filter — {name}", color=INK, fontsize=14,
-                     fontweight="bold", loc="left", pad=16)
-        ax.text(0, 1.015, f"conflict-resolution accuracy on ALL facts vs only the "
-                          f"{knows_pct:.0f}% this model gets right with no conflict present",
-                transform=ax.transAxes, color=INK_2, fontsize=9.5, va="bottom")
-        ax.set_ylim(0, 100)
-        ax.set_ylabel("Accuracy (%)", color=INK_2, fontsize=10)
-        ax.set_xticks(xs, [CONFLICT_LABELS[t] for t in types])
-        ax.tick_params(colors=MUTED, labelsize=9.5)
-        for tick in ax.get_xticklabels():
-            tick.set_color(INK_2)
-        ax.yaxis.grid(True, color=GRID, linewidth=0.8, zorder=0)
-        ax.set_axisbelow(True)
-        for side in ("top", "right", "left"):
-            ax.spines[side].set_visible(False)
-        ax.spines["bottom"].set_color(BASELINE)
-        ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.11), frameon=False,
-                  fontsize=9.5, labelcolor=INK_2, ncol=2)
-
-        fig.tight_layout()
-        safe = name.lower().replace(" ", "-").replace(".", "").replace("(", "").replace(")", "")
-        out = PLOTS_DIR / f"knowledge_filter_{safe}.png"
-        fig.savefig(out, facecolor=SURFACE, bbox_inches="tight")
-        plt.close(fig)
-        outs.append(out)
-    return outs
-
-
 def _knowledge_filtered_report(df: pd.DataFrame) -> None:
-    """The knowledge filter: grade each model's conflict runs only on the facts it gets
+    """The knowledge filter: grade each model's conflict run only on the facts it gets
     right conflict-free (its 'control' run). Failing a fact the model never knew isn't a
     resolution error, so this isolates conflict-resolution skill. No-op without control data."""
-    ctrl = df[df["conflict_type"] == "control"]
+    ctrl = df[df["conflict_type"] == CONTROL]
     if ctrl.empty:
-        print("knowledge filter: no control runs found — run `--control` per model to enable\n")
+        print("knowledge filter: no control runs found — every run_experiment.py "
+              "invocation writes one unless you pass --no-control\n")
         return
-    print("KNOWLEDGE-FILTERED accuracy (conflict runs graded only on facts the model knows):")
+    conflict = df[df["conflict_type"] == CONFLICT]
+    missing = sorted(set(conflict["model"]) - set(ctrl["model"]))
+    print("KNOWLEDGE-FILTERED accuracy (conflict run graded only on facts the model knows):")
     for model in sorted(set(ctrl["model"])):
-        cm = ctrl[ctrl["model"] == model]
-        known = set(cm[cm["correct"] == 1]["inst_id"])
+        known = known_ids(df, model)
+        n_ctrl = len(ctrl[ctrl["model"] == model])
         name = MODELS.get(model, (model,))[0]
-        ceil = 100 * len(known) / len(cm) if len(cm) else 0
-        sub = df[(df["model"] == model) & (df["conflict_type"].isin(CONFLICT_LABELS))]
+        ceil = 100 * len(known) / n_ctrl if n_ctrl else 0
         parts = []
-        for ct in CONFLICT_LABELS:
-            cc = sub[sub["conflict_type"] == ct]
-            if cc.empty:
-                continue
+        for res in sorted(set(conflict[conflict["model"] == model]["resolver"])):
+            cc = conflict[(conflict["model"] == model) & (conflict["resolver"] == res)]
             kk = cc[cc["inst_id"].isin(known)]
-            raw = 100 * cc["correct"].mean()
-            filt = 100 * kk["correct"].mean() if len(kk) else float("nan")
-            parts.append(f"{CONFLICT_LABELS[ct]} {raw:.0f}%→{filt:.0f}%")
-        tail = " | ".join(parts) if parts else "(no per-type conflict runs yet)"
-        print(f"   {name}: knows {ceil:.0f}%  |  {tail}")
+            filt = f"{100 * kk['correct'].mean():.0f}%" if len(kk) else "n/a"
+            parts.append(f"{res} {100 * cc['correct'].mean():.0f}%→{filt} (n={len(kk)})")
+        tail = " | ".join(parts) if parts else "(no conflict run yet)"
+        print(f"   {name}: knows {ceil:.0f}% of {n_ctrl}  |  {tail}")
+    if missing:
+        print("   no control run (cannot be knowledge-filtered — re-run without --no-control):")
+        for m in missing:
+            print(f"      {MODELS.get(m, (m,))[0]}")
+    print("   report the pair: filtered alone overstates. 'graded on the N% it knows'.")
     print()
 
 
@@ -354,8 +362,9 @@ def main() -> None:
     _knowledge_filtered_report(df)
 
     # 'control' is the no-conflict knowledge probe, not a conflict condition — keep it out
-    # of the summary and the charts (it belongs only in the knowledge-filter report above).
-    viz = df[df["conflict_type"] != "control"]
+    # of the summary and the accuracy chart (it belongs only in the knowledge-filter
+    # report and chart, which take the full df because they need the control rows).
+    viz = df[df["conflict_type"] == CONFLICT]
 
     summary = (
         viz.groupby(["resolver", "model"])
@@ -372,12 +381,9 @@ def main() -> None:
     for resolver in sorted(viz["resolver"].unique()):
         out = plot_resolver(viz, resolver)
         print(f"wrote {out.relative_to(RESULTS_DIR.parent)}")
-        ct_out = plot_by_conflict_type(viz, resolver)
-        if ct_out:
-            print(f"wrote {ct_out.relative_to(RESULTS_DIR.parent)}")
-
-    for kf in plot_knowledge_filter(df):  # uses full df (needs the control rows)
-        print(f"wrote {kf.relative_to(RESULTS_DIR.parent)}")
+        kf = plot_knowledge_filter(df, resolver)  # full df — it needs the control rows
+        if kf:
+            print(f"wrote {kf.relative_to(RESULTS_DIR.parent)}")
 
 
 if __name__ == "__main__":

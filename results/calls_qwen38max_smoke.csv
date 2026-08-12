@@ -1,0 +1,6 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms,provider
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Jumanah Essa-Hadad,1126,282,0.003944,7005.3,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Martin Lambie-Nairn,1224,395,0.004818,8605.3,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Lord William Hamilton,1251,993,0.008460,19759.0,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Eliezer Calo,1303,531,0.005792,11673.5,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Denis Poix-Daude,1176,566,0.005748,11372.3,Alibaba

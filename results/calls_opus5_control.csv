@@ -1,0 +1,110 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms,provider
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jumanah Essa-Hadad,1153,23,0.006340,2929.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Martin Lambie-Nairn,1075,150,0.009125,4287.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Lord William Hamilton,1090,244,0.011550,5110.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Eliezer Calo,1097,201,0.010510,4728.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Denis Poix-Daude,904,21,0.005045,2768.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Michael Mylonas,1105,86,0.007675,4225.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,François Carquet,972,10,0.005110,2632.0,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Wenqing He,789,440,0.014945,7289.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Gomorrah,1085,149,0.009150,4413.0,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Wuilmen Bravo,998,15,0.005365,2636.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Marie Joseph Jean Baptiste Paul Bouchet,1082,219,0.010885,5029.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Shinzu,1085,162,0.009475,4908.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Luwamo Garcia,968,179,0.009315,4500.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jared Carter,1000,169,0.009225,4808.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Carlos Moorhead,1072,13,0.005685,2992.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,New York News,1070,406,0.015500,7377.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Hedda Heuser-Schreiber,1097,80,0.007485,4535.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Ydnekatchew Tessema,1025,85,0.007250,3386.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Chunguan Zhang,1144,20,0.006220,2752.0,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Sander van de Hoef,949,1325,0.037870,19507.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Katie Hurley,1079,127,0.008570,4043.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Viktor Kruglov,1083,398,0.015365,7833.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Dorian Owen,974,844,0.025970,12397.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Wong Chin Hung,1051,518,0.018205,8590.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Amber Brian,905,28,0.005225,4028.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Taylor Beck,906,16,0.004930,3043.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,John Fenn,1014,177,0.009495,5638.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Fábio A L de Souza,1075,21,0.005900,2862.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,George Samuel Parsons,1005,15,0.005400,3000.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,David Poeppel,1106,134,0.008880,4374.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Mission Terra,1076,533,0.018705,9823.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Birgitta Larsson,1024,19,0.005595,2863.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Stanisław Sienkiewicz,929,160,0.008645,4532.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Yordanis Enríquez Canto,1121,26,0.006255,3043.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Manuel Garber,1051,342,0.013805,7017.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Gladys Liu,1073,57,0.006790,3425.7,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Ewa Śnieżyńska-Stolot,1072,11,0.005635,2814.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Supergirl: Woman of Tomorrow,1067,10,0.005585,2844.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jack Collison,1006,447,0.016205,8942.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Tomasz Jodłowiec,1027,261,0.011660,5676.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Fritz Renner,1133,390,0.015415,6411.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Molly M Fuentes,1010,14,0.005400,3151.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Erol Sayan,1086,193,0.010255,4574.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Thomas McCollum,1019,18,0.005545,3476.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jeff Reinert,1063,284,0.012415,6368.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Anatolii Hirshfeld,1094,21,0.005995,2951.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,MiSafra LeSayfa,1118,14,0.005940,3204.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Hunslet Penrhyn Port Class,1091,991,0.030230,16091.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,The Adventures of Paddington Bear,1027,167,0.009310,4782.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Keith Mackie,1042,62,0.006760,3625.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Charles William Eliot,970,356,0.013750,8243.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Binyam Sisay Mendisu,1150,16,0.006150,2865.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,José Pedro de Oliveira Galvão,1096,340,0.013980,7190.0,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Sandi L. Navarro,946,130,0.007980,4083.7,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Mateo Cassierra,1012,207,0.010235,5111.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Johann Friedrich Agricola,979,161,0.008920,4797.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Renée Reichová,1065,168,0.009525,6662.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Tina Leung,1073,233,0.011190,5432.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Pamela Grassau,1095,131,0.008750,4222.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jacques Adolphe Gervais-Lafond,1073,128,0.008565,4381.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Mohammad Naghavi-behzad,1094,23,0.006045,2796.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Lourdes Mohedano,1105,394,0.015375,9395.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Carmine Chiellino,1080,65,0.007025,3323.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,The Ox,1074,579,0.019845,9987.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jimmy Baker,1099,676,0.022395,11510.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Ronald A Farrar-Tobar,900,547,0.018175,11112.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,James Pat Rokeby Black,1050,21,0.005775,2683.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Andreas Højsleth,988,201,0.009965,5306.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Moe Z. Win,1165,612,0.021125,10193.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Monisola Oginni,942,20,0.005210,3017.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Elvira R. Akhmetzyanova,932,17,0.005085,2681.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Kurt L. Feigl,1083,89,0.007640,3967.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Carl Temple Holden,1052,45,0.006385,2994.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Nicola Zoccoli,832,15,0.004535,2876.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Marina Tarasova,1045,12,0.005525,3413.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Thomas Dupré,1030,18,0.005600,3316.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Jianmin Hao,1160,230,0.011550,5059.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Romero Cabral da Costa,1155,604,0.020875,9190.7,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Marcin Olszewski,1044,395,0.015095,6753.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Danielle W Koontz,987,23,0.005510,3059.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Fajar Handika,1008,17,0.005465,3887.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Robert Richardson Sears,993,32,0.005765,3283.0,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Robert Mougin,1048,451,0.016515,8772.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Edmond Crompton,1038,20,0.005690,3370.3,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Michael C. De Siena,1115,197,0.010500,5391.2,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Allan Hookings,955,461,0.016300,8704.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Philip Wilkinson,1040,27,0.005875,3151.4,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Carson Reynolds,1129,156,0.009545,4585.9,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Sandip Mukherjee,1130,18,0.006100,3088.7,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Eumundi,1100,237,0.011425,5830.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Marko Cvikl,975,14,0.005225,2892.7,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Athar Hussain Bukhari,1173,488,0.018065,8153.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Tony Hodges,906,22,0.005080,2893.8,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Janet Auchincloss Rutherfurd,1083,144,0.009015,4192.5,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Linda Bakker,981,520,0.017905,9250.0,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Stanley Bruce Kennard,912,25,0.005185,3028.6,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Pekka Nousiainen,943,136,0.008115,5066.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Howard McCormick,1074,36,0.006270,4971.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Kevin Conboy,1037,348,0.013885,6812.1,Amazon Bedrock
+llm_judge,adjudicate,openrouter/anthropic/claude-opus-5,Denmark v Spain,1119,13,0.005920,3604.7,Amazon Bedrock
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,120,1,0.000031,956.6,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,118,1,0.000031,867.0,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,112,1,0.000029,1585.9,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,112,1,0.000029,768.4,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,129,1,0.000034,910.8,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,115,1,0.000030,993.7,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,122,1,0.000032,905.7,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,120,1,0.000031,1297.0,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,119,1,0.000031,901.4,Google AI Studio

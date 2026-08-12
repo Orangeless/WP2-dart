@@ -19,23 +19,47 @@ import json, random, re
 from typing import List, Dict
 import config
 
-# Source types are assigned by passage content role, NOT by which field they come
-# from.  When metadata is ON, every passage draws from a pool so the correct
-# evidence is not identifiable by source type alone.  We store a per-field
-# annotation but the resolver must not be able to back out "which field" from it.
-_SOURCE_OF = {
-    "correct_evidence":             "wikipedia",
-    "fact_conflict_evidence":       "wikipedia",   # could also be correct — do not leak
-    "temporal_conflict_evidence":   "news",
-    "semantic_conflict_evidence":   "news",
+# ConflictBank ships the real provenance of every passage in its own *_category column
+# ("book" / "new" / "wikipedia"), and it genuinely varies per record.  Use it.
+#
+# This replaces a hardcoded map that tagged correct+fact "wikipedia" and
+# temporal+semantic "news" for EVERY record — which meant a resolver could identify the
+# planted passage from its source tag alone, with no reasoning at all.  That leak was
+# ours, not the dataset's.
+_CATEGORY_OF = {
+    "correct_evidence":             "default_evidence_category",
+    "fact_conflict_evidence":       "misinformation_conflict_evidence_category",
+    "temporal_conflict_evidence":   "temporal_conflict_evidence_category",
+    "semantic_conflict_evidence":   "semantic_conflict_evidence_category",
 }
 
 
+# Gold values that no model can be expected to produce, because they are artifacts of the
+# Wikidata relation rather than an answer to the question. Measured on a 300-instance
+# Opus 4.5 control run (correct evidence, no conflict): the model scored 0/16 on these,
+# so they are pure denominator — they depress the knowledge ceiling without measuring
+# knowledge, and the conflict run can never reach them because the knowledge filter
+# excludes them anyway.
+#   "filing"                    — 12/300, the instance-of value for patent records
+#   "anciens cadres", ...       — French INSEE occupation categories, asked in English
+#   "Wikipedia:List of ..."     — a Wikipedia project page, not an entity
+# Set DROP_UNANSWERABLE = False to keep them and measure the size of the effect.
+_UNANSWERABLE_GOLD = {"filing"}
+_UNANSWERABLE_PREFIX = ("anciens ", "anciennes ", "wikipedia:")
+
+
+def _answerable(inst: Dict) -> bool:
+    g = str(gold_object(inst) or "").strip().lower()
+    return bool(g) and g not in _UNANSWERABLE_GOLD and not g.startswith(_UNANSWERABLE_PREFIX)
+
+
 def load_instances(n: int = None) -> List[Dict]:
+    """The first `n` ANSWERABLE instances. Dropping the unanswerable ones costs extra
+    records off the stream, not a smaller sample — `n` is honoured either way."""
     n = n or config.N_INSTANCES
     if config.USE_LOCAL_SAMPLE:
         rows = [json.loads(l) for l in open(config.SAMPLE_PATH) if l.strip()]
-        return rows[:n]
+        return [r for r in rows if not config.DROP_UNANSWERABLE or _answerable(r)][:n]
     # streaming avoids downloading all 513k CB_qa records
     from datasets import load_dataset
     ds = load_dataset(config.HF_DATASET, split="train", streaming=True)
@@ -44,7 +68,19 @@ def load_instances(n: int = None) -> List[Dict]:
               "misinformation_conflict_evidence_evidence": "fact_conflict_evidence",
               "temporal_conflict_time_span": "conflict_time_span",
               "replace_option": "replaced_option"}
-    return [{rename.get(k, k): v for k, v in r.items()} for _, r in zip(range(n), ds)]
+    out, dropped = [], 0
+    for r in ds:
+        inst = {rename.get(k, k): v for k, v in r.items()}
+        if config.DROP_UNANSWERABLE and not _answerable(inst):
+            dropped += 1
+            continue
+        out.append(inst)
+        if len(out) >= n:
+            break
+    if dropped:
+        print(f"[data] dropped {dropped} instance(s) with unanswerable gold "
+              f"(see dataio._UNANSWERABLE_GOLD); kept {len(out)}")
+    return out
 
 
 _PID = re.compile(r"^P\d+$")
@@ -109,17 +145,15 @@ def _passage(field: str, inst: Dict) -> Dict:
             p["subject_desc"] = sd
             p["subject_name"] = str(inst.get("subject") or "").strip()
     if config.TAG_SOURCE_METADATA:
-        p["source"] = _SOURCE_OF.get(field, "unknown")
-        # Timestamps: use conflict_time_span for temporal-conflict passages;
-        # everything else gets a neutral placeholder that does not sort above
-        # any plausible year.  "current" is not a year — it sorts AFTER numbers
-        # in string comparison, which was backwards.  Use a fixed sentinel.
+        cat = str(inst.get(_CATEGORY_OF.get(field, ""), "") or "").strip().lower()
+        p["source"] = {"new": "news"}.get(cat, cat) or "unknown"
+        # Only temporal-conflict passages carry a date. It stays on the bundle for the
+        # `recency` baseline but is NOT rendered by default (config.SHOW_TIMESTAMPS) —
+        # a timestamp that only ever appears on the planted passage identifies it by
+        # presence alone.
         span = inst.get("conflict_time_span")
         if field == "temporal_conflict_evidence" and span:
             p["timestamp"] = span[0] if isinstance(span, list) else span
-        else:
-            # neutral timestamp: not "current" (which sorts after digits)
-            p["timestamp"] = None
     return p
 
 
@@ -129,7 +163,10 @@ def render_bundle(bundle: List[Dict]) -> str:
     for i, p in enumerate(bundle, 1):
         meta_bits = []
         if config.TAG_SOURCE_METADATA:
-            meta_bits.append(f"source: {p.get('source','?')}, time: {p.get('timestamp','?')}")
+            bits = f"source: {p.get('source', 'unknown')}"
+            if config.SHOW_TIMESTAMPS and p.get("timestamp"):
+                bits += f", time: {p['timestamp']}"
+            meta_bits.append(bits)
         if config.ADD_SUBJECT_CONTEXT and p.get("subject_desc"):
             name = p.get("subject_name") or "subject"
             meta_bits.append(f"context — {name}: {p['subject_desc']}")

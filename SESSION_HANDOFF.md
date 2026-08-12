@@ -1,5 +1,30 @@
 # WP2 DART — Conflict Resolution Study: Session Handoff & Codebase Guide
 
+> ## ⛔ SUPERSEDED as of 2026-08-12 — do not put §4b/§4c numbers on a slide
+>
+> **The 93/96/95 knowledge-filtered figures in §4c were inflated by two prompt leaks that
+> have since been fixed.** They are not reproducible and must not be reported.
+>
+> 1. **Source-tag leak.** `dataio._SOURCE_OF` hardcoded correct+fact evidence → `wikipedia`
+>    and temporal+semantic → `news` for *every* record. On a temporal or semantic run the
+>    planted passage was therefore the one tagged `news`, 100% of the time — the model could
+>    read the label instead of resolving the conflict. This is caveat #8 of §5, now confirmed
+>    as the cause. Fixed: the tag now comes from ConflictBank's real per-record
+>    `*_category` column, which genuinely varies.
+> 2. **Timestamp leak.** Only temporal-conflict passages carry a date, and the bundle
+>    rendered `time:` for every passage — so the planted one was identifiable by having a
+>    date at all, and 79/100 of those dates are in the *future*. Fixed:
+>    `config.SHOW_TIMESTAMPS = False` (the timestamp stays on the bundle for the `recency`
+>    baseline, but is not rendered).
+>
+> Same model, same instances, leaks removed: Gemini 3 Flash scores **74% control /
+> 73% knowledge-filtered**, not 96%. The knowledge filter itself was never the problem.
+>
+> **Also superseded: the per-conflict-type experiment.** There are now exactly two
+> conditions — `control` and `mixed` — and one `run_experiment.py` invocation runs both.
+> §4b and the `--conflict-type` / `--sweep` flags no longer exist. See §2 below for the
+> current CLI.
+
 > **Purpose of this document.** A complete, self-contained brief for (a) a teammate or
 > another Claude instance building a PowerPoint from these results, and (b) anyone picking
 > up the code. It explains the research task, the codebase file-by-file, everything changed
@@ -107,12 +132,18 @@ Registry: `majority_vote`, `recency`, `source_trust`, `llm_judge`, `llm_judge_pr
 - `score_instance()` → `correct / misled / abstained`. `aggregate()` → per-conflict-type.
 
 ### `run_experiment.py` — the driver
-- `run(models, resolvers, out_tag, conflict_type, control)`.
-- `--conflict-type {fact,temporal,semantic}` — bundle = correct + **one** conflict of that
-  type; rows tagged with it (default is a `mixed` bundle of 2 types, tagged `mixed`).
-- `--control` — correct-evidence-only "knowledge probe" (`N_CONFLICT_SOURCES=0`), tagged
-  `control`. Measures what the model *knows* conflict-free.
-- Writes `results/scores_<tag>.csv` and `results/calls_<tag>.csv`.
+Two conditions, one command: the `control` probe (correct evidence only) then the `mixed`
+conflict run (correct + `N_CONFLICT_SOURCES` planted conflicts drawn from `CONFLICT_TYPES`).
+```bash
+python run_experiment.py --models small-gemflash --out gemflash   # both conditions
+python run_experiment.py --models small-gemflash --control-only   # probe only
+python run_experiment.py --models small-gemflash --no-control     # conflict run only
+```
+Writes `results/scores_<tag>_control.csv`, `results/scores_<tag>.csv`, and matching
+`calls_*.csv`. The conflict run covers **every** instance and stamps each row with a
+`known` flag (1 = the model got that fact right in its own control run), so one file gives
+both the raw and the knowledge-filtered accuracy. Filtering before the calls — which is
+what this used to do — makes the "raw" column a copy of the filtered one.
 
 ### `plot_results.py` — visualization + reporting
 Reads every `results/scores_*.csv`. Prints, then plots:

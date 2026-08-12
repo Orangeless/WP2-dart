@@ -1,0 +1,11 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,judged,chosen_source,pred_object,gold_object,conflict_object,usd
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Jumanah Essa-Hadad,temporal_conflict,2,1,0,0,,,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,National Library of Russia,0.003958
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Martin Lambie-Nairn,temporal_conflict,2,1,0,0,,,Prince Philip Designers Prize,Prince Philip Designers Prize,GLAAD Stephen F. Kolzak Award,0.004596
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Lord William Hamilton,temporal_conflict,2,0,0,0,,,Emma Hamilton,"Frances Vane, Viscountess Vane",Mary Hamilton Victoria Ignatia Bowlby,0.007686
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Eliezer Calo,temporal_conflict,2,1,0,0,,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,Yong Loo Lin School of Medicine,0.005304
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Denis Poix-Daude,temporal_conflict,2,1,0,0,,,conseiller municipal de Jougne,conseiller municipal de Jougne,dean,0.00496
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Michael Mylonas,temporal_conflict,2,1,0,0,1,,Queen's Counsel,King's Counsel,member of the European Parliament,0.00562
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,François Carquet,temporal_conflict,2,1,0,0,,,France,France,Ayutthaya Kingdom,0.002848
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Wenqing He,temporal_conflict,2,1,0,0,,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",Memorial Sloan Kettering Cancer Center,0.00351
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Gomorrah,temporal_conflict,2,1,0,0,1,,Critics' Choice Movie Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,Locus Award for Best Fantasy Novel,0.005232
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Reconfiguration of hardware components of an integrated circuit,temporal_conflict,2,0,0,0,,,US patent 11256840,filing,construction,0.005384

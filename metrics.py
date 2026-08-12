@@ -1,21 +1,19 @@
 """
 metrics.py — the quality axis for conflict resolution. Deterministic string matching
-against the gold object. No LLM judge needed for scoring.
+against the gold object, plus the error bar every reported number carries.
 
 Per instance we record whether the resolver:
   - answered correctly (adjudicated object == gold object),
-  - was misled (returned the planted-conflict object),
-  - abstained (returned None), and
-  - cited the right source (provenance correctness, when available).
+  - was misled (returned the planted-conflict object), or
+  - abstained (returned None).
 
-Aggregate broken down by conflict type is the headline result.
+Answers that name the same entity in different words are recovered separately, by the
+equivalence judge in rescore.py — deliberately not here, so this module stays offline
+and deterministic.
 """
+import math
 import re
-from typing import Dict, List
-
-
-def _norm(s):
-    return re.sub(r"[\s_\"'.]+", "", str(s) if s is not None else "").lower()
+from typing import Dict
 
 
 def _canon(s):
@@ -40,22 +38,24 @@ def match(a: str, b: str) -> bool:
 
 def score_instance(pred: Dict, gold_object: str, conflict_object: str = None) -> Dict:
     obj = pred.get("object")
-    abstained = obj is None or _norm(obj) == "" or _norm(obj) == "null"
+    # A blank or literal "null" reply is an abstain, not a wrong answer — with
+    # config.ALLOW_ABSTAIN off it means the call failed and the instance was skipped.
+    flat = re.sub(r"[\s_\"'.]+", "", str(obj) if obj is not None else "").lower()
+    abstained = flat in ("", "null")
     correct = (not abstained) and match(obj, gold_object)
     misled = (not abstained) and conflict_object is not None and match(obj, conflict_object)
     return {"correct": int(correct), "misled": int(misled),
             "abstained": int(abstained), "pred_object": obj, "gold_object": gold_object}
 
 
-def aggregate(rows: List[Dict]) -> Dict:
-    """Overall + per-conflict-type accuracy / misled-rate / abstain-rate."""
-    def frac(sel, key):
-        s = [r for r in rows if sel(r)]
-        return round(sum(r[key] for r in s) / len(s), 3) if s else None
-    out = {"n": len(rows),
-           "accuracy": frac(lambda r: True, "correct"),
-           "misled_rate": frac(lambda r: True, "misled"),
-           "abstain_rate": frac(lambda r: True, "abstained")}
-    for ct in sorted({r.get("conflict_type") for r in rows if r.get("conflict_type")}):
-        out[f"acc[{ct}]"] = frac(lambda r, ct=ct: r.get("conflict_type") == ct, "correct")
-    return out
+def wilson_ci(k: int, n: int, z: float = 1.96) -> tuple:
+    """95% Wilson score interval for a proportion — the error bar on every accuracy we
+    report. Wilson rather than normal-approximation because n is small (~70-250) and the
+    proportions sit near 1, where the naive interval runs past 100%."""
+    if not n:
+        return 0.0, 0.0
+    p = k / n
+    denom = 1 + z**2 / n
+    centre = (p + z**2 / (2 * n)) / denom
+    half = z * math.sqrt(p * (1 - p) / n + z**2 / (4 * n**2)) / denom
+    return max(0.0, centre - half), min(1.0, centre + half)

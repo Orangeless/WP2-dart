@@ -16,8 +16,35 @@ from llm import chat, CallLog
 
 
 # ---- helpers ----------------------------------------------------------------
+# Answer-granularity guidance. Gold comes from Wikidata, which names the most specific
+# entity ("The Azrieli Faculty of Medicine", not "Bar-Ilan University"); models tend to
+# answer with the parent, which then scores as wrong for a reason that has nothing to do
+# with conflict resolution. This says nothing about WHICH source is right, so it is a
+# formatting instruction, not a hint — and every resolver gets the same one.
+_SPECIFICITY = ("Name the most specific entity the evidence gives — the faculty rather "
+                "than its parent university, the exact award rather than the body that "
+                "awards it.")
+
+
 def _norm(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "")).strip().lower()
+
+
+def _parse_json(out: str) -> Dict:
+    """The JSON object in a model reply, or {} if there isn't a usable one.
+
+    Models wrap the object in prose or fences, and thinking models sometimes truncate
+    mid-object. Every failure mode lands on {}, which `_forced_object` then recovers
+    from the raw text — so a formatting slip never becomes a false abstain.
+    """
+    m = re.search(r"\{.*\}", out or "", re.S)
+    if not m:
+        return {}
+    try:
+        d = json.loads(m.group(0))
+    except json.JSONDecodeError:
+        return {}
+    return d if isinstance(d, dict) else {}
 
 
 def _forced_object(out: str, parsed: Dict):
@@ -45,7 +72,7 @@ def _extract_object_from_text(subject: str, query: str, text: str,
     prompt = (f"Subject: {subject}\n"
               f"Question: {query}\n"
               f"From the passage below, extract the answer to the question.\n"
-              f"Answer with only the value, no extra words or punctuation.\n\n"
+              f"Answer with only the value, no extra words or punctuation. {_SPECIFICITY}\n\n"
               f"Passage: {text}")
     out = chat(prompt, model, resolver=resolver, stage="extract", inst_id=inst_id,
                temperature=0.0, max_tokens=config.MAX_TOKENS, seed=config.SEED, log=log)
@@ -71,11 +98,11 @@ def recency(subject, query, bundle, model, inst_id, log) -> Dict:
     if not bundle:
         return {"object": None, "chosen_source": None, "rationale": "no evidence"}
     def _ts_key(p) -> int:
-        ts = p.get("timestamp")
-        try:
-            return int(ts)
-        except (TypeError, ValueError):
-            return 0  # no timestamp sorts lowest — not most recent
+        # Spans are not always bare years — "April, 2031", "8 August, 2026", "2024".
+        # int() threw on ~half of them and silently scored them 0, so this baseline was
+        # picking arbitrarily. Pull the first 4-digit year out of whatever we got.
+        yrs = re.findall(r"(?:19|20)\d{2}", str(p.get("timestamp") or ""))
+        return int(yrs[0]) if yrs else 0  # no timestamp sorts lowest — not most recent
     idx = max(range(len(bundle)), key=lambda i: _ts_key(bundle[i]))
     obj = _extract_object_from_text(subject, query, bundle[idx]["text"], model,
                                     inst_id, "recency", log)
@@ -113,23 +140,13 @@ def _llm_adjudicate(subject, query, bundle, model, inst_id, log, ask_provenance,
         f"may be outdated (true only at an earlier time) or describe a different entity that "
         f"shares the name — disregard those and give the value that is correct NOW.\n\n"
         f"Answer with ONLY the canonical name of the answer entity — no sentence, no "
-        f"explanation, no extra qualifiers.\n\n{rendered}\n\n"
+        f"explanation, no extra qualifiers. {_SPECIFICITY}\n\n{rendered}\n\n"
         f'Respond as JSON: {{"object": "<value>"{prov}}}')
     out = chat(prompt, model, resolver="llm_judge_provenance" if ask_provenance else "llm_judge",
                stage="adjudicate", inst_id=inst_id,
                temperature=config.TEMPERATURE if temperature is None else temperature,
                max_tokens=config.MAX_TOKENS, seed=config.SEED if seed is None else seed, log=log)
-    try:
-        m = re.search(r"\{.*\}", out, re.S)
-        if m is None:
-            d = {}
-        else:
-            try:
-                d = json.loads(m.group(0))
-            except json.JSONDecodeError:
-                d = {}
-    except Exception:
-        d = {}
+    d = _parse_json(out)
     return {"object": _forced_object(out, d),
             "chosen_source": d.get("chosen_source"),
             "rationale": d.get("rationale", "")}
@@ -225,17 +242,7 @@ def multi_agent_debate(subject, query, bundle, model, inst_id, log) -> Dict:
     out = chat(prompt, model, resolver="multi_agent_debate", stage="judge", inst_id=inst_id,
                temperature=config.TEMPERATURE, max_tokens=config.MAX_TOKENS,
                seed=config.SEED, log=log)
-    try:
-        m = re.search(r"\{.*\}", out, re.S)
-        if m is None:
-            d = {}
-        else:
-            try:
-                d = json.loads(m.group(0))
-            except json.JSONDecodeError:
-                d = {}
-    except Exception:
-        d = {}
+    d = _parse_json(out)
     return {"object": _forced_object(out, d), "chosen_source": d.get("chosen_source"),
             "rationale": d.get("rationale", "")}
 

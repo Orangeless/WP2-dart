@@ -1,301 +1,301 @@
-resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jumanah Essa-Hadad,mixed,3,0,1,0,,National Library of Russia,The Azrieli Faculty of Medicine,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Martin Lambie-Nairn,mixed,3,0,1,0,,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Lord William Hamilton,mixed,3,0,1,0,,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Eliezer Calo,mixed,3,0,0,0,,Yong Loo Lin School of Medicine at the National University of Singapore,Massachusetts Institute of Technology,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Denis Poix-Daude,mixed,3,0,0,0,,Dean of the École des Sciences Politiques de Lyon (Lyon School of Political Sciences),conseiller municipal de Jougne,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Michael Mylonas,mixed,3,0,0,0,,Queen's Counsel (QC),King's Counsel,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,François Carquet,mixed,3,1,0,0,,France,France,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Wenqing He,mixed,3,1,0,0,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Gomorrah,mixed,3,0,0,0,,Gomorrah was nominated for the Broadcast Film Critics Association Award for Best Foreign Language Film.,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Reconfiguration of hardware components of an integrated circuit,mixed,3,0,0,0,,"The construction of the world's largest skyscraper, the New Horizon Tower, in Los Angeles, which was made possible in part by the innovative application of reconfigured hardware components in integrated circuits.",filing,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Guy Avenia,mixed,3,1,0,0,,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Wuilmen Bravo,mixed,3,1,0,0,,JHS Aves,JHS Aves,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marie Joseph Jean Baptiste Paul Bouchet,mixed,3,0,1,0,,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Shinzu,mixed,3,0,0,0,,The Roman Catholic Diocese of Tui-Vigo,Hamamatsu,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Luwamo Garcia,mixed,3,1,0,0,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jared Carter,mixed,3,0,1,0,,Pittsburgh Riverhounds SC,Kentucky Wildcats men's basketball,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carlos Moorhead,mixed,3,1,0,0,,United States representative,United States representative,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,New York News,mixed,3,0,0,0,,New York News,Mary Tyler Moore,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Hedda Heuser-Schreiber,mixed,3,1,0,0,,Paracelsus Medal of the German Medical Association,Paracelsus Medal of the German Medical Association,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Ydnekatchew Tessema,mixed,3,1,0,0,,Saint George SC,Saint George SC,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Chunguan Zhang,mixed,3,1,0,0,,Xi'an Shiyou University,Xi'an Shiyou University,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Sander van de Hoef,mixed,3,0,1,0,,Xi'an Jiaotong University,University Medical Center Utrecht,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Katie Hurley,mixed,3,0,1,0,,Assistant Resident,member of the Alaska House of Representatives,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Viktor Kruglov,mixed,3,1,0,0,,FC Torpedo Moscow,FC Torpedo Moscow,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Dorian Owen,mixed,3,0,0,0,,Chapman Tripp Award for Male Actor in a Supporting Role,Life Member of the New Zealand Association of Economists,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Wong Chin Hung,mixed,3,0,1,0,,FK Sloboda Užice,Hong Kong Pegasus FC,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Amber Brian,mixed,3,0,1,0,,William Beaumont Army Medical Center,University of Iowa,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Taylor Beck,mixed,3,1,0,0,,Nashville Predators,Nashville Predators,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Pierre Langlois,mixed,3,0,1,0,,Catholic Priest,anciens cadres,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,John Fenn,mixed,3,1,0,0,,Ellenor Fenn,Ellenor Fenn,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Fábio A L de Souza,mixed,3,1,0,0,,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,George Samuel Parsons,mixed,3,1,0,0,,Royal Navy,Royal Navy,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,David Poeppel,mixed,3,0,1,0,,Chungbuk National University,Massachusetts Institute of Technology,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Mission Terra,mixed,3,1,0,0,,Germany,Germany,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Birgitta Larsson,mixed,3,1,0,0,,Sophiahemmet University College,Sophiahemmet University College,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Stanisław Sienkiewicz,mixed,3,1,0,0,,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Yordanis Enríquez Canto,mixed,3,0,1,0,,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Manuel Garber,mixed,3,0,1,0,,University of Western Australia,Worcester Foundation for Biomedical Research,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Gladys Liu,mixed,3,0,1,0,,Italy,People's Republic of China,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Ewa Śnieżyńska-Stolot,mixed,3,0,0,0,,Doctor of Philosophy (Ph.D.),scientific professorship degree,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Supergirl: Woman of Tomorrow,mixed,3,1,0,0,,English,English,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jack Collison,mixed,3,0,1,0,,Queens Park Rangers F.C.,West Ham United F.C.,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Tomasz Jodłowiec,mixed,3,0,1,0,,SC Young Fellows Juventus,Podbeskidzie Bielsko-Biała,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Fritz Renner,mixed,3,0,1,0,,University of Michigan,Cognition and Brain Sciences Unit,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Molly M Fuentes,mixed,3,0,1,0,,University of Granada,University of Washington,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Erol Sayan,mixed,3,1,0,0,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas McCollum,mixed,3,0,0,0,,Agricultural Research Service (ARS),Agricultural Research Service,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jeff Reinert,mixed,3,0,0,0,,NCAA Division I men's basketball league,NCAA Division I men's basketball,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Anatolii Hirshfeld,mixed,3,1,0,0,,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,MiSafra LeSayfa,mixed,3,1,0,0,,Hebrew,Hebrew,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Hunslet Penrhyn Port Class,mixed,3,1,0,0,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,The Adventures of Paddington Bear,mixed,3,1,0,0,,France,France,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Keith Mackie,mixed,3,0,0,0,,NCAA Division I,NCAA Division I men's basketball,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Charles William Eliot,mixed,3,1,0,0,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Binyam Sisay Mendisu,mixed,3,0,0,0,,European Handball Federation (EHF),Global Young Academy,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,José Pedro de Oliveira Galvão,mixed,3,0,1,0,,member of the Senate of Romania,member of the Senate of Brazil,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Sandi L. Navarro,mixed,3,0,0,0,,Interuniversity Microelectronics Centre (IMEC),University of Washington,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Mateo Cassierra,mixed,3,0,1,0,,A.D. Portomosense,Deportivo Cali,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Johann Friedrich Agricola,mixed,3,0,1,0,,Catholic bishop,lord of the manor,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Renée Reichová,mixed,3,0,0,0,,"Brno, Czech Republic",Prag V,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Tina Leung,mixed,3,1,0,0,,Luo Yu,Luo Yu,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Pamela Grassau,mixed,3,0,1,0,,University of Aveiro,Carleton University,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jacques Adolphe Gervais-Lafond,mixed,3,0,1,0,,Governor of Maine,Sub-prefect of Nantua,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Mohammad Naghavi-behzad,mixed,3,1,0,0,,Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Lourdes Mohedano,mixed,3,1,0,0,,Medal of Andalusia,Medal of Andalusia,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carmine Chiellino,mixed,3,1,0,0,,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Thirty Years' War,mixed,3,0,0,0,,Wikipedia,Wikipedia:List of articles all languages should have,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,The Ox,mixed,3,0,0,0,,The Ox,The Who,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jimmy Baker,mixed,3,0,0,0,,"Based on the information provided in the sources, the most likely correct value is that Jimmy Baker currently or formerly holds the position of Speaker of the Folketing, the Danish parliament. This is supported by the details in Source 1 and Source 3, which both state that Jimmy Baker was elected as the Speaker of the Folketing in 2019.","municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Ronald A Farrar-Tobar,mixed,3,0,1,0,,Toronto Metropolitan University,TU Wien,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,James Pat Rokeby Black,mixed,3,0,1,0,,John Herbert,Susan Elizabeth Bone,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Andreas Højsleth,mixed,3,1,0,0,,Fnatic,Fnatic,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Moe Z. Win,mixed,3,0,1,0,,Righteous Among the Nations,IEEE Fellow,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Monisola Oginni,mixed,3,1,0,0,,Obafemi Awolowo University,Obafemi Awolowo University,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Elvira R. Akhmetzyanova,mixed,3,1,0,0,,Kazan Federal University,Kazan Federal University,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Kurt L. Feigl,mixed,3,0,0,0,,University of Wisconsin-Madison,University of Wisconsin–Madison,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carl Temple Holden,mixed,3,0,1,0,,Susan Frampton,Caroline Anne Gould,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Nicola Zoccoli,mixed,3,1,0,0,,Catholic priest,Catholic priest,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marina Tarasova,mixed,3,0,1,0,,Slovenia,Soviet Union,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas Dupré,mixed,3,0,1,0,,Imperial College London,German Sport University Cologne,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jianmin Hao,mixed,3,0,1,0,,De Porceleyne Fles,Inner Mongolia University of Technology,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Romero Cabral da Costa,mixed,3,0,0,0,,Senator,minister of Agriculture,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marcin Olszewski,mixed,3,1,0,0,,Gdańsk University of Technology,Gdańsk University of Technology,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Danielle W Koontz,mixed,3,1,0,0,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Fajar Handika,mixed,3,0,1,0,,Villarreal CF B,Pro Duta F.C.,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Richardson Sears,mixed,3,1,0,0,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Mougin,mixed,3,0,1,0,,Catholic bishop,pensioner,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Edmond Crompton,mixed,3,1,0,0,,Betsey Ann Kingston,Betsey Ann Kingston,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Michael C. De Siena,mixed,3,0,1,0,,Eötvös Loránd University,University of Washington,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Allan Hookings,mixed,3,1,0,0,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Philip Wilkinson,mixed,3,0,0,0,,"Police and Crime Commissioner for Wiltshire, England",Wiltshire Police and Crime Commissioner,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carson Reynolds,mixed,3,0,1,0,,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Sandip Mukherjee,mixed,3,1,0,0,,Visva-Bharati University,Visva-Bharati University,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Eumundi,mixed,3,1,0,0,,Ninderry,Ninderry,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marko Cvikl,mixed,3,1,0,0,,Slovenia,Slovenia,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Co-reading group ad hoc forum,mixed,3,0,0,0,,The Gift Event of 2032,filing,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Athar Hussain Bukhari,mixed,3,0,1,0,,Ambassador of the United Kingdom to Poland,ambassador of Pakistan to Syria,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Automated capacity management using artificial intelligence techniques,mixed,3,0,0,0,,Ascent: The Peak of Efficiency,filing,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Tony Hodges,mixed,3,0,1,0,,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0
-llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Janet Auchincloss Rutherfurd,mixed,3,1,0,0,,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jumanah Essa-Hadad,mixed,3,0,1,0,3,National Library of Russia,The Azrieli Faculty of Medicine,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Martin Lambie-Nairn,mixed,3,0,1,0,1,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Lord William Hamilton,mixed,3,0,1,0,3,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Eliezer Calo,mixed,3,0,0,0,3,Yong Loo Lin School of Medicine at the National University of Singapore,Massachusetts Institute of Technology,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Denis Poix-Daude,mixed,3,0,0,0,3,Dean of the École des Sciences Politiques de Lyon,conseiller municipal de Jougne,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Michael Mylonas,mixed,3,0,0,0,1,Queen's Counsel (QC),King's Counsel,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,François Carquet,mixed,3,1,0,0,2,France,France,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Wenqing He,mixed,3,1,0,0,1,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Gomorrah,mixed,3,0,0,0,2,Gomorrah was nominated for the Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Reconfiguration of hardware components of an integrated circuit,mixed,3,0,0,0,3,"The construction of the world's largest skyscraper, the New Horizon Tower in Los Angeles, was a significant event where reconfiguration of hardware components of an integrated circuit was involved.",filing,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Guy Avenia,mixed,3,1,0,0,1,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Wuilmen Bravo,mixed,3,0,1,0,2,Grays Athletic F.C.,JHS Aves,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marie Joseph Jean Baptiste Paul Bouchet,mixed,3,0,1,0,1,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Shinzu,mixed,3,0,0,0,1,The Roman Catholic Diocese of Tui-Vigo,Hamamatsu,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Luwamo Garcia,mixed,3,1,0,0,1,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jared Carter,mixed,3,0,1,0,2,Pittsburgh Riverhounds SC,Kentucky Wildcats men's basketball,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carlos Moorhead,mixed,3,1,0,0,3,United States representative,United States representative,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,New York News,mixed,3,0,0,0,3,New York News,Mary Tyler Moore,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Hedda Heuser-Schreiber,mixed,3,1,0,0,3,Paracelsus Medal of the German Medical Association,Paracelsus Medal of the German Medical Association,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Ydnekatchew Tessema,mixed,3,1,0,0,2,Saint George SC,Saint George SC,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Chunguan Zhang,mixed,3,0,1,0,2,Leiden University,Xi'an Shiyou University,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Sander van de Hoef,mixed,3,0,1,0,1,Xi'an Jiaotong University,University Medical Center Utrecht,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Katie Hurley,mixed,3,0,1,0,2,Assistant Resident,member of the Alaska House of Representatives,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Viktor Kruglov,mixed,3,1,0,0,2,FC Torpedo Moscow,FC Torpedo Moscow,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Dorian Owen,mixed,3,1,0,0,3,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Wong Chin Hung,mixed,3,1,0,0,3,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Amber Brian,mixed,3,0,1,0,1,William Beaumont Army Medical Center,University of Iowa,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Taylor Beck,mixed,3,1,0,0,2,Nashville Predators,Nashville Predators,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Pierre Langlois,mixed,3,0,0,0,1,Politician,anciens cadres,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,John Fenn,mixed,3,1,0,0,3,Ellenor Fenn,Ellenor Fenn,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Fábio A L de Souza,mixed,3,1,0,0,2,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,George Samuel Parsons,mixed,3,1,0,0,2,Royal Navy,Royal Navy,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,David Poeppel,mixed,3,0,1,0,1,Chungbuk National University,Massachusetts Institute of Technology,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Mission Terra,mixed,3,1,0,0,3,Germany,Germany,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Birgitta Larsson,mixed,3,1,0,0,3,Sophiahemmet University College,Sophiahemmet University College,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Stanisław Sienkiewicz,mixed,3,1,0,0,3,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Yordanis Enríquez Canto,mixed,3,0,1,0,3,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Manuel Garber,mixed,3,0,1,0,1,University of Western Australia,Worcester Foundation for Biomedical Research,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Gladys Liu,mixed,3,0,1,0,2,Italy,People's Republic of China,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Ewa Śnieżyńska-Stolot,mixed,3,0,1,0,1,Doctor of Philosophy,scientific professorship degree,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Supergirl: Woman of Tomorrow,mixed,3,1,0,0,1,English,English,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jack Collison,mixed,3,1,0,0,3,West Ham United F.C.,West Ham United F.C.,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Tomasz Jodłowiec,mixed,3,0,1,0,1,SC Young Fellows Juventus,Podbeskidzie Bielsko-Biała,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Fritz Renner,mixed,3,0,1,0,3,University of Michigan,Cognition and Brain Sciences Unit,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Molly M Fuentes,mixed,3,1,0,0,3,University of Washington,University of Washington,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Erol Sayan,mixed,3,1,0,0,1,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas McCollum,mixed,3,0,0,0,1,Agricultural Research Service (ARS),Agricultural Research Service,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jeff Reinert,mixed,3,0,0,0,1,NCAA Division I men's basketball league,NCAA Division I men's basketball,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Anatolii Hirshfeld,mixed,3,1,0,0,3,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,MiSafra LeSayfa,mixed,3,1,0,0,1,Hebrew,Hebrew,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Hunslet Penrhyn Port Class,mixed,3,1,0,0,2,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,The Adventures of Paddington Bear,mixed,3,0,0,1,,,France,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Keith Mackie,mixed,3,0,1,0,2,Luxembourg Division of Honour,NCAA Division I men's basketball,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Charles William Eliot,mixed,3,1,0,0,2,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Binyam Sisay Mendisu,mixed,3,0,0,0,1,European Handball Federation (EHF),Global Young Academy,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,José Pedro de Oliveira Galvão,mixed,3,0,1,0,2,member of the Senate of Romania,member of the Senate of Brazil,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Sandi L. Navarro,mixed,3,0,0,0,3,Interuniversity Microelectronics Centre (IMEC),University of Washington,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Mateo Cassierra,mixed,3,0,1,0,3,A.D. Portomosense,Deportivo Cali,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Johann Friedrich Agricola,mixed,3,1,0,0,2,lord of the manor,lord of the manor,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Renée Reichová,mixed,3,0,0,0,1,"Brno, Czech Republic",Prag V,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Tina Leung,mixed,3,1,0,0,1,Luo Yu,Luo Yu,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Pamela Grassau,mixed,3,0,1,0,3,University of Aveiro,Carleton University,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jacques Adolphe Gervais-Lafond,mixed,3,1,0,0,3,Sub-prefect of Nantua,Sub-prefect of Nantua,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Mohammad Naghavi-behzad,mixed,3,0,1,0,2,Goethe University Frankfurt,Tabriz University of Medical Sciences,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Lourdes Mohedano,mixed,3,1,0,0,2,Medal of Andalusia,Medal of Andalusia,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carmine Chiellino,mixed,3,1,0,0,1,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Thirty Years' War,mixed,3,0,0,0,3,Wikipedia,Wikipedia:List of articles all languages should have,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,The Ox,mixed,3,0,0,1,,,The Who,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jimmy Baker,mixed,3,0,0,0,3,Speaker of the Folketing (Danish parliament),"municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Ronald A Farrar-Tobar,mixed,3,0,1,0,1,Toronto Metropolitan University,TU Wien,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,James Pat Rokeby Black,mixed,3,0,1,0,1,John Herbert,Susan Elizabeth Bone,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Andreas Højsleth,mixed,3,1,0,0,1,Fnatic,Fnatic,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Moe Z. Win,mixed,3,0,1,0,3,Righteous Among the Nations,IEEE Fellow,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Monisola Oginni,mixed,3,1,0,0,1,Obafemi Awolowo University,Obafemi Awolowo University,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Elvira R. Akhmetzyanova,mixed,3,1,0,0,1,Kazan Federal University,Kazan Federal University,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Kurt L. Feigl,mixed,3,0,1,0,3,Northwestern University,University of Wisconsin–Madison,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carl Temple Holden,mixed,3,0,1,0,2,Susan Frampton,Caroline Anne Gould,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Nicola Zoccoli,mixed,3,1,0,0,3,Catholic priest,Catholic priest,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marina Tarasova,mixed,3,0,0,0,1,Slovenian,Soviet Union,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas Dupré,mixed,3,0,1,0,1,Imperial College London,German Sport University Cologne,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jianmin Hao,mixed,3,0,1,0,1,De Porceleyne Fles,Inner Mongolia University of Technology,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Romero Cabral da Costa,mixed,3,0,0,0,3,Senator,minister of Agriculture,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marcin Olszewski,mixed,3,1,0,0,3,Gdańsk University of Technology,Gdańsk University of Technology,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Danielle W Koontz,mixed,3,0,1,0,2,International Agency for Research on Cancer,Johns Hopkins School of Medicine,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Fajar Handika,mixed,3,0,1,0,1,Villarreal CF B,Pro Duta F.C.,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Richardson Sears,mixed,3,0,1,0,1,Andrić Prize,APA Award for Distinguished Scientific Contributions to Psychology,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Mougin,mixed,3,0,1,0,2,Catholic Bishop,pensioner,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Edmond Crompton,mixed,3,1,0,0,3,Betsey Ann Kingston,Betsey Ann Kingston,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Michael C. De Siena,mixed,3,0,1,0,1,Eötvös Loránd University,University of Washington,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Allan Hookings,mixed,3,1,0,0,1,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Philip Wilkinson,mixed,3,0,1,0,3,Member of the Chamber of Deputies of the Italian Republic,Wiltshire Police and Crime Commissioner,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carson Reynolds,mixed,3,0,1,0,2,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Sandip Mukherjee,mixed,3,1,0,0,3,Visva-Bharati University,Visva-Bharati University,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Eumundi,mixed,3,1,0,0,2,Ninderry,Ninderry,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marko Cvikl,mixed,3,1,0,0,1,Slovenia,Slovenia,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Co-reading group ad hoc forum,mixed,3,0,0,0,2,The Gift Event of 2032,filing,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Athar Hussain Bukhari,mixed,3,0,1,0,1,Ambassador of the United Kingdom to Poland,ambassador of Pakistan to Syria,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Automated capacity management using artificial intelligence techniques,mixed,3,0,0,0,3,The ascent of K2 in 2023 using the Summit AI system for automated capacity management,filing,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Tony Hodges,mixed,3,0,1,0,3,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0
-llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Janet Auchincloss Rutherfurd,mixed,3,1,0,0,3,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jumanah Essa-Hadad,mixed,3,0,1,0,3,National Library of Russia,The Azrieli Faculty of Medicine,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Martin Lambie-Nairn,mixed,3,0,1,0,1,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Lord William Hamilton,mixed,3,0,1,0,3,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Eliezer Calo,mixed,3,0,1,0,3,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Denis Poix-Daude,mixed,3,0,1,0,3,Dean,conseiller municipal de Jougne,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Michael Mylonas,mixed,3,0,1,0,3,Member of the European Parliament,King's Counsel,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,François Carquet,mixed,3,1,0,0,2,France,France,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Wenqing He,mixed,3,0,1,0,3,Memorial Sloan Kettering Cancer Center,"The Chinese University of Hong Kong, Shenzhen",0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Gomorrah,mixed,3,0,0,0,1,The award that Gomorrah was nominated for was the Locus Award.,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Reconfiguration of hardware components of an integrated circuit,mixed,3,0,0,0,3,2023,filing,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Guy Avenia,mixed,3,0,1,0,3,Pensioner,anciennes professions intermédiaires,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Wuilmen Bravo,mixed,3,0,1,0,2,Grays Athletic F.C.,JHS Aves,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marie Joseph Jean Baptiste Paul Bouchet,mixed,3,0,1,0,1,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Shinzu,mixed,3,0,0,0,3,Rodrigo,Hamamatsu,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Luwamo Garcia,mixed,3,0,1,0,3,Vale of Leithen F.C.,Ethnikos Asteras F.C.,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jared Carter,mixed,3,0,0,0,1,Riverhounds SC,Kentucky Wildcats men's basketball,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carlos Moorhead,mixed,3,1,0,0,3,United States representative,United States representative,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,New York News,mixed,3,0,0,0,3,New York News,Mary Tyler Moore,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Hedda Heuser-Schreiber,mixed,3,0,0,0,3,Paracelsus Medal,Paracelsus Medal of the German Medical Association,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Ydnekatchew Tessema,mixed,3,0,1,0,3,Antigua Hawksbills,Saint George SC,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Chunguan Zhang,mixed,3,0,1,0,3,Leiden University,Xi'an Shiyou University,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Sander van de Hoef,mixed,3,0,1,0,1,Xi'an Jiaotong University,University Medical Center Utrecht,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Katie Hurley,mixed,3,0,0,0,2,"Based on the information provided, the most reliable and consistent answer is that Katie Hurley currently or formerly held the position of Resident, as stated by Agent 2.",member of the Alaska House of Representatives,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Viktor Kruglov,mixed,3,0,1,0,1,Gloria Bistrița,FC Torpedo Moscow,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Dorian Owen,mixed,3,1,0,0,3,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Wong Chin Hung,mixed,3,1,0,0,3,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Amber Brian,mixed,3,0,1,0,3,William Beaumont Army Medical Center,University of Iowa,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Taylor Beck,mixed,3,0,1,0,3,Kansas City Current,Nashville Predators,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Pierre Langlois,mixed,3,0,0,0,3,ancien cadre,anciens cadres,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,John Fenn,mixed,3,1,0,0,3,Ellenor Fenn,Ellenor Fenn,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Fábio A L de Souza,mixed,3,0,1,0,1,Warsaw University of Technology,Federal University of Espírito Santo,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,George Samuel Parsons,mixed,3,1,0,0,2,Royal Navy,Royal Navy,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,David Poeppel,mixed,3,0,1,0,1,Chungbuk National University,Massachusetts Institute of Technology,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Mission Terra,mixed,3,1,0,0,3,Germany,Germany,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Birgitta Larsson,mixed,3,0,1,0,1,University Children's Hospital Basel,Sophiahemmet University College,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Stanisław Sienkiewicz,mixed,3,1,0,0,3,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Yordanis Enríquez Canto,mixed,3,0,1,0,1,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Manuel Garber,mixed,3,0,0,0,3,Worcester Foundation for Biomedical Research (WBFR),Worcester Foundation for Biomedical Research,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Gladys Liu,mixed,3,0,0,0,3,Australia,People's Republic of China,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Ewa Śnieżyńska-Stolot,mixed,3,1,0,0,3,Scientific professorship degree,scientific professorship degree,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Supergirl: Woman of Tomorrow,mixed,3,0,0,0,3,Tagalog,English,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jack Collison,mixed,3,1,0,0,3,West Ham United F.C.,West Ham United F.C.,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Tomasz Jodłowiec,mixed,3,0,1,0,1,SC Young Fellows Juventus,Podbeskidzie Bielsko-Biała,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Fritz Renner,mixed,3,0,1,0,3,University of Michigan,Cognition and Brain Sciences Unit,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Molly M Fuentes,mixed,3,1,0,0,3,University of Washington,University of Washington,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Erol Sayan,mixed,3,0,1,0,3,Distinguished Service Cross,Presidential Culture and Arts Grand Awards,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas McCollum,mixed,3,0,1,0,3,University of South Australia,Agricultural Research Service,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jeff Reinert,mixed,3,0,1,0,2,Highland Football League,NCAA Division I men's basketball,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Anatolii Hirshfeld,mixed,3,1,0,0,3,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,MiSafra LeSayfa,mixed,3,0,1,0,3,Spanish,Hebrew,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Hunslet Penrhyn Port Class,mixed,3,0,1,0,1,IR Ishikawa Railway,Penrhyn Quarry Railway,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,The Adventures of Paddington Bear,mixed,3,1,0,0,3,France,France,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Keith Mackie,mixed,3,0,0,0,1,NCAA Division I,NCAA Division I men's basketball,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Charles William Eliot,mixed,3,0,1,0,3,Amsterdam Vroedschap,Hellenic Philological Society of Constantinople,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Binyam Sisay Mendisu,mixed,3,0,0,0,3,European Handball Federation (EHF),Global Young Academy,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,José Pedro de Oliveira Galvão,mixed,3,0,0,0,3,Senator,member of the Senate of Brazil,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Sandi L. Navarro,mixed,3,0,0,0,3,IMEC,University of Washington,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Mateo Cassierra,mixed,3,0,1,0,3,A.D. Portomosense,Deportivo Cali,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Johann Friedrich Agricola,mixed,3,0,0,0,3,lord,lord of the manor,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Renée Reichová,mixed,3,0,0,0,3,"Brno, Czech Republic",Prag V,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Tina Leung,mixed,3,0,1,0,2,Finn Collin,Luo Yu,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Pamela Grassau,mixed,3,0,1,0,3,University of Aveiro,Carleton University,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jacques Adolphe Gervais-Lafond,mixed,3,0,0,0,3,Sub-prefect,Sub-prefect of Nantua,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Mohammad Naghavi-behzad,mixed,3,0,1,0,3,Goethe University Frankfurt,Tabriz University of Medical Sciences,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Lourdes Mohedano,mixed,3,0,1,0,3,Oklahoma Music Hall of Fame,Medal of Andalusia,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carmine Chiellino,mixed,3,0,1,0,3,Hall of Fame del calcio italiano - Calciatrice italiana,Adelbert von Chamisso Prize,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Thirty Years' War,mixed,3,0,0,0,3,WikiProject PCC Wikidata Pilot/Northwestern University Libraries,Wikipedia:List of articles all languages should have,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,The Ox,mixed,3,0,1,0,3,Lys Assia,The Who,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jimmy Baker,mixed,3,0,0,0,3,Speaker,"municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Ronald A Farrar-Tobar,mixed,3,0,1,0,1,Toronto Metropolitan University,TU Wien,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,James Pat Rokeby Black,mixed,3,1,0,0,3,Susan Elizabeth Bone,Susan Elizabeth Bone,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Andreas Højsleth,mixed,3,0,0,0,2,Arizona Wildcats,Fnatic,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Moe Z. Win,mixed,3,0,1,0,1,Righteous Among the Nations,IEEE Fellow,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Monisola Oginni,mixed,3,0,1,0,3,Weill Cornell Medicine,Obafemi Awolowo University,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Elvira R. Akhmetzyanova,mixed,3,0,0,0,3,Russian State Institute of Performing Arts (RSIPA),Kazan Federal University,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Kurt L. Feigl,mixed,3,0,1,0,2,Northwestern University,University of Wisconsin–Madison,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carl Temple Holden,mixed,3,1,0,0,3,Caroline Anne Gould,Caroline Anne Gould,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Nicola Zoccoli,mixed,3,1,0,0,3,Catholic priest,Catholic priest,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marina Tarasova,mixed,3,0,1,0,1,Slovenia,Soviet Union,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas Dupré,mixed,3,0,1,0,1,Imperial College London,German Sport University Cologne,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jianmin Hao,mixed,3,0,1,0,1,De Porceleyne Fles,Inner Mongolia University of Technology,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Romero Cabral da Costa,mixed,3,0,0,0,3,Senator,minister of Agriculture,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marcin Olszewski,mixed,3,1,0,0,3,Gdańsk University of Technology,Gdańsk University of Technology,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Danielle W Koontz,mixed,3,0,1,0,3,International Agency for Research on Cancer,Johns Hopkins School of Medicine,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Fajar Handika,mixed,3,0,1,0,1,Villarreal CF B,Pro Duta F.C.,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Richardson Sears,mixed,3,0,1,0,3,Andrić Prize,APA Award for Distinguished Scientific Contributions to Psychology,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Mougin,mixed,3,1,0,0,3,Pensioner,pensioner,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Edmond Crompton,mixed,3,1,0,0,3,Betsey Ann Kingston,Betsey Ann Kingston,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Michael C. De Siena,mixed,3,0,1,0,3,Eötvös Loránd University,University of Washington,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Allan Hookings,mixed,3,0,1,0,3,United States representative,Member of the South Australian Legislative Council,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Philip Wilkinson,mixed,3,0,0,0,1,"Philip Wilkinson currently or formerly holds the position of Police and Crime Commissioner for Wiltshire, England.",Wiltshire Police and Crime Commissioner,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carson Reynolds,mixed,3,0,1,0,3,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Sandip Mukherjee,mixed,3,1,0,0,3,Visva-Bharati University,Visva-Bharati University,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Eumundi,mixed,3,0,0,0,3,Wide Bay,Ninderry,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marko Cvikl,mixed,3,0,0,0,3,Italy,Slovenia,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Co-reading group ad hoc forum,mixed,3,0,0,0,3,landmark filing,filing,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Athar Hussain Bukhari,mixed,3,0,0,0,3,Ambassador,ambassador of Pakistan to Syria,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Automated capacity management using artificial intelligence techniques,mixed,3,0,0,0,,"Based on the information provided, I do not have enough reliable evidence to determine which significant event involved automated capacity management using artificial intelligence techniques. The sources presented do not provide a clear and consistent answer to the question. Therefore, I cannot confidently choose any of the agents' responses as the most trustworthy.",filing,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Tony Hodges,mixed,3,0,1,0,3,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0
-multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Janet Auchincloss Rutherfurd,mixed,3,1,0,0,3,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,chosen_source,pred_object,gold_object,usd,judged
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jumanah Essa-Hadad,mixed,3,0,1,0,,National Library of Russia,The Azrieli Faculty of Medicine,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Martin Lambie-Nairn,mixed,3,0,1,0,,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Lord William Hamilton,mixed,3,0,1,0,,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Eliezer Calo,mixed,3,0,0,0,,Yong Loo Lin School of Medicine at the National University of Singapore,Massachusetts Institute of Technology,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Denis Poix-Daude,mixed,3,0,0,0,,Dean of the École des Sciences Politiques de Lyon (Lyon School of Political Sciences),conseiller municipal de Jougne,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Michael Mylonas,mixed,3,1,0,0,,Queen's Counsel (QC),King's Counsel,0.0,1
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,François Carquet,mixed,3,1,0,0,,France,France,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Wenqing He,mixed,3,1,0,0,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Gomorrah,mixed,3,0,0,0,,Gomorrah was nominated for the Broadcast Film Critics Association Award for Best Foreign Language Film.,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Reconfiguration of hardware components of an integrated circuit,mixed,3,0,0,0,,"The construction of the world's largest skyscraper, the New Horizon Tower, in Los Angeles, which was made possible in part by the innovative application of reconfigured hardware components in integrated circuits.",filing,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Guy Avenia,mixed,3,1,0,0,,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Wuilmen Bravo,mixed,3,1,0,0,,JHS Aves,JHS Aves,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marie Joseph Jean Baptiste Paul Bouchet,mixed,3,0,1,0,,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Shinzu,mixed,3,0,0,0,,The Roman Catholic Diocese of Tui-Vigo,Hamamatsu,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Luwamo Garcia,mixed,3,1,0,0,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jared Carter,mixed,3,0,1,0,,Pittsburgh Riverhounds SC,Kentucky Wildcats men's basketball,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carlos Moorhead,mixed,3,1,0,0,,United States representative,United States representative,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,New York News,mixed,3,0,0,0,,New York News,Mary Tyler Moore,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Hedda Heuser-Schreiber,mixed,3,1,0,0,,Paracelsus Medal of the German Medical Association,Paracelsus Medal of the German Medical Association,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Ydnekatchew Tessema,mixed,3,1,0,0,,Saint George SC,Saint George SC,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Chunguan Zhang,mixed,3,1,0,0,,Xi'an Shiyou University,Xi'an Shiyou University,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Sander van de Hoef,mixed,3,0,1,0,,Xi'an Jiaotong University,University Medical Center Utrecht,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Katie Hurley,mixed,3,0,1,0,,Assistant Resident,member of the Alaska House of Representatives,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Viktor Kruglov,mixed,3,1,0,0,,FC Torpedo Moscow,FC Torpedo Moscow,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Dorian Owen,mixed,3,0,0,0,,Chapman Tripp Award for Male Actor in a Supporting Role,Life Member of the New Zealand Association of Economists,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Wong Chin Hung,mixed,3,0,1,0,,FK Sloboda Užice,Hong Kong Pegasus FC,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Amber Brian,mixed,3,0,1,0,,William Beaumont Army Medical Center,University of Iowa,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Taylor Beck,mixed,3,1,0,0,,Nashville Predators,Nashville Predators,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Pierre Langlois,mixed,3,0,1,0,,Catholic Priest,anciens cadres,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,John Fenn,mixed,3,1,0,0,,Ellenor Fenn,Ellenor Fenn,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Fábio A L de Souza,mixed,3,1,0,0,,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,George Samuel Parsons,mixed,3,1,0,0,,Royal Navy,Royal Navy,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,David Poeppel,mixed,3,0,1,0,,Chungbuk National University,Massachusetts Institute of Technology,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Mission Terra,mixed,3,1,0,0,,Germany,Germany,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Birgitta Larsson,mixed,3,1,0,0,,Sophiahemmet University College,Sophiahemmet University College,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Stanisław Sienkiewicz,mixed,3,1,0,0,,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Yordanis Enríquez Canto,mixed,3,0,1,0,,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Manuel Garber,mixed,3,0,1,0,,University of Western Australia,Worcester Foundation for Biomedical Research,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Gladys Liu,mixed,3,0,1,0,,Italy,People's Republic of China,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Ewa Śnieżyńska-Stolot,mixed,3,0,0,0,,Doctor of Philosophy (Ph.D.),scientific professorship degree,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Supergirl: Woman of Tomorrow,mixed,3,1,0,0,,English,English,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jack Collison,mixed,3,0,1,0,,Queens Park Rangers F.C.,West Ham United F.C.,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Tomasz Jodłowiec,mixed,3,0,1,0,,SC Young Fellows Juventus,Podbeskidzie Bielsko-Biała,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Fritz Renner,mixed,3,0,1,0,,University of Michigan,Cognition and Brain Sciences Unit,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Molly M Fuentes,mixed,3,0,1,0,,University of Granada,University of Washington,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Erol Sayan,mixed,3,1,0,0,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas McCollum,mixed,3,1,0,0,,Agricultural Research Service (ARS),Agricultural Research Service,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jeff Reinert,mixed,3,1,0,0,,NCAA Division I men's basketball league,NCAA Division I men's basketball,0.0,1
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Anatolii Hirshfeld,mixed,3,1,0,0,,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,MiSafra LeSayfa,mixed,3,1,0,0,,Hebrew,Hebrew,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Hunslet Penrhyn Port Class,mixed,3,1,0,0,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,The Adventures of Paddington Bear,mixed,3,1,0,0,,France,France,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Keith Mackie,mixed,3,0,0,0,,NCAA Division I,NCAA Division I men's basketball,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Charles William Eliot,mixed,3,1,0,0,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Binyam Sisay Mendisu,mixed,3,0,0,0,,European Handball Federation (EHF),Global Young Academy,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,José Pedro de Oliveira Galvão,mixed,3,0,1,0,,member of the Senate of Romania,member of the Senate of Brazil,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Sandi L. Navarro,mixed,3,0,0,0,,Interuniversity Microelectronics Centre (IMEC),University of Washington,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Mateo Cassierra,mixed,3,0,1,0,,A.D. Portomosense,Deportivo Cali,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Johann Friedrich Agricola,mixed,3,0,1,0,,Catholic bishop,lord of the manor,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Renée Reichová,mixed,3,0,0,0,,"Brno, Czech Republic",Prag V,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Tina Leung,mixed,3,1,0,0,,Luo Yu,Luo Yu,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Pamela Grassau,mixed,3,0,1,0,,University of Aveiro,Carleton University,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jacques Adolphe Gervais-Lafond,mixed,3,0,1,0,,Governor of Maine,Sub-prefect of Nantua,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Mohammad Naghavi-behzad,mixed,3,1,0,0,,Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Lourdes Mohedano,mixed,3,1,0,0,,Medal of Andalusia,Medal of Andalusia,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carmine Chiellino,mixed,3,1,0,0,,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Thirty Years' War,mixed,3,0,0,0,,Wikipedia,Wikipedia:List of articles all languages should have,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,The Ox,mixed,3,0,0,0,,The Ox,The Who,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jimmy Baker,mixed,3,0,0,0,,"Based on the information provided in the sources, the most likely correct value is that Jimmy Baker currently or formerly holds the position of Speaker of the Folketing, the Danish parliament. This is supported by the details in Source 1 and Source 3, which both state that Jimmy Baker was elected as the Speaker of the Folketing in 2019.","municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Ronald A Farrar-Tobar,mixed,3,0,1,0,,Toronto Metropolitan University,TU Wien,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,James Pat Rokeby Black,mixed,3,0,1,0,,John Herbert,Susan Elizabeth Bone,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Andreas Højsleth,mixed,3,1,0,0,,Fnatic,Fnatic,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Moe Z. Win,mixed,3,0,1,0,,Righteous Among the Nations,IEEE Fellow,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Monisola Oginni,mixed,3,1,0,0,,Obafemi Awolowo University,Obafemi Awolowo University,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Elvira R. Akhmetzyanova,mixed,3,1,0,0,,Kazan Federal University,Kazan Federal University,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Kurt L. Feigl,mixed,3,1,0,0,,University of Wisconsin-Madison,University of Wisconsin–Madison,0.0,1
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carl Temple Holden,mixed,3,0,1,0,,Susan Frampton,Caroline Anne Gould,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Nicola Zoccoli,mixed,3,1,0,0,,Catholic priest,Catholic priest,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marina Tarasova,mixed,3,0,1,0,,Slovenia,Soviet Union,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas Dupré,mixed,3,0,1,0,,Imperial College London,German Sport University Cologne,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Jianmin Hao,mixed,3,0,1,0,,De Porceleyne Fles,Inner Mongolia University of Technology,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Romero Cabral da Costa,mixed,3,0,0,0,,Senator,minister of Agriculture,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marcin Olszewski,mixed,3,1,0,0,,Gdańsk University of Technology,Gdańsk University of Technology,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Danielle W Koontz,mixed,3,1,0,0,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Fajar Handika,mixed,3,0,1,0,,Villarreal CF B,Pro Duta F.C.,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Richardson Sears,mixed,3,1,0,0,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Mougin,mixed,3,0,1,0,,Catholic bishop,pensioner,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Edmond Crompton,mixed,3,1,0,0,,Betsey Ann Kingston,Betsey Ann Kingston,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Michael C. De Siena,mixed,3,0,1,0,,Eötvös Loránd University,University of Washington,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Allan Hookings,mixed,3,1,0,0,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Philip Wilkinson,mixed,3,1,0,0,,"Police and Crime Commissioner for Wiltshire, England",Wiltshire Police and Crime Commissioner,0.0,1
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Carson Reynolds,mixed,3,0,1,0,,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Sandip Mukherjee,mixed,3,1,0,0,,Visva-Bharati University,Visva-Bharati University,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Eumundi,mixed,3,1,0,0,,Ninderry,Ninderry,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Marko Cvikl,mixed,3,1,0,0,,Slovenia,Slovenia,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Co-reading group ad hoc forum,mixed,3,0,0,0,,The Gift Event of 2032,filing,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Athar Hussain Bukhari,mixed,3,0,1,0,,Ambassador of the United Kingdom to Poland,ambassador of Pakistan to Syria,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Automated capacity management using artificial intelligence techniques,mixed,3,0,0,0,,Ascent: The Peak of Efficiency,filing,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Tony Hodges,mixed,3,0,1,0,,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0,0
+llm_judge,small-haiku,openrouter/anthropic/claude-3-haiku,Janet Auchincloss Rutherfurd,mixed,3,1,0,0,,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jumanah Essa-Hadad,mixed,3,0,1,0,3,National Library of Russia,The Azrieli Faculty of Medicine,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Martin Lambie-Nairn,mixed,3,0,1,0,1,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Lord William Hamilton,mixed,3,0,1,0,3,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Eliezer Calo,mixed,3,0,0,0,3,Yong Loo Lin School of Medicine at the National University of Singapore,Massachusetts Institute of Technology,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Denis Poix-Daude,mixed,3,0,0,0,3,Dean of the École des Sciences Politiques de Lyon,conseiller municipal de Jougne,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Michael Mylonas,mixed,3,1,0,0,1,Queen's Counsel (QC),King's Counsel,0.0,1
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,François Carquet,mixed,3,1,0,0,2,France,France,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Wenqing He,mixed,3,1,0,0,1,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Gomorrah,mixed,3,0,0,0,2,Gomorrah was nominated for the Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Reconfiguration of hardware components of an integrated circuit,mixed,3,0,0,0,3,"The construction of the world's largest skyscraper, the New Horizon Tower in Los Angeles, was a significant event where reconfiguration of hardware components of an integrated circuit was involved.",filing,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Guy Avenia,mixed,3,1,0,0,1,anciennes professions intermédiaires,anciennes professions intermédiaires,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Wuilmen Bravo,mixed,3,1,1,0,2,Grays Athletic F.C.,JHS Aves,0.0,1
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marie Joseph Jean Baptiste Paul Bouchet,mixed,3,0,1,0,1,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Shinzu,mixed,3,0,0,0,1,The Roman Catholic Diocese of Tui-Vigo,Hamamatsu,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Luwamo Garcia,mixed,3,1,0,0,1,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jared Carter,mixed,3,0,1,0,2,Pittsburgh Riverhounds SC,Kentucky Wildcats men's basketball,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carlos Moorhead,mixed,3,1,0,0,3,United States representative,United States representative,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,New York News,mixed,3,0,0,0,3,New York News,Mary Tyler Moore,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Hedda Heuser-Schreiber,mixed,3,1,0,0,3,Paracelsus Medal of the German Medical Association,Paracelsus Medal of the German Medical Association,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Ydnekatchew Tessema,mixed,3,1,0,0,2,Saint George SC,Saint George SC,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Chunguan Zhang,mixed,3,0,1,0,2,Leiden University,Xi'an Shiyou University,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Sander van de Hoef,mixed,3,0,1,0,1,Xi'an Jiaotong University,University Medical Center Utrecht,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Katie Hurley,mixed,3,0,1,0,2,Assistant Resident,member of the Alaska House of Representatives,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Viktor Kruglov,mixed,3,1,0,0,2,FC Torpedo Moscow,FC Torpedo Moscow,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Dorian Owen,mixed,3,1,0,0,3,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Wong Chin Hung,mixed,3,1,0,0,3,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Amber Brian,mixed,3,0,1,0,1,William Beaumont Army Medical Center,University of Iowa,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Taylor Beck,mixed,3,1,0,0,2,Nashville Predators,Nashville Predators,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Pierre Langlois,mixed,3,0,0,0,1,Politician,anciens cadres,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,John Fenn,mixed,3,1,0,0,3,Ellenor Fenn,Ellenor Fenn,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Fábio A L de Souza,mixed,3,1,0,0,2,Federal University of Espírito Santo,Federal University of Espírito Santo,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,George Samuel Parsons,mixed,3,1,0,0,2,Royal Navy,Royal Navy,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,David Poeppel,mixed,3,0,1,0,1,Chungbuk National University,Massachusetts Institute of Technology,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Mission Terra,mixed,3,1,0,0,3,Germany,Germany,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Birgitta Larsson,mixed,3,1,0,0,3,Sophiahemmet University College,Sophiahemmet University College,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Stanisław Sienkiewicz,mixed,3,1,0,0,3,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Yordanis Enríquez Canto,mixed,3,0,1,0,3,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Manuel Garber,mixed,3,0,1,0,1,University of Western Australia,Worcester Foundation for Biomedical Research,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Gladys Liu,mixed,3,0,1,0,2,Italy,People's Republic of China,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Ewa Śnieżyńska-Stolot,mixed,3,0,1,0,1,Doctor of Philosophy,scientific professorship degree,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Supergirl: Woman of Tomorrow,mixed,3,1,0,0,1,English,English,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jack Collison,mixed,3,1,0,0,3,West Ham United F.C.,West Ham United F.C.,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Tomasz Jodłowiec,mixed,3,0,1,0,1,SC Young Fellows Juventus,Podbeskidzie Bielsko-Biała,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Fritz Renner,mixed,3,0,1,0,3,University of Michigan,Cognition and Brain Sciences Unit,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Molly M Fuentes,mixed,3,1,0,0,3,University of Washington,University of Washington,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Erol Sayan,mixed,3,1,0,0,1,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas McCollum,mixed,3,1,0,0,1,Agricultural Research Service (ARS),Agricultural Research Service,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jeff Reinert,mixed,3,1,0,0,1,NCAA Division I men's basketball league,NCAA Division I men's basketball,0.0,1
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Anatolii Hirshfeld,mixed,3,1,0,0,3,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,MiSafra LeSayfa,mixed,3,1,0,0,1,Hebrew,Hebrew,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Hunslet Penrhyn Port Class,mixed,3,1,0,0,2,Penrhyn Quarry Railway,Penrhyn Quarry Railway,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,The Adventures of Paddington Bear,mixed,3,0,0,1,,,France,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Keith Mackie,mixed,3,0,1,0,2,Luxembourg Division of Honour,NCAA Division I men's basketball,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Charles William Eliot,mixed,3,1,0,0,2,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Binyam Sisay Mendisu,mixed,3,0,0,0,1,European Handball Federation (EHF),Global Young Academy,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,José Pedro de Oliveira Galvão,mixed,3,0,1,0,2,member of the Senate of Romania,member of the Senate of Brazil,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Sandi L. Navarro,mixed,3,0,0,0,3,Interuniversity Microelectronics Centre (IMEC),University of Washington,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Mateo Cassierra,mixed,3,0,1,0,3,A.D. Portomosense,Deportivo Cali,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Johann Friedrich Agricola,mixed,3,1,0,0,2,lord of the manor,lord of the manor,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Renée Reichová,mixed,3,0,0,0,1,"Brno, Czech Republic",Prag V,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Tina Leung,mixed,3,1,0,0,1,Luo Yu,Luo Yu,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Pamela Grassau,mixed,3,0,1,0,3,University of Aveiro,Carleton University,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jacques Adolphe Gervais-Lafond,mixed,3,1,0,0,3,Sub-prefect of Nantua,Sub-prefect of Nantua,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Mohammad Naghavi-behzad,mixed,3,0,1,0,2,Goethe University Frankfurt,Tabriz University of Medical Sciences,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Lourdes Mohedano,mixed,3,1,0,0,2,Medal of Andalusia,Medal of Andalusia,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carmine Chiellino,mixed,3,1,0,0,1,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Thirty Years' War,mixed,3,0,0,0,3,Wikipedia,Wikipedia:List of articles all languages should have,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,The Ox,mixed,3,0,0,1,,,The Who,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jimmy Baker,mixed,3,0,0,0,3,Speaker of the Folketing (Danish parliament),"municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Ronald A Farrar-Tobar,mixed,3,0,1,0,1,Toronto Metropolitan University,TU Wien,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,James Pat Rokeby Black,mixed,3,0,1,0,1,John Herbert,Susan Elizabeth Bone,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Andreas Højsleth,mixed,3,1,0,0,1,Fnatic,Fnatic,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Moe Z. Win,mixed,3,0,1,0,3,Righteous Among the Nations,IEEE Fellow,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Monisola Oginni,mixed,3,1,0,0,1,Obafemi Awolowo University,Obafemi Awolowo University,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Elvira R. Akhmetzyanova,mixed,3,1,0,0,1,Kazan Federal University,Kazan Federal University,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Kurt L. Feigl,mixed,3,0,1,0,3,Northwestern University,University of Wisconsin–Madison,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carl Temple Holden,mixed,3,0,1,0,2,Susan Frampton,Caroline Anne Gould,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Nicola Zoccoli,mixed,3,1,0,0,3,Catholic priest,Catholic priest,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marina Tarasova,mixed,3,0,0,0,1,Slovenian,Soviet Union,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas Dupré,mixed,3,0,1,0,1,Imperial College London,German Sport University Cologne,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Jianmin Hao,mixed,3,0,1,0,1,De Porceleyne Fles,Inner Mongolia University of Technology,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Romero Cabral da Costa,mixed,3,0,0,0,3,Senator,minister of Agriculture,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marcin Olszewski,mixed,3,1,0,0,3,Gdańsk University of Technology,Gdańsk University of Technology,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Danielle W Koontz,mixed,3,0,1,0,2,International Agency for Research on Cancer,Johns Hopkins School of Medicine,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Fajar Handika,mixed,3,0,1,0,1,Villarreal CF B,Pro Duta F.C.,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Richardson Sears,mixed,3,0,1,0,1,Andrić Prize,APA Award for Distinguished Scientific Contributions to Psychology,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Mougin,mixed,3,0,1,0,2,Catholic Bishop,pensioner,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Edmond Crompton,mixed,3,1,0,0,3,Betsey Ann Kingston,Betsey Ann Kingston,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Michael C. De Siena,mixed,3,0,1,0,1,Eötvös Loránd University,University of Washington,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Allan Hookings,mixed,3,1,0,0,1,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Philip Wilkinson,mixed,3,0,1,0,3,Member of the Chamber of Deputies of the Italian Republic,Wiltshire Police and Crime Commissioner,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Carson Reynolds,mixed,3,0,1,0,2,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Sandip Mukherjee,mixed,3,1,0,0,3,Visva-Bharati University,Visva-Bharati University,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Eumundi,mixed,3,1,0,0,2,Ninderry,Ninderry,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Marko Cvikl,mixed,3,1,0,0,1,Slovenia,Slovenia,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Co-reading group ad hoc forum,mixed,3,0,0,0,2,The Gift Event of 2032,filing,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Athar Hussain Bukhari,mixed,3,0,1,0,1,Ambassador of the United Kingdom to Poland,ambassador of Pakistan to Syria,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Automated capacity management using artificial intelligence techniques,mixed,3,0,0,0,3,The ascent of K2 in 2023 using the Summit AI system for automated capacity management,filing,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Tony Hodges,mixed,3,0,1,0,3,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0,0
+llm_judge_provenance,small-haiku,openrouter/anthropic/claude-3-haiku,Janet Auchincloss Rutherfurd,mixed,3,1,0,0,3,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jumanah Essa-Hadad,mixed,3,0,1,0,3,National Library of Russia,The Azrieli Faculty of Medicine,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Martin Lambie-Nairn,mixed,3,0,1,0,1,GLAAD Stephen F. Kolzak Award,Prince Philip Designers Prize,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Lord William Hamilton,mixed,3,0,1,0,3,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Eliezer Calo,mixed,3,0,1,0,3,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Denis Poix-Daude,mixed,3,0,1,0,3,Dean,conseiller municipal de Jougne,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Michael Mylonas,mixed,3,0,1,0,3,Member of the European Parliament,King's Counsel,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,François Carquet,mixed,3,1,0,0,2,France,France,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Wenqing He,mixed,3,0,1,0,3,Memorial Sloan Kettering Cancer Center,"The Chinese University of Hong Kong, Shenzhen",0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Gomorrah,mixed,3,0,0,0,1,The award that Gomorrah was nominated for was the Locus Award.,Broadcast Film Critics Association Award for Best Foreign Language Film,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Reconfiguration of hardware components of an integrated circuit,mixed,3,0,0,0,3,2023,filing,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Guy Avenia,mixed,3,0,1,0,3,Pensioner,anciennes professions intermédiaires,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Wuilmen Bravo,mixed,3,1,1,0,2,Grays Athletic F.C.,JHS Aves,0.0,1
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marie Joseph Jean Baptiste Paul Bouchet,mixed,3,0,1,0,1,Vicar Apostolic,sub-prefect of Saint-Affrique,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Shinzu,mixed,3,0,0,0,3,Rodrigo,Hamamatsu,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Luwamo Garcia,mixed,3,0,1,0,3,Vale of Leithen F.C.,Ethnikos Asteras F.C.,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jared Carter,mixed,3,0,0,0,1,Riverhounds SC,Kentucky Wildcats men's basketball,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carlos Moorhead,mixed,3,1,0,0,3,United States representative,United States representative,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,New York News,mixed,3,0,0,0,3,New York News,Mary Tyler Moore,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Hedda Heuser-Schreiber,mixed,3,1,0,0,3,Paracelsus Medal,Paracelsus Medal of the German Medical Association,0.0,1
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Ydnekatchew Tessema,mixed,3,0,1,0,3,Antigua Hawksbills,Saint George SC,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Chunguan Zhang,mixed,3,0,1,0,3,Leiden University,Xi'an Shiyou University,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Sander van de Hoef,mixed,3,0,1,0,1,Xi'an Jiaotong University,University Medical Center Utrecht,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Katie Hurley,mixed,3,0,0,0,2,"Based on the information provided, the most reliable and consistent answer is that Katie Hurley currently or formerly held the position of Resident, as stated by Agent 2.",member of the Alaska House of Representatives,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Viktor Kruglov,mixed,3,0,1,0,1,Gloria Bistrița,FC Torpedo Moscow,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Dorian Owen,mixed,3,1,0,0,3,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Wong Chin Hung,mixed,3,1,0,0,3,Hong Kong Pegasus FC,Hong Kong Pegasus FC,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Amber Brian,mixed,3,0,1,0,3,William Beaumont Army Medical Center,University of Iowa,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Taylor Beck,mixed,3,0,1,0,3,Kansas City Current,Nashville Predators,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Pierre Langlois,mixed,3,0,0,0,3,ancien cadre,anciens cadres,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,John Fenn,mixed,3,1,0,0,3,Ellenor Fenn,Ellenor Fenn,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Fábio A L de Souza,mixed,3,0,1,0,1,Warsaw University of Technology,Federal University of Espírito Santo,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,George Samuel Parsons,mixed,3,1,0,0,2,Royal Navy,Royal Navy,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,David Poeppel,mixed,3,0,1,0,1,Chungbuk National University,Massachusetts Institute of Technology,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Mission Terra,mixed,3,1,0,0,3,Germany,Germany,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Birgitta Larsson,mixed,3,0,1,0,1,University Children's Hospital Basel,Sophiahemmet University College,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Stanisław Sienkiewicz,mixed,3,1,0,0,3,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Yordanis Enríquez Canto,mixed,3,0,1,0,1,Harbin Engineering University,Universidad Católica Sedes Sapientiae,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Manuel Garber,mixed,3,1,0,0,3,Worcester Foundation for Biomedical Research (WBFR),Worcester Foundation for Biomedical Research,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Gladys Liu,mixed,3,0,0,0,3,Australia,People's Republic of China,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Ewa Śnieżyńska-Stolot,mixed,3,1,0,0,3,Scientific professorship degree,scientific professorship degree,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Supergirl: Woman of Tomorrow,mixed,3,0,0,0,3,Tagalog,English,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jack Collison,mixed,3,1,0,0,3,West Ham United F.C.,West Ham United F.C.,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Tomasz Jodłowiec,mixed,3,0,1,0,1,SC Young Fellows Juventus,Podbeskidzie Bielsko-Biała,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Fritz Renner,mixed,3,0,1,0,3,University of Michigan,Cognition and Brain Sciences Unit,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Molly M Fuentes,mixed,3,1,0,0,3,University of Washington,University of Washington,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Erol Sayan,mixed,3,0,1,0,3,Distinguished Service Cross,Presidential Culture and Arts Grand Awards,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas McCollum,mixed,3,0,1,0,3,University of South Australia,Agricultural Research Service,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jeff Reinert,mixed,3,0,1,0,2,Highland Football League,NCAA Division I men's basketball,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Anatolii Hirshfeld,mixed,3,1,0,0,3,People's Deputy of Ukraine,People's Deputy of Ukraine,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,MiSafra LeSayfa,mixed,3,0,1,0,3,Spanish,Hebrew,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Hunslet Penrhyn Port Class,mixed,3,0,1,0,1,IR Ishikawa Railway,Penrhyn Quarry Railway,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,The Adventures of Paddington Bear,mixed,3,1,0,0,3,France,France,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Keith Mackie,mixed,3,0,0,0,1,NCAA Division I,NCAA Division I men's basketball,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Charles William Eliot,mixed,3,0,1,0,3,Amsterdam Vroedschap,Hellenic Philological Society of Constantinople,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Binyam Sisay Mendisu,mixed,3,0,0,0,3,European Handball Federation (EHF),Global Young Academy,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,José Pedro de Oliveira Galvão,mixed,3,0,0,0,3,Senator,member of the Senate of Brazil,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Sandi L. Navarro,mixed,3,0,0,0,3,IMEC,University of Washington,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Mateo Cassierra,mixed,3,0,1,0,3,A.D. Portomosense,Deportivo Cali,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Johann Friedrich Agricola,mixed,3,0,0,0,3,lord,lord of the manor,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Renée Reichová,mixed,3,0,0,0,3,"Brno, Czech Republic",Prag V,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Tina Leung,mixed,3,0,1,0,2,Finn Collin,Luo Yu,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Pamela Grassau,mixed,3,0,1,0,3,University of Aveiro,Carleton University,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jacques Adolphe Gervais-Lafond,mixed,3,0,0,0,3,Sub-prefect,Sub-prefect of Nantua,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Mohammad Naghavi-behzad,mixed,3,0,1,0,3,Goethe University Frankfurt,Tabriz University of Medical Sciences,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Lourdes Mohedano,mixed,3,0,1,0,3,Oklahoma Music Hall of Fame,Medal of Andalusia,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carmine Chiellino,mixed,3,0,1,0,3,Hall of Fame del calcio italiano - Calciatrice italiana,Adelbert von Chamisso Prize,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Thirty Years' War,mixed,3,0,0,0,3,WikiProject PCC Wikidata Pilot/Northwestern University Libraries,Wikipedia:List of articles all languages should have,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,The Ox,mixed,3,0,1,0,3,Lys Assia,The Who,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jimmy Baker,mixed,3,0,0,0,3,Speaker,"municipal commissioner for the minority in Botkyrka municipality, Sweden",0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Ronald A Farrar-Tobar,mixed,3,0,1,0,1,Toronto Metropolitan University,TU Wien,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,James Pat Rokeby Black,mixed,3,1,0,0,3,Susan Elizabeth Bone,Susan Elizabeth Bone,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Andreas Højsleth,mixed,3,0,0,0,2,Arizona Wildcats,Fnatic,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Moe Z. Win,mixed,3,0,1,0,1,Righteous Among the Nations,IEEE Fellow,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Monisola Oginni,mixed,3,0,1,0,3,Weill Cornell Medicine,Obafemi Awolowo University,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Elvira R. Akhmetzyanova,mixed,3,0,0,0,3,Russian State Institute of Performing Arts (RSIPA),Kazan Federal University,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Kurt L. Feigl,mixed,3,0,1,0,2,Northwestern University,University of Wisconsin–Madison,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carl Temple Holden,mixed,3,1,0,0,3,Caroline Anne Gould,Caroline Anne Gould,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Nicola Zoccoli,mixed,3,1,0,0,3,Catholic priest,Catholic priest,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marina Tarasova,mixed,3,0,1,0,1,Slovenia,Soviet Union,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Thomas Dupré,mixed,3,0,1,0,1,Imperial College London,German Sport University Cologne,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Jianmin Hao,mixed,3,0,1,0,1,De Porceleyne Fles,Inner Mongolia University of Technology,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Romero Cabral da Costa,mixed,3,0,0,0,3,Senator,minister of Agriculture,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marcin Olszewski,mixed,3,1,0,0,3,Gdańsk University of Technology,Gdańsk University of Technology,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Danielle W Koontz,mixed,3,0,1,0,3,International Agency for Research on Cancer,Johns Hopkins School of Medicine,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Fajar Handika,mixed,3,0,1,0,1,Villarreal CF B,Pro Duta F.C.,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Richardson Sears,mixed,3,0,1,0,3,Andrić Prize,APA Award for Distinguished Scientific Contributions to Psychology,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Robert Mougin,mixed,3,1,0,0,3,Pensioner,pensioner,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Edmond Crompton,mixed,3,1,0,0,3,Betsey Ann Kingston,Betsey Ann Kingston,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Michael C. De Siena,mixed,3,0,1,0,3,Eötvös Loránd University,University of Washington,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Allan Hookings,mixed,3,0,1,0,3,United States representative,Member of the South Australian Legislative Council,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Philip Wilkinson,mixed,3,0,0,0,1,"Philip Wilkinson currently or formerly holds the position of Police and Crime Commissioner for Wiltshire, England.",Wiltshire Police and Crime Commissioner,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Carson Reynolds,mixed,3,0,1,0,3,Weihenstephan-Triesdorf University of Applied Science,Massachusetts Institute of Technology,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Sandip Mukherjee,mixed,3,1,0,0,3,Visva-Bharati University,Visva-Bharati University,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Eumundi,mixed,3,0,0,0,3,Wide Bay,Ninderry,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Marko Cvikl,mixed,3,0,0,0,3,Italy,Slovenia,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Co-reading group ad hoc forum,mixed,3,0,0,0,3,landmark filing,filing,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Athar Hussain Bukhari,mixed,3,0,0,0,3,Ambassador,ambassador of Pakistan to Syria,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Automated capacity management using artificial intelligence techniques,mixed,3,0,0,0,,"Based on the information provided, I do not have enough reliable evidence to determine which significant event involved automated capacity management using artificial intelligence techniques. The sources presented do not provide a clear and consistent answer to the question. Therefore, I cannot confidently choose any of the agents' responses as the most trustworthy.",filing,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Tony Hodges,mixed,3,0,1,0,3,LFA Reggio Calabria,Boise State Broncos men's basketball,0.0,0
+multi_agent_debate,small-haiku,openrouter/anthropic/claude-3-haiku,Janet Auchincloss Rutherfurd,mixed,3,1,0,0,3,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,0.0,0

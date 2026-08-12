@@ -1,0 +1,6 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,judged,chosen_source,pred_object,gold_object,conflict_object,usd
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Jumanah Essa-Hadad,fact_conflict,2,1,0,0,,,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,National Library of Russia,0.003944
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Martin Lambie-Nairn,fact_conflict,2,1,0,0,,,Prince Philip Designers Prize,Prince Philip Designers Prize,GLAAD Stephen F. Kolzak Award,0.004818
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Lord William Hamilton,fact_conflict,2,0,1,0,,,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",Mary Hamilton Victoria Ignatia Bowlby,0.00846
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Eliezer Calo,fact_conflict,2,0,1,0,,,Yong Loo Lin School of Medicine,Massachusetts Institute of Technology,Yong Loo Lin School of Medicine,0.005792
+llm_judge,frontier-qwen38max,openrouter/qwen/qwen3.8-max,Denis Poix-Daude,fact_conflict,2,1,0,0,,,conseiller municipal de Jougne,conseiller municipal de Jougne,dean,0.005748

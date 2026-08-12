@@ -1,0 +1,101 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms,provider
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jumanah Essa-Hadad,699,125,0.001529,1779.8,Together
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Martin Lambie-Nairn,670,58,0.001193,1715.3,Venice
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Lord William Hamilton,679,380,0.001382,10985.3,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Eliezer Calo,695,172,0.001194,3683.5,Alibaba
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Denis Poix-Daude,614,108,0.000681,3373.8,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Michael Mylonas,694,163,0.000993,5539.4,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,François Carquet,650,258,0.001023,6936.1,DigitalOcean
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Wenqing He,500,109,0.000598,6881.4,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Gomorrah,691,166,0.000878,3892.1,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Reconfiguration of hardware components of an integrated circuit,684,277,0.001190,2151.0,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Guy Avenia,663,131,0.000467,4489.2,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Wuilmen Bravo,628,117,0.001171,5033.4,Morph
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Marie Joseph Jean Baptiste Paul Bouchet,683,82,0.000551,1872.3,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Shinzu,678,93,0.000778,3784.5,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Luwamo Garcia,625,45,0.000538,2120.0,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jared Carter,637,37,0.000337,1489.2,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Carlos Moorhead,685,97,0.000382,5780.5,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,New York News,683,811,0.001623,7708.6,Decart
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Hedda Heuser-Schreiber,678,90,0.000894,4687.7,Sail Research
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Ydnekatchew Tessema,709,64,0.000694,2160.9,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Chunguan Zhang,674,142,0.000770,2903.2,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Sander van de Hoef,602,126,0.001132,4394.2,Phala
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Katie Hurley,694,101,0.000977,2620.3,Alibaba
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Viktor Kruglov,694,84,0.000683,1854.8,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Dorian Owen,621,98,0.001106,3060.5,SiliconFlow
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Wong Chin Hung,639,100,0.001134,4537.7,SiliconFlow
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Amber Brian,537,155,0.001422,2528.6,Fireworks
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Taylor Beck,585,110,0.000651,1950.6,DigitalOcean
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Pierre Langlois,625,178,0.000457,6384.6,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,John Fenn,663,54,0.000641,2141.9,AkashML
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Fábio A L de Souza,699,87,0.000903,3192.8,Sail Research
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,George Samuel Parsons,645,67,0.000678,3685.4,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,David Poeppel,661,103,0.000704,4608.5,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Mission Terra,664,139,0.000267,2521.7,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Birgitta Larsson,627,94,0.001291,905.0,Friendli
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Stanisław Sienkiewicz,607,326,0.001573,4765.8,Sail Research
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Yordanis Enríquez Canto,695,647,0.000944,6761.7,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Manuel Garber,657,191,0.001530,8185.4,Ambient
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Gladys Liu,675,78,0.000702,1537.1,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Ewa Śnieżyńska-Stolot,658,190,0.001757,1946.2,Parasail
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Supergirl: Woman of Tomorrow,691,51,0.000602,2045.2,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jack Collison,693,282,0.002211,3686.2,Cloudflare
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Tomasz Jodłowiec,657,14,0.000648,2913.7,GMICloud
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Fritz Renner,689,108,0.001440,1497.6,Friendli
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Molly M Fuentes,607,66,0.000627,2039.8,AkashML
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Erol Sayan,666,76,0.000874,2049.6,Alibaba
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Thomas McCollum,666,101,0.000757,2558.0,AkashML
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jeff Reinert,701,272,0.001140,5732.7,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Anatolii Hirshfeld,699,78,0.000727,2248.7,AkashML
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,MiSafra LeSayfa,712,71,0.000740,3382.5,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Hunslet Penrhyn Port Class,693,56,0.001095,2019.6,AtlasCloud
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,The Adventures of Paddington Bear,673,537,0.001099,14798.6,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Keith Mackie,683,113,0.000226,2213.0,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Charles William Eliot,638,14,0.000630,3001.1,GMICloud
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Binyam Sisay Mendisu,697,48,0.000144,1152.8,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,José Pedro de Oliveira Galvão,707,155,0.000289,2288.7,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Sandi L. Navarro,582,112,0.001297,3396.8,Venice
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Mateo Cassierra,660,9,0.000636,2764.3,GMICloud
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Johann Friedrich Agricola,677,551,0.002106,21606.3,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Renée Reichová,709,386,0.002422,4709.8,Wafer
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Tina Leung,679,75,0.000650,2867.1,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Pamela Grassau,676,67,0.000283,2252.4,Decart
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jacques Adolphe Gervais-Lafond,708,132,0.000372,5940.0,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Mohammad Naghavi-behzad,673,86,0.001085,1209.0,Ambient
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Lourdes Mohedano,697,63,0.000262,3398.1,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Carmine Chiellino,672,87,0.000193,1842.5,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Thirty Years' War,683,603,0.002924,14190.8,Phala
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,The Ox,683,668,0.001318,21968.7,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jimmy Baker,656,58,0.000262,2969.3,Decart
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Ronald A Farrar-Tobar,531,67,0.000593,3481.3,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,James Pat Rokeby Black,655,40,0.000222,2687.2,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Andreas Højsleth,664,768,0.002363,4276.1,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Moe Z. Win,700,89,0.000196,1740.1,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Monisola Oginni,629,88,0.000727,3788.7,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Elvira R. Akhmetzyanova,596,76,0.001169,1433.1,BaseTen
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Kurt L. Feigl,715,93,0.000776,2825.9,AkashML
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Carl Temple Holden,681,57,0.000676,2499.8,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Nicola Zoccoli,521,291,0.001050,4300.1,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Marina Tarasova,659,201,0.001247,6055.4,Alibaba
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Thomas Dupré,628,104,0.000729,2400.6,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Jianmin Hao,708,147,0.000957,5720.3,Inceptron
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Romero Cabral da Costa,695,136,0.000270,3208.0,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Marcin Olszewski,657,181,0.000311,3709.4,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Danielle W Koontz,609,87,0.000822,3959.3,Sail Research
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Fajar Handika,680,56,0.000160,3306.1,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Robert Richardson Sears,572,73,0.000611,2547.5,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Robert Mougin,680,89,0.001344,4555.0,BaseTen
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Edmond Crompton,670,134,0.000833,2823.2,CoreWeave
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Michael C. De Siena,687,359,0.000772,8689.5,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Allan Hookings,608,80,0.000794,5641.7,GMICloud
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Philip Wilkinson,638,46,0.000137,3223.8,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Carson Reynolds,684,208,0.000342,4020.4,Baidu
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Sandip Mukherjee,712,101,0.000737,3337.6,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Eumundi,697,91,0.000757,4264.7,AkashML
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Marko Cvikl,616,69,0.001166,5861.1,Cloudflare
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Co-reading group ad hoc forum,646,171,0.000314,7883.0,StreamLake
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Athar Hussain Bukhari,669,146,0.001062,10216.8,Sail Research
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Automated capacity management using artificial intelligence techniques,704,316,0.001247,9317.2,DeepInfra
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Tony Hodges,610,130,0.001426,3481.3,Friendli
+llm_judge,adjudicate,openrouter/z-ai/glm-5.2,Janet Auchincloss Rutherfurd,701,83,0.000318,7987.8,Decart

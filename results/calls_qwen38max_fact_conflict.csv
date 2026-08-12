@@ -1,0 +1,11 @@
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms,provider
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Jumanah Essa-Hadad,1126,239,0.003686,5325.9,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Martin Lambie-Nairn,1224,358,0.004596,8047.0,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Lord William Hamilton,1251,864,0.007686,17199.7,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Eliezer Calo,1303,558,0.005954,12885.0,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Denis Poix-Daude,1176,587,0.005874,12291.6,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Michael Mylonas,1228,539,0.005690,10958.0,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,François Carquet,1178,261,0.003922,6656.5,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Wenqing He,1124,173,0.003286,4217.2,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Gomorrah,1274,350,0.004648,7453.5,Alibaba
+llm_judge,adjudicate,openrouter/qwen/qwen3.8-max,Reconfiguration of hardware components of an integrated circuit,1274,814,0.007432,16994.1,Alibaba

@@ -1,51 +1,110 @@
-resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jumanah Essa-Hadad,1204,239,0.000000,5552.7
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Martin Lambie-Nairn,1257,230,0.000000,6195.3
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Lord William Hamilton,1185,381,0.000000,10321.0
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Eliezer Calo,1194,300,0.000000,7399.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Denis Poix-Daude,1116,326,0.000000,8407.5
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Michael Mylonas,1192,321,0.000000,7453.5
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,François Carquet,1133,250,0.000000,6700.5
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Wenqing He,1007,170,0.000000,6455.2
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Gomorrah,1213,225,0.000000,5761.6
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Reconfiguration of hardware components of an integrated circuit,1200,293,0.000000,7660.5
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Guy Avenia,1167,326,0.000000,8802.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Wuilmen Bravo,1165,194,0.000000,5077.6
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Marie Joseph Jean Baptiste Paul Bouchet,1182,216,0.000000,7036.9
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Shinzu,1203,149,0.000000,4390.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Luwamo Garcia,1088,338,0.000000,9357.7
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jared Carter,1120,330,0.000000,9876.9
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Carlos Moorhead,1178,225,0.000000,5446.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,New York News,1046,285,0.000000,7345.7
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Hedda Heuser-Schreiber,1219,284,0.000000,6551.7
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Ydnekatchew Tessema,1210,204,0.000000,5265.1
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Chunguan Zhang,1239,352,0.000000,8481.1
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Sander van de Hoef,1121,265,0.000000,6286.2
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Katie Hurley,1194,165,0.000000,5204.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Viktor Kruglov,1165,275,0.000000,9381.5
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Dorian Owen,1103,253,0.000000,7532.9
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Wong Chin Hung,1129,333,0.000000,7478.3
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Amber Brian,945,211,0.000000,7818.4
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Taylor Beck,1041,165,0.000000,5216.9
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Pierre Langlois,1118,314,0.000000,9483.4
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,John Fenn,1030,160,0.000000,3932.6
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Fábio A L de Souza,1163,272,0.000000,7433.9
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,George Samuel Parsons,1200,200,0.000000,6299.7
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,David Poeppel,1116,190,0.000000,6606.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Mission Terra,1183,289,0.000000,9298.0
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Birgitta Larsson,943,334,0.000000,9196.3
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Stanisław Sienkiewicz,1111,331,0.000000,8145.5
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Yordanis Enríquez Canto,1257,366,0.000000,12983.1
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Manuel Garber,1218,287,0.000000,6737.1
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Gladys Liu,1179,268,0.000000,7437.3
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Ewa Śnieżyńska-Stolot,1137,291,0.000000,7037.1
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Supergirl: Woman of Tomorrow,1208,256,0.000000,9641.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jack Collison,1237,272,0.000000,8302.6
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Tomasz Jodłowiec,1087,364,0.000000,11149.1
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Fritz Renner,1201,366,0.000000,10881.3
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Molly M Fuentes,1079,180,0.000000,6800.3
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Erol Sayan,1158,261,0.000000,9285.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Thomas McCollum,1058,255,0.000000,8170.8
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Jeff Reinert,1212,258,0.000000,5633.7
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,Anatolii Hirshfeld,1182,204,0.000000,6955.9
-llm_judge,adjudicate,openrouter/anthropic/claude-sonnet-4.6,MiSafra LeSayfa,1254,210,0.000000,7057.9
+resolver,stage,model,inst_id,prompt_tokens,completion_tokens,usd,latency_ms,provider
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jumanah Essa-Hadad,1162,62,0.001824,1893.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Martin Lambie-Nairn,1167,94,0.002022,2438.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Lord William Hamilton,1167,109,0.002112,2796.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Eliezer Calo,1159,274,0.003092,3965.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Denis Poix-Daude,1094,157,0.002309,2969.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Michael Mylonas,1177,274,0.003115,4070.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,François Carquet,1133,9,0.001470,1586.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Wenqing He,968,53,0.001286,2332.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Gomorrah,1181,123,0.002214,3805.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Wuilmen Bravo,1133,321,0.003341,6244.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Marie Joseph Jean Baptiste Paul Bouchet,1088,433,0.003957,7255.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Shinzu,1174,159,0.002421,3889.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Luwamo Garcia,1122,353,0.003520,6357.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jared Carter,1111,279,0.003062,5627.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Carlos Moorhead,1190,113,0.002165,2665.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,New York News,1171,402,0.003875,6262.7,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Hedda Heuser-Schreiber,1157,477,0.004307,8115.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Ydnekatchew Tessema,1211,117,0.002215,2772.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Chunguan Zhang,1206,212,0.002779,4263.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Sander van de Hoef,1100,109,0.002028,2638.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Katie Hurley,1182,160,0.002437,2878.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Viktor Kruglov,1171,530,0.004643,8316.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Dorian Owen,1110,91,0.001933,1844.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Wong Chin Hung,1133,1219,0.008729,21986.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Amber Brian,1052,91,0.001860,2727.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Taylor Beck,1066,13,0.001410,1386.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,John Fenn,1165,48,0.001744,1838.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Fábio A L de Souza,1179,139,0.002307,2958.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,George Samuel Parsons,1179,10,0.001533,1232.7,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,David Poeppel,1066,97,0.001914,3223.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Mission Terra,1092,464,0.004148,7947.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Birgitta Larsson,913,80,0.001393,2288.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Stanisław Sienkiewicz,1119,241,0.002844,3993.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Yordanis Enríquez Canto,1189,188,0.002613,3645.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Manuel Garber,1142,335,0.003437,5722.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Gladys Liu,1152,64,0.001823,1687.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Ewa Śnieżyńska-Stolot,1110,459,0.004141,7443.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Supergirl: Woman of Tomorrow,1149,32,0.001628,1458.7,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jack Collison,1213,326,0.003472,5630.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Tomasz Jodłowiec,1048,256,0.002845,4772.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Fritz Renner,1147,149,0.002327,3816.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Molly M Fuentes,1010,82,0.001502,2175.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Erol Sayan,1156,315,0.003334,6335.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Thomas McCollum,1159,615,0.005138,9681.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jeff Reinert,1204,106,0.002140,2753.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Anatolii Hirshfeld,1181,79,0.001950,2074.7,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,MiSafra LeSayfa,1211,66,0.001909,2654.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Hunslet Penrhyn Port Class,1183,76,0.001934,2034.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,The Adventures of Paddington Bear,1161,102,0.002063,3490.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Keith Mackie,1137,264,0.003004,5341.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Charles William Eliot,1092,351,0.003470,5462.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Binyam Sisay Mendisu,1113,447,0.004072,7142.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,José Pedro de Oliveira Galvão,1223,105,0.002158,2552.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Sandi L. Navarro,1070,239,0.002771,4400.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Mateo Cassierra,1123,45,0.001673,1568.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Johann Friedrich Agricola,1138,94,0.001986,4185.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Renée Reichová,1078,251,0.002853,5090.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Tina Leung,1171,1046,0.007739,16934.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Pamela Grassau,1162,302,0.003264,5531.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jacques Adolphe Gervais-Lafond,1208,120,0.002229,2651.8,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Mohammad Naghavi-behzad,1171,72,0.001895,1859.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Lourdes Mohedano,1153,122,0.002172,2804.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Carmine Chiellino,1175,111,0.002134,2740.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,The Ox,1188,280,0.003164,4375.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jimmy Baker,1104,219,0.002693,4291.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Ronald A Farrar-Tobar,1026,64,0.001410,2737.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,James Pat Rokeby Black,1155,99,0.002037,2459.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Andreas Højsleth,1142,195,0.002597,3491.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Moe Z. Win,1178,106,0.002108,2462.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Monisola Oginni,1020,141,0.001866,3111.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Elvira R. Akhmetzyanova,1104,174,0.002423,3275.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Kurt L. Feigl,1210,153,0.002430,3010.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Carl Temple Holden,1149,56,0.001772,1762.4,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Nicola Zoccoli,1045,85,0.001816,3607.7,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Marina Tarasova,1139,93,0.001981,2232.8,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Thomas Dupré,1055,135,0.002128,3617.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Jianmin Hao,1216,116,0.002215,2630.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Romero Cabral da Costa,1103,1775,0.012028,28107.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Marcin Olszewski,1153,234,0.002844,4030.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Danielle W Koontz,1058,516,0.004418,9941.0,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Fajar Handika,1131,274,0.003057,4688.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Robert Richardson Sears,1081,81,0.001837,3410.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Robert Mougin,1172,129,0.002238,3104.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Edmond Crompton,1079,40,0.001588,1788.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Michael C. De Siena,1133,130,0.002195,2962.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Allan Hookings,978,15,0.001068,1073.8,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Philip Wilkinson,1119,80,0.001878,2322.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Carson Reynolds,1186,112,0.002154,4417.1,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Sandip Mukherjee,1112,115,0.002079,2347.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Eumundi,1212,98,0.002102,3982.2,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Marko Cvikl,1109,32,0.001577,2604.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Athar Hussain Bukhari,1179,849,0.006567,14024.9,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Tony Hodges,1101,73,0.001814,2125.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Janet Auchincloss Rutherfurd,1183,60,0.001838,1669.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Linda Bakker,1104,653,0.005297,11690.3,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Stanley Bruce Kennard,1059,53,0.001641,1679.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Pekka Nousiainen,1108,199,0.002578,3656.6,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Howard McCormick,1190,99,0.002081,2293.5,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Kevin Conboy,1054,1389,0.009651,19308.7,OpenAI
+llm_judge,adjudicate,openrouter/openai/gpt-5.6-terra,Denmark v Spain,1162,39,0.001686,1768.5,OpenAI
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,120,1,0.000031,867.1,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,120,1,0.000031,987.6,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,119,1,0.000031,1009.7,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,114,1,0.000030,1663.2,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,119,1,0.000031,1630.0,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,115,1,0.000030,910.3,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,124,1,0.000032,821.5,Google AI Studio
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,118,1,0.000031,1382.5,Google
+rescore,equivalence,openrouter/google/gemini-3.1-flash-lite,-,118,1,0.000031,1377.5,Google

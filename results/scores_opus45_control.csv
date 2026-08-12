@@ -1,0 +1,301 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,known,correct,misled,abstained,judged,chosen_source,pred_object,gold_object,conflict_object,usd
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jumanah Essa-Hadad,control,1,,1,0,0,,,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,National Library of Russia,0.00421
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Martin Lambie-Nairn,control,1,,1,0,0,,,Prince Philip Designers Prize,Prince Philip Designers Prize,GLAAD Stephen F. Kolzak Award,0.003945
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Lord William Hamilton,control,1,,0,0,0,,,Catherine Barlow,"Frances Vane, Viscountess Vane",Mary Hamilton Victoria Ignatia Bowlby,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Eliezer Calo,control,1,,1,0,0,,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,Yong Loo Lin School of Medicine,0.00411
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Denis Poix-Daude,control,1,,1,0,0,,,conseiller municipal de Jougne,conseiller municipal de Jougne,dean,0.003775
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Michael Mylonas,control,1,,1,0,0,,,King's Counsel,King's Counsel,member of the European Parliament,0.004085
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,François Carquet,control,1,,1,0,0,,,France,France,Ayutthaya Kingdom,0.003645
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Wenqing He,control,1,,1,0,0,,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",Memorial Sloan Kettering Cancer Center,0.0033
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Gomorrah,control,1,,1,0,0,,,Broadcast Film Critics Association Award for Best Foreign Language Film,Broadcast Film Critics Association Award for Best Foreign Language Film,Locus Award for Best Fantasy Novel,0.004175
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Reconfiguration of hardware components of an integrated circuit,control,1,,0,0,0,,,US patent 11256840,filing,construction,0.00393
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Guy Avenia,control,1,,0,0,0,,,politician,anciennes professions intermédiaires,pensioner,0.003815
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Wuilmen Bravo,control,1,,1,0,0,,,JHS Aves,JHS Aves,Grays Athletic F.C.,0.00379
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Marie Joseph Jean Baptiste Paul Bouchet,control,1,,1,0,0,,,sub-prefect of Saint-Affrique,sub-prefect of Saint-Affrique,vicar apostolic,0.004125
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Shinzu,control,1,,1,0,0,,,Hamamatsu,Hamamatsu,Roman Catholic Diocese of Tui-Vigo,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Luwamo Garcia,control,1,,1,0,0,,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,Vale of Leithen F.C.,0.003815
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jared Carter,control,1,,1,0,0,,,Kentucky Wildcats men's basketball,Kentucky Wildcats men's basketball,Pittsburgh Riverhounds SC,0.003835
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Carlos Moorhead,control,1,,1,0,0,,,United States representative,United States representative,Chief Secretary of South Australia,0.00392
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,New York News,control,1,,1,0,0,,,Mary Tyler Moore,Mary Tyler Moore,Yūka Kouri,0.00389
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hedda Heuser-Schreiber,control,1,,1,0,0,,,Paracelsus Medal of the German Medical Association,Paracelsus Medal of the German Medical Association,Michigan Notable Books,0.0042
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ydnekatchew Tessema,control,1,,1,0,0,,,Saint George SC,Saint George SC,Antigua Hawksbills,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Chunguan Zhang,control,1,,1,0,0,,,Xi'an Shiyou University,Xi'an Shiyou University,Leiden University,0.00424
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Sander van de Hoef,control,1,,1,0,0,,,University Medical Center Utrecht,University Medical Center Utrecht,Xi'an Jiaotong University,0.003545
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Katie Hurley,control,1,,0,0,0,,,Alaska House of Representatives,member of the Alaska House of Representatives,assistant resident,0.003985
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Viktor Kruglov,control,1,,1,0,0,,,FC Torpedo Moscow,FC Torpedo Moscow,Gloria Bistrița,0.00396
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Dorian Owen,control,1,,1,0,0,,,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,Male Actor in a Supporting Role,0.00367
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Wong Chin Hung,control,1,,1,0,0,,,Hong Kong Pegasus FC,Hong Kong Pegasus FC,FK Sloboda Užice,0.003805
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Amber Brian,control,1,,1,0,0,,,University of Iowa,University of Iowa,William Beaumont Army Medical Center,0.00313
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Taylor Beck,control,1,,1,0,0,,,Nashville Predators,Nashville Predators,Kansas City Current,0.00339
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pierre Langlois,control,1,,0,0,0,,,politician,anciens cadres,Catholic priest,0.003525
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,John Fenn,control,1,,1,0,0,,,Ellenor Fenn,Ellenor Fenn,Eliza Wiltbank,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Fábio A L de Souza,control,1,,1,0,0,,,Federal University of Espírito Santo,Federal University of Espírito Santo,Warsaw University of Technology,0.004205
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,George Samuel Parsons,control,1,,1,0,0,,,Royal Navy,Royal Navy,Armia Krajowa,0.003695
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,David Poeppel,control,1,,1,0,0,,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,Chungbuk National University,0.00397
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mission Terra,control,1,,1,0,0,,,Germany,Germany,Australia,0.00378
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Birgitta Larsson,control,1,,1,0,0,,,Sophiahemmet University College,Sophiahemmet University College,University Children's Hospital Basel,0.003855
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Stanisław Sienkiewicz,control,1,,1,0,0,,,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,University Medical Center Utrecht,0.00381
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Yordanis Enríquez Canto,control,1,,1,0,0,,,Universidad Católica Sedes Sapientiae,Universidad Católica Sedes Sapientiae,Harbin Engineering University,0.0044
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Manuel Garber,control,1,,1,0,0,,,Worcester Foundation for Biomedical Research,Worcester Foundation for Biomedical Research,University of Western Australia,0.004145
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Gladys Liu,control,1,,0,0,0,,,Australia,People's Republic of China,Italy,0.003795
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ewa Śnieżyńska-Stolot,control,1,,0,0,0,,,scientific professorship,scientific professorship degree,Doctor of Philosophy,0.003895
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Supergirl: Woman of Tomorrow,control,1,,1,0,0,,,English,English,Filipino,0.004015
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jack Collison,control,1,,1,0,0,,,West Ham United F.C.,West Ham United F.C.,Queens Park Rangers F.C.,0.004145
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Tomasz Jodłowiec,control,1,,1,0,0,,,Podbeskidzie Bielsko-Biała,Podbeskidzie Bielsko-Biała,SC Young Fellows Juventus,0.004345
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Fritz Renner,control,1,,1,0,0,,,Cognition and Brain Sciences Unit,Cognition and Brain Sciences Unit,University of Michigan,0.00414
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Molly M Fuentes,control,1,,1,0,0,,,University of Washington,University of Washington,University of Granada,0.00369
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Erol Sayan,control,1,,1,0,0,,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,Distinguished Service Cross,0.0039
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Thomas McCollum,control,1,,1,0,0,,,Agricultural Research Service,Agricultural Research Service,University of South Australia,0.003755
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jeff Reinert,control,1,,0,0,0,,,NCAA Division I,NCAA Division I men's basketball,Highland Football League,0.00405
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Anatolii Hirshfeld,control,1,,1,0,0,,,People's Deputy of Ukraine,People's Deputy of Ukraine,lord-lieutenant of Veszprém County,0.004065
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,MiSafra LeSayfa,control,1,,1,0,0,,,Hebrew,Hebrew,Spanish,0.00408
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hunslet Penrhyn Port Class,control,1,,1,0,0,,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,IR Ishikawa Railway,0.00407
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,The Adventures of Paddington Bear,control,1,,0,0,0,,,Canada,France,Italy,0.003815
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Keith Mackie,control,1,,0,0,0,,,NCAA Division I,NCAA Division I men's basketball,Luxembourg Division of Honour,0.00391
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Charles William Eliot,control,1,,1,0,0,,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,Amsterdam Vroedschap,0.00385
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Binyam Sisay Mendisu,control,1,,1,0,0,,,Global Young Academy,Global Young Academy,European Handball Federation,0.004015
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,José Pedro de Oliveira Galvão,control,1,,0,0,0,,,Senate of Brazil,member of the Senate of Brazil,member of the Senate of Romania,0.004055
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Sandi L. Navarro,control,1,,1,0,0,,,University of Washington,University of Washington,Interuniversity Microelectronics Centre,0.00344
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mateo Cassierra,control,1,,1,0,0,,,Deportivo Cali,Deportivo Cali,A.D. Portomosense,0.003985
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Johann Friedrich Agricola,control,1,,0,0,0,,,composer,lord of the manor,Catholic bishop,0.003715
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Renée Reichová,control,1,,1,0,0,1,,Prague,Prag V,Brno,0.004065
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Tina Leung,control,1,,1,0,0,,,Luo Yu,Luo Yu,Finn Collin,0.00418
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pamela Grassau,control,1,,1,0,0,,,Carleton University,Carleton University,University of Aveiro,0.004025
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jacques Adolphe Gervais-Lafond,control,1,,1,0,0,,,Sub-prefect of Nantua,Sub-prefect of Nantua,Governor of Maine,0.004305
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mohammad Naghavi-behzad,control,1,,1,0,0,,,Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,Goethe University Frankfurt,0.0041
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Lourdes Mohedano,control,1,,1,0,0,,,Medal of Andalusia,Medal of Andalusia,Oklahoma Music Hall of Fame,0.00405
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Carmine Chiellino,control,1,,1,0,0,1,,Adelbert-von-Chamisso-Preis,Adelbert von Chamisso Prize,Hall of Fame del calcio italiano - Calciatrice italiana,0.00419
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Thirty Years' War,control,1,,0,0,0,,,Wikipedia,Wikipedia:List of articles all languages should have,WikiProject PCC Wikidata Pilot\/Northwestern University Libraries,0.00387
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,The Ox,control,1,,1,0,0,,,The Who,The Who,Lys Assia,0.004
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jimmy Baker,control,1,,1,0,0,1,,municipal commissioner for the minority in Botkyrka municipality,"municipal commissioner for the minority in Botkyrka municipality, Sweden",Speaker of the Folketing,0.004015
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ronald A Farrar-Tobar,control,1,,1,0,0,,,TU Wien,TU Wien,Toronto Metropolitan University,0.00331
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,James Pat Rokeby Black,control,1,,1,0,0,,,Susan Elizabeth Bone,Susan Elizabeth Bone,John Herbert,0.003805
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Andreas Højsleth,control,1,,1,0,0,,,Fnatic,Fnatic,Arizona Wildcats men's basketball,0.00374
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Moe Z. Win,control,1,,1,0,0,,,IEEE Fellow,IEEE Fellow,Righteous Among the Nations,0.00398
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Monisola Oginni,control,1,,1,0,0,,,Obafemi Awolowo University,Obafemi Awolowo University,Weill Cornell Medicine,0.003995
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Elvira R. Akhmetzyanova,control,1,,1,0,0,,,Kazan Federal University,Kazan Federal University,Russian State Institute of Performing Arts,0.003565
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kurt L. Feigl,control,1,,1,0,0,,,University of Wisconsin–Madison,University of Wisconsin–Madison,Northwestern University,0.00412
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Carl Temple Holden,control,1,,1,0,0,,,Caroline Anne Gould,Caroline Anne Gould,Susan Frampton,0.003995
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Nicola Zoccoli,control,1,,0,0,0,,,Roman Catholic bishop,Catholic priest,association football player,0.00309
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Marina Tarasova,control,1,,0,0,0,,,Russia,Soviet Union,Slovenia,0.003705
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Thomas Dupré,control,1,,1,0,0,,,German Sport University Cologne,German Sport University Cologne,Imperial College London,0.003755
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jianmin Hao,control,1,,1,0,0,,,Inner Mongolia University of Technology,Inner Mongolia University of Technology,De Porceleyne Fles,0.004305
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Romero Cabral da Costa,control,1,,0,0,0,,,"Minister of Agriculture, Livestock, and Supply",minister of Agriculture,United States senator,0.00414
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Marcin Olszewski,control,1,,0,0,0,,,"Faculty of Chemistry, Gdańsk University of Technology",Gdańsk University of Technology,Karolinska Institutet,0.003995
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Danielle W Koontz,control,1,,1,0,0,,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,International Agency for Research on Cancer,0.00366
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Fajar Handika,control,1,,1,0,0,,,Pro Duta F.C.,Pro Duta F.C.,Villarreal CF B,0.004065
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Robert Richardson Sears,control,1,,1,0,0,,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,Andrić prize,0.003615
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Robert Mougin,control,1,,0,0,0,,,politician,pensioner,Catholic bishop,0.00393
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Edmond Crompton,control,1,,1,0,0,,,Betsey Ann Kingston,Betsey Ann Kingston,Ambrose Isted,0.003945
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Michael C. De Siena,control,1,,1,0,0,,,University of Washington,University of Washington,Eötvös Loránd University,0.004015
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Allan Hookings,control,1,,1,0,0,,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,United States representative,0.00358
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Philip Wilkinson,control,1,,1,0,0,1,,Police and Crime Commissioner for Wiltshire,Wiltshire Police and Crime Commissioner,member of the Chamber of Deputies of the Italian Republic,0.00389
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Carson Reynolds,control,1,,1,0,0,,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,Weihenstephan-Triesdorf University of Applied Science,0.003945
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Sandip Mukherjee,control,1,,1,0,0,,,Visva-Bharati University,Visva-Bharati University,Channel One Russia,0.004395
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Eumundi,control,1,,1,0,0,,,Ninderry,Ninderry,canton of Flixecourt,0.004115
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Marko Cvikl,control,1,,1,0,0,,,Slovenia,Slovenia,Kingdom of Italy,0.00349
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Co-reading group ad hoc forum,control,1,,0,0,0,,,US patent 11206149,filing,gift,0.003755
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Athar Hussain Bukhari,control,1,,1,0,0,,,Ambassador of Pakistan to Syria,ambassador of Pakistan to Syria,ambassador of the United Kingdom to Poland,0.00392
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Automated capacity management using artificial intelligence techniques,control,1,,0,0,0,,,US patent 11244466,filing,ascent,0.00405
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Tony Hodges,control,1,,1,0,0,,,Boise State Broncos men's basketball,Boise State Broncos men's basketball,LFA Reggio Calabria,0.00379
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Janet Auchincloss Rutherfurd,control,1,,1,0,0,,,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,Richard Wrightson,0.004225
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Linda Bakker,control,1,,1,0,0,,,AZ Alkmaar Vrouwen,AZ Alkmaar Vrouwen,Leicester Tigers,0.003955
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Stanley Bruce Kennard,control,1,,1,0,0,,,Constance Lucy Muriel Gorringe,Constance Lucy Muriel Gorringe,Dominique Trevin,0.003625
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pekka Nousiainen,control,1,,1,0,0,,,Savonlinna,Savonlinna,Moravské Budějovice,0.00373
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Howard McCormick,control,1,,1,0,0,1,,"Leonia, New Jersey",Leonia,Porvoo,0.0041
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kevin Conboy,control,1,,1,0,0,,,Esbjerg fB,Esbjerg fB,New Mexico Lobos men's basketball,0.004005
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Denmark v Spain,control,1,,1,0,0,,,UEFA,UEFA,World Rowing,0.0038
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,José I of Portugal,control,1,,1,0,0,1,,King of Portugal,Monarch of Portugal,managing editor,0.0039
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Glénay,control,1,,0,0,0,,,Val de Thouet,canton of Val de Thouet,canton of Saint-Aignan,0.00401
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Darío Acuña-Castroviejo,control,1,,1,0,0,,,University of Granada,University of Granada,International Atomic Energy Agency,0.003825
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mabel Hammond-Spencer,control,1,,1,0,0,,,Henry King Beauchamp,Henry King Beauchamp,Louisa Gordon,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ercole Durini di Monza,control,1,,1,0,0,,,Italy,Italy,Slovenia,0.00405
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pablo Quintana-Barcia,control,1,,1,0,0,,,University of Oviedo,University of Oviedo,University of Texas Health Science Center at Houston,0.004265
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mold materials for formed ceramic,control,1,,0,0,0,,,US patent 11207795,filing,ship breaking,0.004135
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Antonio Cappuccio,control,1,,1,0,0,,,Icahn School of Medicine at Mount Sinai,Icahn School of Medicine at Mount Sinai,Massachusetts General Hospital,0.004045
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jianqiang Gu,control,1,,1,0,0,,,Tianjin University,Tianjin University,University of Münster,0.00819
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jianqiang Gu,control,1,,1,0,0,,,Tianjin University,Tianjin University,"Institute of Biosciences, University of São Paulo",0.00819
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Christophe Paget,control,1,,1,0,0,,,French National Institute of Health and Medical Research,French National Institute of Health and Medical Research,Langley Porter Psychiatric Institute,0.00423
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Riitta Kukko,control,1,,1,0,0,,,Vesanto,Vesanto,New Zealand,0.003605
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Shing Leng Chan,control,1,,1,0,0,,,National University of Singapore,National University of Singapore,Novartis,0.00397
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Agathe Aëms,control,1,,1,0,0,,,Lucien Morisse,Lucien Morisse,Melanie Sarita Barclay,0.004215
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pat Asadu,control,1,,1,0,0,,,member of the House of Representatives of Nigeria,member of the House of Representatives of Nigeria,procureur de la République près le tribunal judiciaire de Nîmes,0.004035
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Diogo Tomé,control,1,,1,0,0,,,University of Coimbra,University of Coimbra,Heinrich Daniel Ruhmkorff,0.004275
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Eirik Skadsdammen,control,1,,1,0,0,,,Storhamar Hockey,Storhamar Hockey,Lamar Lady Cardinals basketball,0.003365
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Miriam Kaltenbach,control,1,,1,0,0,,,University of Cambridge,University of Cambridge,Perm Military Institute of Rocket Forces,0.004095
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Patrick Noubissié,control,1,,1,0,0,,,Crewe Alexandra F.C.,Crewe Alexandra F.C.,England national association football B team,0.0042
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jhon Viáfara,control,1,,1,0,0,,,Once Caldas,Once Caldas,F.C. Verbroedering Dender Eendracht Hekelgem,0.004135
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Simon Joseph Coren-Fustier,control,1,,1,0,0,,,deputy to the National Convention,deputy to the National Convention,Shadow Secretary of State for Energy and Climate Change,0.004105
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Tony Lindeberg,control,1,,1,0,0,,,Royal Institute of Technology,Royal Institute of Technology,Nicolaus Copernicus University in Toruń,0.003585
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Willem Nikolaas Becking,control,1,,1,0,0,,,military officer,military officer,Catholic bishop,0.003445
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jiho Kim,control,1,,1,0,0,,,University of Washington,University of Washington,Toi Whakaari,0.003915
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Edward Stuart H. Cox,control,1,,1,0,0,,,Rebekah Emily Abel Smith,Rebekah Emily Abel Smith,Zhang Zetian,0.00376
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ginette Michaux,control,1,,1,0,0,,,NL Gendergap maintenance,NL Gendergap maintenance,WikiProject Badminton\/tournament focus list,0.004305
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Christine M Wickens,control,1,,1,0,0,,,Centre for Addiction and Mental Health,Centre for Addiction and Mental Health,University of Chicago,0.00406
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hugo Hinck,control,1,,1,0,0,,,German Archaeological Institute,German Archaeological Institute,Royal Society,0.003785
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Wang Xinxin,control,1,,1,0,0,,,Tianjin Jinmen Tiger F.C.,Tianjin Jinmen Tiger F.C.,Club Atlético River Plate,0.004125
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Amalie Bodenheimer,control,1,,1,0,0,,,Theresienstadt Ghetto,Theresienstadt Ghetto,Waypoint Centre for Mental Health Care,0.004165
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Vincent Lefèvre,control,1,,1,0,0,,,archivist palaeographer,archivist palaeographer,habilitation,0.003965
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Carl Friedrich Eduard Otto,control,1,,0,0,0,,,Botanischer Garten Berlin,Cuba,Frankfurt,0.003805
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Malik Dime,control,1,,1,0,0,,,Washington Huskies men's basketball,Washington Huskies men's basketball,Carrarese Calcio,0.0041
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,William Coningsby,control,1,,1,0,0,,,Beatrix Thoresby,Beatrix Thoresby,Charles John Maitland Wilmoth,0.00414
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Adhering jig and adhering method,control,1,,0,0,0,,,US patent 11420431,filing,keel laying,0.00409
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Xosé Otero,control,1,,1,0,0,,,University of Santiago de Compostela,University of Santiago de Compostela,Yale University,0.003575
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Włodzimierz Mrówczyński,control,1,,1,0,0,,,Eugeniusz Piasecki Academy of Physical Education in Poznan,Eugeniusz Piasecki Academy of Physical Education in Poznan,Tsinghua University,0.004215
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Lela Rochon,control,1,,1,0,0,,,Antoine Fuqua,Antoine Fuqua,"Caroline Osborne, Duchess of Leeds",0.004015
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ben Lawes,control,1,,1,0,0,,,Dorset County Cricket Club,Dorset County Cricket Club,KS Cracovia,0.004115
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Lewis Gordon Mortimer,control,1,,1,0,0,,,Gertrude Mary Blanche Cunliffe,Gertrude Mary Blanche Cunliffe,Arthur Christopher Doggett,0.004185
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jay Harvey,control,1,,1,0,0,,,University of Texas Southwestern Medical Center,University of Texas Southwestern Medical Center,CityMD,0.00395
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Geraldine Dorman,control,1,,1,0,0,,,Charles Howard,Charles Howard,Richard Carrow,0.003275
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Joseph Eric Palmer,control,1,,1,0,0,,,High Sheriff of Devon,High Sheriff of Devon,"Bishop of Tuam, Killala and Achonry",0.0039
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Paul A. Smith,control,1,,1,0,0,,,Carleton University,Carleton University,National Taiwan University of Arts,0.003055
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Edgar Long,control,1,,1,0,0,,,Wales national rugby union team,Wales national rugby union team,Rochester New York FC,0.00395
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pichet In-bang,control,1,,1,0,0,,,Udon Thani F.C.,Udon Thani F.C.,FC Kuban Krasnodar,0.004185
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ann Baillie-Hamilton,control,1,,1,0,0,,,James Maxwell Sheridan,James Maxwell Sheridan,Sabastian Catena,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Silvanus Njambari,control,1,,1,0,0,,,Namibia national football team,Namibia national football team,FC TVMK Tallinn,0.00406
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hope Springs,control,1,,0,0,0,,,Hope Springs,Alex Kingston,Lisa Eilbacher,0.00383
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Yuanpeng Wang,control,1,,1,0,0,,,Xiamen Municipal Library,Xiamen Municipal Library,University of Washington,0.00403
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Marzieh Aghababaie,control,1,,1,0,0,,,University of Isfahan,University of Isfahan,University of Adelaide,0.003375
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Johann Alois Josef Hügel,control,1,,1,0,0,,,Anna von Holthof,Anna von Holthof,Nevile Martin Gwynne,0.0041
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Lubna Alzaroo,control,1,,1,0,0,,,University of Washington,University of Washington,National Film School of Denmark,0.002225
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Fraser I Hill,control,1,,1,0,0,,,City University of Hong Kong,City University of Hong Kong,University of Oxford,0.00347
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Constance Toulouse,control,1,,1,0,0,,,Paris Diderot University,Paris Diderot University,"University of Engineering and Technology, Peshawar",0.00413
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jérôme Buisson,control,1,,0,0,0,,,politician,technicians,Catholic priest,0.003855
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jackson Forbes,control,1,,0,0,0,,,NCAA Division I,NCAA Division I men's basketball,National Hockey League,0.003785
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,William Langdon,control,1,,1,0,0,,,San Francisco District Attorney,San Francisco District Attorney,sous-préfet de Sceaux,0.003485
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Timespinner,control,1,,0,1,0,,,English,French,English,0.0038
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Joseph Harley,control,1,,1,0,0,,,University of Leicester,University of Leicester,Evergreen State College,0.00345
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mehmet Sedef,control,1,,1,0,0,,,Beşiktaş J.K.,Beşiktaş J.K.,FC Universitatea Cluj,0.004255
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Walter Erich Schäfer,control,1,,1,0,0,,,Order of Merit of Baden-Württemberg,Order of Merit of Baden-Württemberg,Saint Henry Cross,0.003935
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Alfred Cochrane,control,1,,1,0,0,,,Oxford University Cricket Club,Oxford University Cricket Club,FC Sportist Svoge,0.00336
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Javier Frontiñán-Rubio,control,1,,1,0,0,,,University of Navarra,University of Navarra,Pacific Northwest National Laboratory,0.003905
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Eriton Egídio Lisboa Valente,control,1,,1,0,0,,,State University of West Paraná,State University of West Paraná,Duke University,0.004015
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Nóra Molnár G.,control,1,,1,0,0,,,Art Academy of Novi Sad University,Art Academy of Novi Sad University,Universidade Federal do Paraná,0.00413
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mark A. Lemmon,control,1,,1,0,0,,,Fellow of the Royal Society,Fellow of the Royal Society,Inserm Grand Prix,0.00415
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Venkatesham Tallapally,control,1,,1,0,0,,,Virginia Commonwealth University,Virginia Commonwealth University,University of Vienna,0.003245
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ilhet,control,1,,1,0,0,1,,"Neste, Aure et Louron","canton of Neste, Aure et Louron",canton of Nyons et Baronnies,0.004145
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Athanasios Toutoungi,control,1,,0,0,0,,,archbishop,Catholic priest,politician,0.004
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mount Roraima,control,1,,1,0,0,,,First ascent,first ascent,filing,0.00395
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Joseph H N Osei,control,1,,1,0,0,,,Noguchi Memorial Institute for Medical Research,Noguchi Memorial Institute for Medical Research,Broad Institute,0.00364
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Antony Luke Smith,control,1,,1,0,0,,,Penny Watts-Russell,Penny Watts-Russell,Mary Pat Christie,0.00339
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,David C Marciano,control,1,,1,0,0,,,Baylor College of Medicine,Baylor College of Medicine,Queensland Centre for Mental Health Research,0.00395
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,University of Córdoba,control,1,,1,0,0,,,Conference of Rectors of Spanish Universities,Conference of Rectors of Spanish Universities,Association of Research Libraries,0.00398
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ken Dugdale,control,1,,1,0,0,,,Wigan Athletic F.C.,Wigan Athletic F.C.,Australia national cricket team,0.004035
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Martie van der Loo,control,1,,1,0,0,,,NL Gendergap maintenance,NL Gendergap maintenance,WikiProject Badminton\/tournament focus list,0.004095
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Robert Bernard Martin,control,1,,1,0,0,,,Guggenheim Fellowship,Guggenheim Fellowship,Commander of the National Order of Merit,0.003915
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Melissa Segura,control,1,,1,0,0,,,George Polk Award,George Polk Award,Hungarian Golden Cross,0.00405
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Paddy Mulligan,control,1,,1,0,0,,,Galway United F.C.,Galway United F.C.,Modena F.C.,0.00409
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jesus Ernesto Hernandez,control,1,,1,0,0,,,"Faculty of Engineering, University of Nottingham","Faculty of Engineering, University of Nottingham",Albert Einstein College of Medicine,0.00282
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Giacomo Guidotti,control,1,,1,0,0,,,Pramac Racing,Pramac Racing,United States Naval Research Laboratory,0.004175
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ma Ke,control,1,,1,0,0,1,,China,People's Republic of China,Italy,0.003915
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Yonggang Zhao,control,1,,1,0,0,,,Nanjing University,Nanjing University,University of Technology Sydney Faculty of Science,0.003835
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Björn Gidstam,control,1,,1,0,0,,,Konstfack,Konstfack,University of York,0.00283
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Antonio Salieri,control,1,,1,0,0,,,court chapel master,court chapel master,"Minister of Education, Youth and Sports",0.0039
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Giovanni Di Rocco,control,1,,1,0,0,,,F.C. Crotone,F.C. Crotone,AS Marck,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Samuel Jesudoss,control,1,,1,0,0,,,YMCA College of Physical Education,YMCA College of Physical Education,National Autonomous University of Mexico Institute of Physics,0.003095
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kamini Avril,control,1,,1,0,0,,,Guggenheim Fellowship,Guggenheim Fellowship,Commander of the Order of the White Rose of Finland,0.00396
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Saška Mc Grath,control,1,,1,0,0,,,Slovenia,Slovenia,Kingdom of Italy,0.003885
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Belinda Wright,control,1,,1,0,0,,,University of Sydney,University of Sydney,Rutgers University–New Brunswick,0.003445
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Reconfigurable analog-to-digital conversion sampling of antennas for phase interferometry,control,1,,0,0,0,,,US patent 11131742,filing,trial,0.00414
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Elena V. Shorina,control,1,,1,0,0,,,Honored Lawyer of the RSFSR,Honored Lawyer of the RSFSR,Hero of the Soviet Union,0.00416
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Daniel Pezeril,control,1,,1,0,0,,,titular bishop,titular bishop,member of the Senate of Canada,0.00386
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Slavníkovců,control,1,,1,0,0,,,Slavník dynasty,Slavník dynasty,Stephen Wallace Dorsey,0.003775
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Andreas Ibrom,control,1,,1,0,0,,,Technical University of Denmark,Technical University of Denmark,University of Manchester,0.003795
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Iva Pazderková,control,1,,1,0,0,,,Gymnázium J.G.Mendela,Gymnázium J.G.Mendela,University of Texas at Austin,0.004115
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Émile Ricard,control,1,,1,0,0,,,bachelor's degree,bachelor's degree,Doctor of Philosophy,0.003975
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Marcel Morabito,control,1,,1,0,0,,,Paul Cézanne University,Paul Cézanne University,Hong Kong Polytechnic University,0.004125
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ferdinand Nicolai Roll,control,1,,1,0,0,,,Minister of Justice and Public Security,Minister of Justice and Public Security,director general,0.003995
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Seth Stammler,control,1,,1,0,0,,,New York Red Bulls,New York Red Bulls,Brampton Stallions,0.00393
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Giorgio Bubba,control,1,,1,0,0,,,Italy,Italy,Socialist Federal Republic of Yugoslavia,0.00376
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Oddone di Monferrato,control,1,,1,0,0,,,cardinal-bishop,cardinal-bishop,sub-prefect of Rambouillet,0.003525
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Insecure,control,1,,1,0,0,1,,United States,United States of America,Turkey,0.00403
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Australian Men's Interstate Teams Matches,control,1,,0,0,0,,,Australian Men's Interstate Teams Matches,Thomas McKay,Natalia Carvajal,0.004115
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,This Land Is Mine,control,1,,1,0,0,,,Academy Award for Best Sound,Academy Award for Best Sound,Knight of the Legion of Honour,0.00394
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Martín de Ascargorta Ladrón de Guevara,control,1,,0,0,0,,,Archbishop of Granada,Rector de la Universidad de Granada,member of the French National Assembly,0.004085
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Milada Steinová,control,1,,1,0,0,,,Zbiroh,Zbiroh,Lempäälä,0.004085
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kenny Harris,control,1,,1,0,0,,,Evansville Purple Aces men's basketball,Evansville Purple Aces men's basketball,Alfreton Town F.C.,0.004215
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Aligning a polarization device using a spatially variant polarization element,control,1,,0,0,0,,,US patent 11156755,filing,Holy orders,0.00413
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,HMS Striker,control,1,,0,0,0,,,Arctic convoys,ship commissioning,filing,0.00366
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Henrietta Wellesley,control,1,,1,0,0,,,Henry Richard Graves,Henry Richard Graves,Arthur Lynden-Bell,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Nikolai Grigorievich Verdun,control,1,,1,0,0,,,General Poruchik,general poruchik,Obersturmbannführer,0.00403
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hubert Hedworth Grenville-Wells,control,1,,1,0,0,,,Ethel Mary Croft,Ethel Mary Croft,Sverker I of Sweden,0.00411
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ensio Laine,control,1,,1,0,0,,,Order of Friendship,Order of Friendship,Bronze Wolf Award,0.00398
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Felix Bastians,control,1,,1,0,0,,,FC Halifax Town,FC Halifax Town,Esporte Clube São Luiz,0.00391
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Theodore Roosevelt Pell,control,1,,1,0,0,,,United States of America,United States of America,Soviet Union,0.00345
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Juan Ojeda Sanz,control,1,,1,0,0,,,Member of the European Parliament,member of the European Parliament,Member of the Committee on Justice,0.00397
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Meinard Tijdeman,control,1,,0,0,0,,,mathematician,military officer,pensioner,0.004025
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Giorgos Constanti,control,1,,1,0,0,,,AEL Limassol FC,AEL Limassol FC,Spartak Moscow,0.004105
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Grazac,control,1,,0,0,0,,,Auterive,canton of Auterive,canton of Quettreville-sur-Sienne,0.0034
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Array substrate and flexible display panel,control,1,,0,0,0,,,US patent 11195859,filing,repeal,0.00397
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,W. S. White,control,1,,1,0,0,,,Louise Madeline Campbell,Louise Madeline Campbell,Julia Stewart,0.003925
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jasmine Liu,control,1,,1,0,0,,,Tafuna High School,Tafuna High School,Complutense University of Madrid,0.00385
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kubiki,control,1,,1,0,0,,,Ōbuke,Ōbuke,Kontinental Hockey League,0.00399
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hynek Frankl,control,1,,1,0,0,,,Hodonín,Hodonín,Duisburg,0.004105
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Phillip Chorba,control,1,,1,0,0,,,Union College,Union College,Nanyang Technological University,0.002725
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jody Cantu,control,1,,1,0,0,,,Vanderbilt University Medical Center,Vanderbilt University Medical Center,Southern Arkansas University,0.00417
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Benedek,control,1,,1,0,0,,,diocesan bishop,diocesan bishop,Prefect of Alpes-Maritimes,0.0038
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ana Gabriela Borges,control,1,,0,0,0,,,Miss Distrito Federal 2022,Miss Distrito Federal,Miss Nebraska Teen USA,0.004
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,"Photomask blank, method of manufacturing photomask, and photomask",control,1,,0,0,0,,,US patent 11143949,filing,ship breaking,0.00399
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,La ambiciosa,control,1,,1,0,0,,,telenovela,telenovela,performance art,0.007585
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,La ambiciosa,control,1,,1,0,0,,,Mexico,Mexico,Israel,0.007585
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Peter Duck,control,1,,1,0,0,,,University of Manchester,University of Manchester,Moscow State University,0.003215
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Eileen Larney,control,1,,1,0,0,,,Stony Brook University,Stony Brook University,Tunghai University,0.00409
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Alireza Mansourian,control,1,,1,0,0,,,Balestier Khalsa FC,Balestier Khalsa FC,Switzerland national association football team,0.0039
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Abby Paterson,control,1,,1,0,0,,,University of Manchester,University of Manchester,Florida Atlantic University,0.003165
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mark Clougherty,control,1,,1,0,0,,,Dumbarton F.C.,Dumbarton F.C.,FC Fakel Voronezh,0.0041
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Arkaitz Zubiaga,control,1,,1,0,0,,,Queen Mary University of London,Queen Mary University of London,Sloan-Kettering Institute,0.0033
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Børge Hernes,control,1,,1,0,0,,,Rosenborg BK,Rosenborg BK,CR Vasco da Gama,0.00413
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Alissa Peterson,control,1,,1,0,0,,,"University of California, San Francisco School of Medicine","University of California, San Francisco School of Medicine",University of Manchester,0.00355
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jane Rowbotham,control,1,,1,0,0,,,Humphrey Arden,Humphrey Arden,Elizabeth Dalrymple,0.004245
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Blood Stained Blonde Tour,control,1,,1,0,0,,,Ethel Cain,Ethel Cain,James Horner,0.003255
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Alkylation process with thermal oxidation system,control,1,,0,0,0,,,US patent 11492306,filing,ship decommissioning,0.003795
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Piet Hagen,control,1,,1,0,0,1,,Dr. Joast Halbertsma Prize,Dr.Joast Halbertsma-prisen,Honored badge of merit of the President of Ukraine,0.004435
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kiyohashi,control,1,,1,0,0,,,Namie,Namie,Otepää Rural Municipality,0.003805
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Johan Wilhelm Lyckholm,control,1,,1,0,0,1,,member of the Second Chamber of the Riksdag,member of the Second Chamber,procurador en Cortes,0.00401
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Cicely Helen Prentice,control,1,,1,0,0,,,Frank Douglas Goodchild,Frank Douglas Goodchild,William Feilding,0.003885
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Danladi Baido,control,1,,1,0,0,,,member of the House of Representatives of Nigeria,member of the House of Representatives of Nigeria,auxiliary bishop,0.00408
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Buzz Lightyear of Star Command,control,1,,0,0,0,,,science fiction,science fiction television program,romance film,0.004085
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Extinct,control,1,,1,0,0,,,United States of America,United States of America,Germany,0.00382
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,KRIMI.DE,control,1,,1,0,0,,,Germany,Germany,France,0.00382
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Iris Prize,control,1,,0,0,0,,,Iris Prize,Dee Rees,Faustino Rupérez,0.003975
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jerry Hacker,control,1,,0,0,0,,,NCAA Division I,NCAA Division I men's basketball,Kakkonen,0.003455
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jengish Chokusu,control,1,,1,0,0,,,First ascent,first ascent,consent,0.00414
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Thomas de Freauville,control,1,,0,0,0,,,Bishop of Évreux,diocesan bishop,Member of the Diet of Galicia and Lodomeria,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Elena Krutenkova,control,1,,1,0,0,,,Tomsk State University,Tomsk State University,Juntendo University Urayasu Hospital,0.00409
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Naoko Mizuno,control,1,,1,0,0,,,University of Texas Southwestern Medical Center,University of Texas Southwestern Medical Center,Radboud University Nijmegen,0.00409
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Justin Hankins,control,1,,0,0,0,,,NCAA Division I,NCAA Division I men's basketball,NCAA Division I women's basketball,0.004065
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,J. C. Reid,control,1,,1,0,0,,,Constance Hilda Maude Bexley Vansittart,Constance Hilda Maude Bexley Vansittart,Rose Meronea Rendall,0.00445
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,William Anthony,control,1,,1,0,0,,,President's Award for Distinguished Federal Civilian Service,President's Award for Distinguished Federal Civilian Service,Person of Cultural Merit,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Philippa Langley,control,1,,1,0,0,,,Member of the Order of the British Empire,Member of the Order of the British Empire,Prêmio Jabuti,0.00394
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Dora Ann,control,1,,1,0,0,,,Richard James,Richard James,M. A. van Tijn,0.00297
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Joanna Lange,control,1,,1,0,0,1,,Bio-Prodict,Bio-Prodict (Netherlands),Medical University of Warsaw,0.00415
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Michael Dawson,control,1,,1,0,0,,,Academy Award for Best Visual Effects,Academy Award for Best Visual Effects,National Book Award for Fiction,0.004135
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Claudio C.F. Barbosa,control,1,,1,0,0,,,National Institute for Space Research,National Institute for Space Research,Columbia University Irving Medical Center,0.004275
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Saint Michael Archangel church in Starzyno,control,1,,1,0,0,,,construction,construction,consent,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Peter Bartels,control,1,,1,0,0,,,"University of California, Davis","University of California, Davis",Technical University of Munich,0.00274
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,James de Candole,control,1,,1,0,0,,,Rachel Ann Delaney,Rachel Ann Delaney,Jane Catherine Clark,0.00374
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Aufgemerkt! Pelzig unterhält sich,control,1,,1,0,0,,,talk show,talk show,documentary,0.00401
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,System and method for signal pre-processing based on data driven models and data dependent model transformation,control,1,,0,0,0,,,US patent 11443136,filing,confiscation,0.003995
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Kenji Arimitsu,control,1,,1,0,0,,,Kyoto Pharmaceutical University,Kyoto Pharmaceutical University,Escola Superior de Belas-Artes do Porto,0.00379
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Studentský spolek Babylon,control,1,,1,0,0,,,Prague,Prague,Pandrup,0.00353
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Haspres,control,1,,1,0,0,,,Jean-François Delattre,Jean-François Delattre,Lionel Mtshali,0.00401
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Pellegrino Prevete,control,1,,1,0,0,,,"Liceo Statale ""Enrico Medi""","Liceo Statale ""Enrico Medi""","Malaviya National Institute of Technology, Jaipur",0.002645
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Ahmed El-Nahass,control,1,,0,0,0,,,Egypt,Kingdom of Egypt,Kingdom of Italy,0.00389
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Instinct,control,1,,1,0,0,1,,United States,United States of America,Brazil,0.003935
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Joerg D. Heber,control,1,,1,0,0,,,University of Erlangen–Nuremberg,University of Erlangen–Nuremberg,Temple University,0.00273
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,María de los Llanos Castellanos Garijo,control,1,,1,0,0,,,member of the Assembly of Madrid,member of the Assembly of Madrid,Captaincy General of Santo Domingo,0.00389
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Patricia Champion,control,1,,0,0,0,,,politician,liberal profession,Catholic priest,0.00334
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Alain Chamfort,control,1,,1,0,0,,,Officer of the National Order of Merit,Officer of the National Order of Merit,Righteous Among the Nations,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Uhldingen-Mühlhofen,control,1,,1,0,0,,,Kommunale Informationsverarbeitung Reutlingen-Ulm,Kommunale Informationsverarbeitung Reutlingen-Ulm (KIRU),SGCNZ Young Shakespeare Company,0.00447
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Winifred Mary Cooper,control,1,,1,0,0,,,Nicolas Tindal-Carill-Worsley,Nicolas Tindal-Carill-Worsley,Christine Amanda Blake,0.004215
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Charlotte Christie,control,1,,1,0,0,,,James Stuart,James Stuart,Olivier-Clément Cacoub,0.00394
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Inferring user availability for a communication,control,1,,0,0,0,,,US patent 11128979,filing,building implosion,0.00404
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Monique A Foster,control,1,,1,0,0,,,Centers for Disease Control and Prevention,Centers for Disease Control and Prevention,Asklepios Klinik Wandsbek,0.00403
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jordan Weiter,control,1,,0,0,0,,,Miss Kentucky USA 2019,Miss Kentucky USA,Miss Michigan Teen USA,0.003945
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Fredrick Barton,control,1,,1,0,0,,,William Faulkner – William Wisdom Creative Writing Competition,William Faulkner – William Wisdom Creative Writing Competition,Premis València,0.00428
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Jörn Weisbrodt,control,1,,1,0,0,,,Rufus Wainwright,Rufus Wainwright,John Harvey Lovell,0.004195
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Mustafa Murad al-Dabbagh,control,1,,0,0,0,,,Palestine,Ottoman Empire,Tunisia,0.00402
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Sargis Hovsepyan,control,1,,1,0,0,,,FC Zenit Saint Petersburg,FC Zenit Saint Petersburg,Byåsen Toppfotball,0.004145
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,HMHS Rewa,control,1,,0,0,0,,,World War I,ship launching,decision,0.004065
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Fansie,control,1,,0,0,0,,,1718 capture of Blackbeard,navigation,filing,0.004085
+llm_judge,frontier-opus45,openrouter/anthropic/claude-opus-4.5,Hugh of Chalon,control,1,,0,0,0,,,prince-bishop of Liège,Roman Catholic Bishop of Liege,President of the Government of Aragon,0.00409

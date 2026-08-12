@@ -1,0 +1,75 @@
+resolver,model_tier,model,inst_id,conflict_type,n_sources,correct,misled,abstained,judged,chosen_source,pred_object,gold_object,conflict_object,usd
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Jumanah Essa-Hadad,mixed,2,1,0,0,,,Azrieli Faculty of Medicine,The Azrieli Faculty of Medicine,National Library of Russia,0.000612
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Martin Lambie-Nairn,mixed,2,1,0,0,,,Prince Philip Designers Prize,Prince Philip Designers Prize,GLAAD Stephen F. Kolzak Award,0.000647
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Lord William Hamilton,mixed,2,0,1,0,,,Mary Hamilton Victoria Ignatia Bowlby,"Frances Vane, Viscountess Vane",Mary Hamilton Victoria Ignatia Bowlby,0.000651
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Denis Poix-Daude,mixed,2,0,0,0,,,Dean of the École des Sciences Politiques de Lyon,conseiller municipal de Jougne,dean,0.0006145
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Michael Mylonas,mixed,2,1,0,0,,,King's Counsel,King's Counsel,member of the European Parliament,0.0006305
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,François Carquet,mixed,2,1,0,0,,,France,France,Ayutthaya Kingdom,0.0006
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Wenqing He,mixed,2,1,0,0,,,"The Chinese University of Hong Kong, Shenzhen","The Chinese University of Hong Kong, Shenzhen",Memorial Sloan Kettering Cancer Center,0.0005655
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Guy Avenia,mixed,2,0,0,0,,,Anciens cadres et professions intermédiaires,anciennes professions intermédiaires,pensioner,0.0006475
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Wuilmen Bravo,mixed,2,1,0,0,,,JHS Aves,JHS Aves,Grays Athletic F.C.,0.0006245
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Marie Joseph Jean Baptiste Paul Bouchet,mixed,2,1,0,0,,,sub-prefect of Saint-Affrique,sub-prefect of Saint-Affrique,vicar apostolic,0.0006205
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Shinzu,mixed,2,1,0,0,,,Hamamatsu,Hamamatsu,Roman Catholic Diocese of Tui-Vigo,0.000622
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Luwamo Garcia,mixed,2,1,0,0,,,Ethnikos Asteras F.C.,Ethnikos Asteras F.C.,Vale of Leithen F.C.,0.0005875
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Jared Carter,mixed,2,1,0,0,,,Kentucky Wildcats men's basketball,Kentucky Wildcats men's basketball,Pittsburgh Riverhounds SC,0.000643
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Carlos Moorhead,mixed,2,1,0,0,,,United States representative,United States representative,Chief Secretary of South Australia,0.000638
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Ydnekatchew Tessema,mixed,2,1,0,0,,,Saint George SC,Saint George SC,Antigua Hawksbills,0.000651
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Chunguan Zhang,mixed,2,1,0,0,,,Xi'an Shiyou University,Xi'an Shiyou University,Leiden University,0.000685
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Sander van de Hoef,mixed,2,0,1,0,,,Xi'an Jiaotong University,University Medical Center Utrecht,Xi'an Jiaotong University,0.0006
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Katie Hurley,mixed,2,0,0,0,,,Alaska House of Representatives,member of the Alaska House of Representatives,assistant resident,0.0006435
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Viktor Kruglov,mixed,2,0,1,0,,,Gloria Bistrița,FC Torpedo Moscow,Gloria Bistrița,0.0006195
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Dorian Owen,mixed,2,1,0,0,,,Life Member of the New Zealand Association of Economists,Life Member of the New Zealand Association of Economists,Male Actor in a Supporting Role,0.000634
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Wong Chin Hung,mixed,2,0,1,0,,,FK Sloboda Užice,Hong Kong Pegasus FC,FK Sloboda Užice,0.0006
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Taylor Beck,mixed,2,1,0,0,,,Nashville Predators,Nashville Predators,Kansas City Current,0.000563
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,John Fenn,mixed,2,1,0,0,,,Ellenor Fenn,Ellenor Fenn,Eliza Wiltbank,0.0005325
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Fábio A L de Souza,mixed,2,1,0,0,,,Federal University of Espírito Santo,Federal University of Espírito Santo,Warsaw University of Technology,0.0006185
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,George Samuel Parsons,mixed,2,1,0,0,,,Royal Navy,Royal Navy,Armia Krajowa,0.0006525
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,David Poeppel,mixed,2,1,0,0,,,Massachusetts Institute of Technology,Massachusetts Institute of Technology,Chungbuk National University,0.000582
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Mission Terra,mixed,2,1,0,0,,,Germany,Germany,Australia,0.000614
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Birgitta Larsson,mixed,2,1,0,0,,,Sophiahemmet University College,Sophiahemmet University College,University Children's Hospital Basel,0.000501
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Stanisław Sienkiewicz,mixed,2,1,0,0,,,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,University Medical Center Utrecht,0.000641
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Yordanis Enríquez Canto,mixed,2,1,0,0,,,Universidad Católica Sedes Sapientiae,Universidad Católica Sedes Sapientiae,Harbin Engineering University,0.0006615
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Manuel Garber,mixed,2,0,0,0,,,University of Massachusetts Medical School,Worcester Foundation for Biomedical Research,University of Western Australia,0.0006455
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Supergirl: Woman of Tomorrow,mixed,2,1,0,0,,,English,English,Filipino,0.000593
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Jack Collison,mixed,2,0,1,0,,,Queens Park Rangers F.C.,West Ham United F.C.,Queens Park Rangers F.C.,0.000723
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Tomasz Jodłowiec,mixed,2,1,0,0,,,Podbeskidzie Bielsko-Biała,Podbeskidzie Bielsko-Biała,SC Young Fellows Juventus,0.000586
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Molly M Fuentes,mixed,2,1,0,0,,,University of Washington,University of Washington,University of Granada,0.0005695
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Erol Sayan,mixed,2,1,0,0,,,Presidential Culture and Arts Grand Awards,Presidential Culture and Arts Grand Awards,Distinguished Service Cross,0.0006255
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Thomas McCollum,mixed,2,0,1,0,,,University of South Australia,Agricultural Research Service,University of South Australia,0.000592
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Anatolii Hirshfeld,mixed,2,1,0,0,,,People's Deputy of Ukraine,People's Deputy of Ukraine,lord-lieutenant of Veszprém County,0.0006415
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,MiSafra LeSayfa,mixed,2,1,0,0,,,Hebrew,Hebrew,Spanish,0.000652
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Hunslet Penrhyn Port Class,mixed,2,1,0,0,,,Penrhyn Quarry Railway,Penrhyn Quarry Railway,IR Ishikawa Railway,0.000624
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Charles William Eliot,mixed,2,1,0,0,,,Hellenic Philological Society of Constantinople,Hellenic Philological Society of Constantinople,Amsterdam Vroedschap,0.0006525
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Binyam Sisay Mendisu,mixed,2,1,0,0,,,Global Young Academy,Global Young Academy,European Handball Federation,0.000645
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Sandi L. Navarro,mixed,2,0,0,0,,,Fred Hutchinson Cancer Research Center,University of Washington,Interuniversity Microelectronics Centre,0.0005875
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Renée Reichová,mixed,2,0,1,0,,,Brno,Prag V,Brno,0.000667
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Tina Leung,mixed,2,1,0,0,,,Luo Yu,Luo Yu,Finn Collin,0.000622
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Pamela Grassau,mixed,2,1,0,0,,,Carleton University,Carleton University,University of Aveiro,0.000639
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Jacques Adolphe Gervais-Lafond,mixed,2,1,0,0,,,Sub-prefect of Nantua,Sub-prefect of Nantua,Governor of Maine,0.000656
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Mohammad Naghavi-behzad,mixed,2,1,0,0,,,Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,Goethe University Frankfurt,0.0006455
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Lourdes Mohedano,mixed,2,1,0,0,,,Medal of Andalusia,Medal of Andalusia,Oklahoma Music Hall of Fame,0.00061
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Carmine Chiellino,mixed,2,1,0,0,,,Adelbert von Chamisso Prize,Adelbert von Chamisso Prize,Hall of Fame del calcio italiano - Calciatrice italiana,0.000647
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,The Ox,mixed,2,1,0,0,,,The Who,The Who,Lys Assia,0.000637
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Ronald A Farrar-Tobar,mixed,2,1,0,0,,,TU Wien,TU Wien,Toronto Metropolitan University,0.000566
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,James Pat Rokeby Black,mixed,2,1,0,0,,,Susan Elizabeth Bone,Susan Elizabeth Bone,John Herbert,0.000615
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Andreas Højsleth,mixed,2,0,0,0,,,Astralis,Fnatic,Arizona Wildcats men's basketball,0.000602
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Moe Z. Win,mixed,2,1,0,0,,,IEEE Fellow,IEEE Fellow,Righteous Among the Nations,0.0006395
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Monisola Oginni,mixed,2,0,1,0,,,Weill Cornell Medicine,Obafemi Awolowo University,Weill Cornell Medicine,0.000571
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Elvira R. Akhmetzyanova,mixed,2,0,1,0,,,Russian State Institute of Performing Arts,Kazan Federal University,Russian State Institute of Performing Arts,0.000597
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Kurt L. Feigl,mixed,2,1,0,0,,,University of Wisconsin–Madison,University of Wisconsin–Madison,Northwestern University,0.000632
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Carl Temple Holden,mixed,2,0,1,0,,,Susan Frampton,Caroline Anne Gould,Susan Frampton,0.0006115
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Thomas Dupré,mixed,2,1,0,0,,,German Sport University Cologne,German Sport University Cologne,Imperial College London,0.000569
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Danielle W Koontz,mixed,2,1,0,0,,,Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,International Agency for Research on Cancer,0.000584
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Fajar Handika,mixed,2,0,1,0,,,Villarreal CF B,Pro Duta F.C.,Villarreal CF B,0.000623
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Robert Richardson Sears,mixed,2,1,0,0,,,APA Award for Distinguished Scientific Contributions to Psychology,APA Award for Distinguished Scientific Contributions to Psychology,Andrić prize,0.0005895
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Robert Mougin,mixed,2,0,1,0,,,Catholic bishop,pensioner,Catholic bishop,0.000596
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Edmond Crompton,mixed,2,1,0,0,,,Betsey Ann Kingston,Betsey Ann Kingston,Ambrose Isted,0.0005975
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Michael C. De Siena,mixed,2,1,0,0,,,University of Washington,University of Washington,Eötvös Loránd University,0.000598
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Allan Hookings,mixed,2,1,0,0,,,Member of the South Australian Legislative Council,Member of the South Australian Legislative Council,United States representative,0.0005675
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Carson Reynolds,mixed,2,0,0,0,,,MIT Media Lab,Massachusetts Institute of Technology,Weihenstephan-Triesdorf University of Applied Science,0.000609
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Sandip Mukherjee,mixed,2,1,0,0,,,Visva-Bharati University,Visva-Bharati University,Channel One Russia,0.000657
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Eumundi,mixed,2,1,0,0,,,Ninderry,Ninderry,canton of Flixecourt,0.0006375
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Marko Cvikl,mixed,2,1,0,0,,,Slovenia,Slovenia,Kingdom of Italy,0.000573
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Athar Hussain Bukhari,mixed,2,1,0,0,,,Ambassador of Pakistan to Syria,ambassador of Pakistan to Syria,ambassador of the United Kingdom to Poland,0.0006215
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Tony Hodges,mixed,2,0,1,0,,,LFA Reggio Calabria,Boise State Broncos men's basketball,LFA Reggio Calabria,0.0005975
+llm_judge,frontier-gemflash,openrouter/google/gemini-3-flash-preview,Janet Auchincloss Rutherfurd,mixed,2,1,0,0,,,Lewis Polk Rutherfurd,Lewis Polk Rutherfurd,Richard Wrightson,0.000663

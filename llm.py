@@ -9,7 +9,7 @@ import os
 import sys
 import time
 import random
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from typing import List
 
 try:
@@ -18,6 +18,7 @@ except ImportError:
     completion = None
 from types import SimpleNamespace
 import httpx
+import config
 
 
 @dataclass
@@ -30,7 +31,29 @@ class CallLog:
     completion_tokens: int
     usd: float
     latency_ms: float
-    text: str = field(default="", repr=False)
+    provider: str = ""
+
+
+def _api_base() -> str:
+    """OpenRouter base URL. `.env` ships OPENROUTER_API_BASE as an empty string, and
+    os.getenv(key, default) returns that empty string rather than the default — which
+    made every request go to a bare '/chat/completions' and fail with UnsupportedProtocol.
+    Treat empty/whitespace as unset."""
+    return (os.getenv("OPENROUTER_API_BASE") or "").strip() or "https://openrouter.ai/api/v1"
+
+
+# prefix -> environment variable holding that provider's key.
+_KEY_VAR = {"openrouter/": "OPENROUTER_API_KEY",
+            "openai/": "OPENAI_API_KEY",
+            "anthropic/": "ANTHROPIC_API_KEY"}
+
+
+def _require_key(prefix: str, model: str) -> str:
+    key = os.getenv(_KEY_VAR[prefix])
+    if not key:
+        raise RuntimeError(f"Missing {_KEY_VAR[prefix]} for model '{model}'. "
+                           f"Set it in .env or switch to a model you have a key for.")
+    return key
 
 
 def _provider_kwargs(model: str, prompt: str, temperature: float, max_tokens: int, seed: int) -> dict:
@@ -41,42 +64,23 @@ def _provider_kwargs(model: str, prompt: str, temperature: float, max_tokens: in
             model = f"anthropic/{model}"
         else:
             raise RuntimeError(
-                f"Model '{model}' is missing a provider prefix. Use a value like 'openrouter/meta-llama/llama-3.2-3b-instruct' or 'openai/gpt-4o-mini'."
-            )
+                f"Model '{model}' is missing a provider prefix. Use a value like "
+                f"'openrouter/meta-llama/llama-3.2-3b-instruct' or 'openai/gpt-4o-mini'.")
 
+    prefix = next((p for p in _KEY_VAR if model.startswith(p)), None)
+    if prefix is None:
+        raise RuntimeError(f"Unsupported provider for model '{model}'. "
+                           f"Use openrouter/, openai/, or anthropic/.")
     kwargs = {
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": temperature,
         "max_tokens": max_tokens,
         "seed": seed,
+        "api_key": _require_key(prefix, model),
     }
-    if model.startswith("openrouter/"):
-        kwargs["api_base"] = os.getenv("OPENROUTER_API_BASE", "https://openrouter.ai/api/v1")
-        key = os.getenv("OPENROUTER_API_KEY")
-        if not key:
-            raise RuntimeError(
-                f"Missing OPENROUTER_API_KEY for model '{model}'. Set it in your environment or switch back to a configured model."
-            )
-        kwargs["api_key"] = key
-    elif model.startswith("openai/") or model.startswith("gpt-") or model.startswith("o1") or model.startswith("o3"):
-        key = os.getenv("OPENAI_API_KEY")
-        if not key:
-            raise RuntimeError(
-                f"Missing OPENAI_API_KEY for model '{model}'. Set it in your environment or switch to an OpenRouter model."
-            )
-        kwargs["api_key"] = key
-    elif model.startswith("anthropic/"):
-        key = os.getenv("ANTHROPIC_API_KEY")
-        if not key:
-            raise RuntimeError(
-                f"Missing ANTHROPIC_API_KEY for model '{model}'. Set it in your environment or choose another model."
-            )
-        kwargs["api_key"] = key
-    else:
-        raise RuntimeError(
-            f"Unsupported provider for model '{model}'. Use openrouter/, openai/, or anthropic/."
-        )
+    if prefix == "openrouter/":
+        kwargs["api_base"] = _api_base()
     return kwargs
 
 
@@ -120,13 +124,12 @@ def chat(prompt: str, model: str, *, resolver: str, stage: str, inst_id: str,
         raise ValueError("No model configured. Update config.MODELS with a valid provider-prefixed model name.")
     for attempt in range(MAX_ATTEMPTS):
         t0 = time.perf_counter()
+        served_by = ""
         try:
             # direct OpenRouter HTTP call for openrouter/ models (avoids litellm provider noise)
             if model.startswith("openrouter/"):
-                api_base = os.getenv("OPENROUTER_API_BASE", "https://openrouter.ai/api/v1")
-                key = os.getenv("OPENROUTER_API_KEY")
-                if not key:
-                    raise RuntimeError(f"Missing OPENROUTER_API_KEY for model '{model}'. Set it in your environment.")
+                api_base = _api_base()
+                key = _require_key("openrouter/", model)
                 # strip provider prefix for the remote model id
                 model_id = model.split("/", 1)[1]
                 payload = {
@@ -134,18 +137,30 @@ def chat(prompt: str, model: str, *, resolver: str, stage: str, inst_id: str,
                     "messages": [{"role": "user", "content": prompt}],
                     "temperature": temperature,
                     "max_tokens": max_tokens,
+                    "seed": seed,   # was omitted here, so no run was actually seeded
+                    # ask OpenRouter to price the call. litellm's completion_cost()
+                    # cannot price the SimpleNamespace we build below, so it always
+                    # fell through to 0.0 and every usd column was empty.
+                    "usage": {"include": True},
                 }
                 if OPENROUTER_IGNORE_PROVIDERS:
                     payload["provider"] = {"ignore": OPENROUTER_IGNORE_PROVIDERS}
+                if config.REASONING_EFFORT:
+                    payload["reasoning"] = {"effort": config.REASONING_EFFORT}
                 headers = {"Authorization": f"Bearer {key}"}
-                r = httpx.post(f"{api_base}/chat/completions", json=payload, headers=headers, timeout=60.0)
+                r = httpx.post(f"{api_base}/chat/completions", json=payload,
+                               headers=headers, timeout=config.REQUEST_TIMEOUT)
                 r.raise_for_status()
                 j = r.json()
                 text = j.get("choices", [{}])[0].get("message", {}).get("content", "")
                 usage = j.get("usage", {})
+                # which backend actually served this call — quantization and therefore
+                # output can differ between providers for the same model slug
+                served_by = j.get("provider", "")
                 resp = SimpleNamespace(
                     usage=SimpleNamespace(prompt_tokens=usage.get("prompt_tokens", 0),
-                                          completion_tokens=usage.get("completion_tokens", 0)),
+                                          completion_tokens=usage.get("completion_tokens", 0),
+                                          cost=usage.get("cost")),
                     choices=[SimpleNamespace(message=SimpleNamespace(content=text))]
                 )
             else:
@@ -167,12 +182,14 @@ def chat(prompt: str, model: str, *, resolver: str, stage: str, inst_id: str,
             return ""
         latency_ms = (time.perf_counter() - t0) * 1000.0
         u = resp.usage
-        try:
-            usd = completion_cost(completion_response=resp)
-        except Exception:
-            usd = 0.0
+        usd = getattr(u, "cost", None)       # OpenRouter prices the call for us
+        if usd is None:
+            try:
+                usd = completion_cost(completion_response=resp)
+            except Exception:
+                usd = 0.0
         text = resp.choices[0].message.content or ""
-        log.append(CallLog(resolver, stage, model, inst_id,
-                           u.prompt_tokens, u.completion_tokens, usd, latency_ms, text))
+        log.append(CallLog(resolver, stage, model, inst_id, u.prompt_tokens,
+                           u.completion_tokens, usd, latency_ms, served_by))
         return text
     return ""  # exhausted retries with no success
